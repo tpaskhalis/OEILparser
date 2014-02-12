@@ -25,7 +25,8 @@ def parse_info(inputcsv_path, outputcsv_path):
     infolist = open(outputcsv_path, "w")
     csvwriter = csv.writer(infolist)
     csvwriter.writerow(['Code','Title', 'Link', 'CommitteeAbr', 
-                        'CommitteeFull', 'Rapporteur Party', 'Rapporteur',
+                        'CommitteeFull', 'Rapporteur PartyAbr', 'Rapporteur PartyFull',
+                        'Rapporteur', 'Commission DG', 'Commissioner',
                         'Date Committee Draft Report', 'Date Committee report tabled for plenary'
                         'Date Text adopted by Parliament', 'Code Text adopted by Parliament',
                         'Link Text adopted by Parliament', 'Link Summary'])    
@@ -42,28 +43,47 @@ def parse_info(inputcsv_path, outputcsv_path):
         acronym = table.find('acronym', 'acronym_nohelp')
         committee = table.find('span', 'players_committee_text')
         group = table.find('span', 'tiptip')
+        grouptitle = [unicode(group['title'])]
+        if not group.string:
+            group = [u'NA']
+        else:
+            group = group.contents
         rapporteur = table.find('span', 'players_rapporter_text')
+        
+        if table.find(title="European Commission"):
+            commissioncell = table.find(title="European Commission")
+            commissionrow = commissioncell.parent.parent
+            commission = commissionrow.find(class_="players_committee").find(class_="players_content")
+            commission = [next(commission.stripped_strings)]
+            if commissionrow.find(class_="players_rapporter_com").find(class_="players_content"):
+                commissioner = commissionrow.find(class_="players_rapporter_com").find(class_="players_content")
+                commissioner = commissioner.contents
+            else:
+                commissioner = [u'NA']
+        else:
+            commission, commissioner = [u'NA'], [u'NA']
         
         table = soup.find('table', id='doc_gateway')
         for descendant in table.tbody.descendants:
-#            This workaround works for now but I don't like isinstance test
             if isinstance(descendant, bs4.element.Tag) and descendant.td:
                 if descendant.td.string == u'Committee draft report':
                     draftdate = descendant.find('td', 'event_column_r column_top')
                 elif descendant.td.string == u'Committee report tabled for plenary, single reading':
                     reportdate = descendant.find('td', 'event_column_r column_top')
                 elif descendant.td.string == u'Text adopted by Parliament, single reading':
-                    adoptednum = descendant.find('td', 'event_column_document column_top')
                     adopteddate = descendant.find('td', 'event_column_r column_top')
+                    adoptednum = descendant.find('td', 'event_column_document column_top')
+                    adoptedlink = [unicode(adoptednum.a['href'])]
                     summaryurl = descendant.find('a', title='Summary for Text adopted by Parliament, single reading')
                 else:
                     continue
         
         csvwriter.writerow(reference.contents + title.contents + [url] + acronym.contents 
-                            + [next(committee.stripped_strings)] + group.contents 
-                            + [rapporteur.string] + draftdate.contents + reportdate.contents
+                            + [next(committee.stripped_strings)] + group + grouptitle
+                            + [rapporteur.string] + commission + commissioner
+                            + draftdate.contents + reportdate.contents
                             + adopteddate.contents + [next(adoptednum.stripped_strings)] 
-                            + [unicode(adoptednum.a['href'])] + [(unicode('http://www.europarl.europa.eu/') + summaryurl['href'])])
+                            + adoptedlink + [(unicode('http://www.europarl.europa.eu/') + summaryurl['href'])])
         url = urllist.readline()[:-2]
     urllist.close()
     infolist.close()
