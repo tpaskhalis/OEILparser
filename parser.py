@@ -30,7 +30,8 @@ def parse_info(inputcsv_path, outputcsv_path):
                         'Date Committee Draft Report', 'Date Committee report tabled for plenary',
                         'Date Text adopted by Parliament', 'Code Text adopted by Parliament',
                         'Link Text adopted by Parliament', 'Link Summary', 'Date Commission response',
-                        'Code Commission response', 'Link Commission response', 'Techref', 'Techtype',
+                        'Code Commission response', 'Link Commission response', 'Date Commission response2',
+                        'Code Commission response2', 'Link Commission response2', 'Techref', 'Techtype',
                         'Techsubtype', 'Techbasis', 'Techstage', 'Techdossier'])    
     
     url = urllist.readline()[:-2]
@@ -44,13 +45,19 @@ def parse_info(inputcsv_path, outputcsv_path):
         table = soup.find('table', id='key_players')
         acronym = table.find('acronym', 'acronym_nohelp')
         committee = table.find('span', 'players_committee_text')
-        group = table.find('span', 'tiptip')
-        grouptitle = [unicode(group['title'])]
-        if not group.string:
-            group = [u'NA']
+        if table.find('span', 'tiptip'):
+            group = table.find('span', 'tiptip')
+            grouptitle = [unicode(group['title'])]
+            if not group.string:
+                group = [u'NA']
+            else:
+                group = group.contents
         else:
-            group = group.contents
-        rapporteur = table.find('span', 'players_rapporter_text')
+            group, grouptitle = [u'NA'], [u'NA']
+        if table.find('span', 'players_rapporter_text'):
+            rapporteur = [table.find('span', 'players_rapporter_text').string]
+        else:
+            rapporteur = [u'NA']
         
         if table.find(title="European Commission"):
             commissioncell = table.find(title="European Commission")
@@ -68,6 +75,9 @@ def parse_info(inputcsv_path, outputcsv_path):
         for table in soup.findAll('table', id='doc_gateway'):
             for sibling in table.findPreviousSiblings():
                 if sibling.text == u'All':
+                    commissiondate = [u'NA', u'NA']
+                    commissioncode = [u'NA', u'NA']
+                    commissionurl = [u'NA', u'NA']
                     for descendant in table.tbody.descendants:
                         if isinstance(descendant, bs4.element.Tag) and descendant.td:
                             if descendant.td.string == u'Committee draft report':
@@ -79,13 +89,21 @@ def parse_info(inputcsv_path, outputcsv_path):
                                 adopteddate = descendant.find('td', 'event_column_r column_top')
                                 adoptedlink = [unicode(adoptedcode.a['href'])]
                                 summaryurl = descendant.find('a', title='Summary for Text adopted by Parliament, single reading')
-                            elif descendant.td.string == u'Commission response to text adopted in plenary':
-                                commissiondate = descendant.find('td', 'event_column_r column_top')
-                                commissioncode = descendant.find('td', 'event_column_document column_top')
-                                commissionurl = [unicode('http://www.europarl.europa.eu/' + commissioncode.a['href'])]
-                            else:
-                                continue
-                
+                            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] == u'NA':
+                                commissiondate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
+                                commissioncode[0] = descendant.find('td', 'event_column_document column_top')
+                                if commissioncode[0].a:
+                                    commissionurl[0] = unicode('http://www.europarl.europa.eu/' + commissioncode[0].a['href'])
+                                commissioncode[0] = next(commissioncode[0].stripped_strings)
+                            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] != u'NA':
+                                commissiondate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
+                                commissioncode[1] = descendant.find('td', 'event_column_document column_top')
+                                if commissioncode[1].a:
+                                    commissionurl[1] = unicode('http://www.europarl.europa.eu/' + commissioncode[1].a['href'])
+                                commissioncode[1] = next(commissioncode[1].stripped_strings)
+                        else:
+                            continue
+                        
         table = soup.find('table', id='technicalInformations')
         techreference = table.find('td', class_="column_center")
         tech = table.findAll('td', class_="column_center column_top")
@@ -93,11 +111,11 @@ def parse_info(inputcsv_path, outputcsv_path):
         
         csvwriter.writerow(reference.contents + title.contents + [url] + acronym.contents 
                             + [next(committee.stripped_strings)] + group + grouptitle
-                            + [rapporteur.string] + commission + commissioner
+                            + rapporteur + commission + commissioner
                             + draftdate.contents + reportdate.contents
                             + adopteddate.contents + [next(adoptedcode.stripped_strings)] 
                             + adoptedlink + [(unicode('http://www.europarl.europa.eu/') + summaryurl['href'])]
-                            + commissiondate.contents + [next(commissioncode.stripped_strings)] + commissionurl + techreference.contents + tech)
+                            + commissiondate + commissioncode + commissionurl + techreference.contents + tech)
         url = urllist.readline()[:-2]
     urllist.close()
     infolist.close()
@@ -110,4 +128,4 @@ def parse_info(inputcsv_path, outputcsv_path):
 #parse_links('./data/20092014.xml', './data/urls.csv')
 
 #parse_info("./data/short_urls.csv", "./data/short_info.csv")
-#parse_info("./data/urls.csv", "./data/info.csv")
+parse_info("./data/urls.csv", "./data/info.csv")
