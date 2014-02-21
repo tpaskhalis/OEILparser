@@ -1,6 +1,7 @@
 #from bs4 import BeautifulSoup
 import bs4
 import csv
+import re
 import urllib2
 import os.path
 
@@ -19,6 +20,19 @@ def parse_links(inputxml_path, outputcsv_path):
         csvwriter.writerow([url])
     xmlfile.close()
     urllist.close()
+
+#The OEIL database is not perfect, thus there can be some duplicates after parsing 
+#several xml files. This function removes duplicates by converting list of urls 
+#into dictionary, using a procedure reference code as a key.
+def check_duplicates(inputcsv_path, outputcsv_path):
+    with open(inputcsv_path, "r") as f:
+        urllist = [url[0] for url in csv.reader(f)]
+        pattern = re.compile(r"[0-9]{4}/[0-9]{4}\(INI\)")
+        urldict = {re.search(pattern, url).group():url for url in urllist}
+    with open(outputcsv_path, "w") as f:
+        for value in urldict.values():
+            csvwriter = csv.writer(f)
+            csvwriter.writerow([value])
     
 def parse_info(inputcsv_path, outputcsv_path):
     urllist = open(inputcsv_path, "r")
@@ -126,6 +140,6 @@ def parse_info(inputcsv_path, outputcsv_path):
 #parse_links('./data/2009.xml', './data/urls.csv')
 #parse_links('./data/20042009.rss', './data/urls.csv')
 #parse_links('./data/20092014.xml', './data/urls.csv')
-
+#check_duplicates('./data/urls.csv', './data/urls.csv')
 #parse_info("./data/short_urls.csv", "./data/short_info.csv")
-parse_info("./data/urls.csv", "./data/info.csv")
+#parse_info("./data/urls.csv", "./data/info.csv")
