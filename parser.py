@@ -44,8 +44,8 @@ def parse_info(inputcsv_path, outputcsv_path):
                         'Date Committee Draft Report', 'Date Committee report tabled for plenary',
                         'Date Text adopted by Parliament', 'Code Text adopted by Parliament',
                         'Link Text adopted by Parliament', 'Link Summary', 'Date Commission response',
-                        'Code Commission response', 'Link Commission response', 'Date Commission response2',
-                        'Code Commission response2', 'Link Commission response2', 'Techref', 'Techtype',
+                        'Date Commission response2','Code Commission response', 'Code Commission response2',
+                        'Link Commission response', 'Link Commission response2', 'Techref', 'Techtype',
                         'Techsubtype', 'Techbasis', 'Techstage', 'Techdossier'])    
     
     url = urllist.readline()[:-2]
@@ -73,13 +73,13 @@ def parse_info(inputcsv_path, outputcsv_path):
         else:
             rapporteur = [u'NA']
         
-        if table.find(title="European Commission"):
-            commissioncell = table.find(title="European Commission")
+        if table.find(title='European Commission'):
+            commissioncell = table.find(title='European Commission')
             commissionrow = commissioncell.parent.parent
-            commission = commissionrow.find(class_="players_committee").find(class_="players_content")
+            commission = commissionrow.find('td','players_committee').find('p','players_content')
             commission = [next(commission.stripped_strings)]
-            if commissionrow.find(class_="players_rapporter_com").find(class_="players_content"):
-                commissioner = commissionrow.find(class_="players_rapporter_com").find(class_="players_content")
+            if commissionrow.find('td','players_rapporter_com').find('p','players_content'):
+                commissioner = commissionrow.find('td','players_rapporter_com').find('p','players_content')
                 commissioner = commissioner.contents
             else:
                 commissioner = [u'NA']
@@ -119,8 +119,8 @@ def parse_info(inputcsv_path, outputcsv_path):
                             continue
                         
         table = soup.find('table', id='technicalInformations')
-        techreference = table.find('td', class_="column_center")
-        tech = table.findAll('td', class_="column_center column_top")
+        techreference = table.find('td', 'column_center')
+        tech = table.findAll('td', 'column_center column_top')
         tech = [t.contents[0] for t in tech]
         
         csvwriter.writerow(reference.contents + title.contents + [url] + acronym.contents 
