@@ -24,7 +24,7 @@ def parse_links(inputxml_path, outputcsv_path):
 #The OEIL database is not perfect, thus there can be some duplicates after parsing 
 #several xml files. This function removes duplicates by converting list of urls 
 #into dictionary, using a procedure reference code as a key.
-def check_duplicates(inputcsv_path, outputcsv_path):
+def remove_duplicates(inputcsv_path, outputcsv_path):
     with open(inputcsv_path, "r") as f:
         urllist = [url[0] for url in csv.reader(f)]
         pattern = re.compile(r"[0-9]{4}/[0-9]{4}\(INI\)")
@@ -133,13 +133,34 @@ def parse_info(inputcsv_path, outputcsv_path):
         url = urllist.readline()[:-2]
     urllist.close()
     infolist.close()
-    
+
+def parse_text(inputcsv_path, outputfolder):
+    with open(inputcsv_path, 'r') as f:
+        urllist = [url[14] for url in csv.reader(f, delimiter=',')]
+        urllist = urllist[1:]
+    for url in urllist:
+        page = urllib2.urlopen(url)
+        soup = bs4.BeautifulSoup(page.read())
+        procedure = soup.find('a', 'ring_ref_link')
+        procedure = re.split('[/()]', procedure.contents[0])
+        procedurefile = procedure[2] + u'_' + procedure[0] + u'-' + procedure[1]
+        with open(os.path.join(outputfolder, procedurefile + u'.csv'), 'w') as f:
+            content = soup.find('tr', 'contents')
+            paragraphs = content.findAll('p')
+            
+            pattern = re.compile(r'^[A-Z0-9]{1,2}\.')
+            paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
+            csvwriter = csv.writer(f, dialect='excel-tab')
+            for p in paragraphs:
+                csvwriter.writerow([p])
+
 #for num in range(2004,2008):
 #    parse_links('./data/' + str(num) + '.xml', './data/urls.csv')
 #parse_links('./data/2008.rss', './data/urls.csv')
 #parse_links('./data/2009.xml', './data/urls.csv')
 #parse_links('./data/20042009.rss', './data/urls.csv')
 #parse_links('./data/20092014.xml', './data/urls.csv')
-#check_duplicates('./data/urls.csv', './data/urls.csv')
+#remove_duplicates('./data/urls.csv', './data/urls.csv')
 #parse_info("./data/short_urls.csv", "./data/short_info.csv")
 #parse_info("./data/urls.csv", "./data/info.csv")
+parse_text('./data/short_info.csv', './data/text')
