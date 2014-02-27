@@ -4,6 +4,7 @@ import csv
 import re
 import urllib2
 import os.path
+import time
 
 def parse_links(inputxml_path, outputcsv_path):
     xmlfile = open(inputxml_path, "r")
@@ -117,6 +118,36 @@ def parse_info(inputcsv_path, outputcsv_path):
                                 commissioncode[1] = next(commissioncode[1].stripped_strings)
                         else:
                             continue
+                    break
+                elif sibling.text == u'European Parliament':
+                    commissiondate = [u'NA', u'NA']
+                    commissioncode = [u'NA', u'NA']
+                    commissionurl = [u'NA', u'NA']
+                    for descendant in table.tbody.descendants:
+                        if isinstance(descendant, bs4.element.Tag) and descendant.td:
+                            if descendant.td.string == u'Committee draft report':
+                                draftdate = descendant.find('td', 'event_column_r column_top')
+                            elif descendant.td.string == u'Committee report tabled for plenary, single reading':
+                                reportdate = descendant.find('td', 'event_column_r column_top')
+                            elif descendant.td.string == u'Text adopted by Parliament, single reading':
+                                adoptedcode = descendant.find('td', 'event_column_document column_top')
+                                adopteddate = descendant.find('td', 'event_column_r column_top')
+                                adoptedlink = [unicode(adoptedcode.a['href'])]
+                                summaryurl = descendant.find('a', title='Summary for Text adopted by Parliament, single reading')
+                            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] == u'NA':
+                                commissiondate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
+                                commissioncode[0] = descendant.find('td', 'event_column_document column_top')
+                                if commissioncode[0].a:
+                                    commissionurl[0] = unicode('http://www.europarl.europa.eu/' + commissioncode[0].a['href'])
+                                commissioncode[0] = next(commissioncode[0].stripped_strings)
+                            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] != u'NA':
+                                commissiondate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
+                                commissioncode[1] = descendant.find('td', 'event_column_document column_top')
+                                if commissioncode[1].a:
+                                    commissionurl[1] = unicode('http://www.europarl.europa.eu/' + commissioncode[1].a['href'])
+                                commissioncode[1] = next(commissioncode[1].stripped_strings)
+                        else:
+                            continue
                         
         table = soup.find('table', id='technicalInformations')
         techreference = table.find('td', 'column_center')
@@ -131,6 +162,7 @@ def parse_info(inputcsv_path, outputcsv_path):
                             + adoptedlink + [(unicode('http://www.europarl.europa.eu/') + summaryurl['href'])]
                             + commissiondate + commissioncode + commissionurl + techreference.contents + tech)
         url = urllist.readline()[:-2]
+        time.sleep(1)
     urllist.close()
     infolist.close()
 
@@ -139,6 +171,7 @@ def parse_text(inputcsv_path, outputfolder):
         urllist = [url[14] for url in csv.reader(f, delimiter=',')]
         urllist = urllist[1:]
     for url in urllist:
+        time.sleep(1)
         page = urllib2.urlopen(url)
         soup = bs4.BeautifulSoup(page.read())
         procedure = soup.find('a', 'ring_ref_link')
@@ -150,9 +183,11 @@ def parse_text(inputcsv_path, outputfolder):
             
             pattern = re.compile(r'^[A-Z0-9]{1,2}\.')
             paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
+            splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
+            paragraphs = [re.split(splitpattern, p) for p in paragraphs]
             csvwriter = csv.writer(f, dialect='excel-tab')
             for p in paragraphs:
-                csvwriter.writerow([p])
+                csvwriter.writerow(p)
 
 #for num in range(2004,2008):
 #    parse_links('./data/' + str(num) + '.xml', './data/urls.csv')
@@ -163,4 +198,5 @@ def parse_text(inputcsv_path, outputfolder):
 #remove_duplicates('./data/urls.csv', './data/urls.csv')
 #parse_info("./data/short_urls.csv", "./data/short_info.csv")
 #parse_info("./data/urls.csv", "./data/info.csv")
-parse_text('./data/short_info.csv', './data/text')
+#parse_text('./data/short_info.csv', './data/short_text')
+parse_text('./data/info.csv', './data/text')
