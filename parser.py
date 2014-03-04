@@ -42,7 +42,7 @@ def parse_info(inputcsv_path, outputcsv_path):
     csvwriter.writerow(['Code','Title', 'Link', 'CommitteeAbr', 
                         'CommitteeFull', 'Rapporteur PartyAbr', 'Rapporteur PartyFull',
                         'Rapporteur', 'Commission DG', 'Commissioner',
-                        'Date Committee Draft Report', 'Date Committee report tabled for plenary',
+                        'Date Committee Draft Report', 'Date Committee Draft Report2', 'Date Committee report tabled for plenary',
                         'Date Text adopted by Parliament', 'Code Text adopted by Parliament',
                         'Link Text adopted by Parliament', 'Link Summary', 'Date Commission response',
                         'Date Commission response2','Code Commission response', 'Code Commission response2',
@@ -50,15 +50,20 @@ def parse_info(inputcsv_path, outputcsv_path):
                         'Techsubtype', 'Techbasis', 'Techstage', 'Techdossier'])    
     
     url = urllist.readline()[:-2]
-    while url:    
+    while url:
+        reference = title = acronym = committee = group = \
+        grouptitle = rapporteur = commission = commissioner = \
+        reportdate = adoptedcode = adopteddate = \
+        adoptedlink = summaryurl = [u'NA']
+        
         page = urllib2.urlopen(url)
         soup = bs4.BeautifulSoup(page.read())
         table = soup.find('table', id='basic_information')
-        reference = table.find('span', 'basic_reference')    
-        title = table.find('p', 'basic_title')
+        reference = table.find('span', 'basic_reference').contents    
+        title = table.find('p', 'basic_title').contents
         
         table = soup.find('table', id='key_players')
-        acronym = table.find('acronym', 'acronym_nohelp')
+        acronym = table.find('acronym', 'acronym_nohelp').contents
         committee = table.find('span', 'players_committee_text')
         if table.find('span', 'tiptip'):
             group = table.find('span', 'tiptip')
@@ -90,20 +95,24 @@ def parse_info(inputcsv_path, outputcsv_path):
         for table in soup.findAll('table', id='doc_gateway'):
             for sibling in table.findPreviousSiblings():
                 if sibling.text == u'All':
+                    draftdate = [u'NA', u'NA']
                     commissiondate = [u'NA', u'NA']
                     commissioncode = [u'NA', u'NA']
                     commissionurl = [u'NA', u'NA']
                     for descendant in table.tbody.descendants:
                         if isinstance(descendant, bs4.element.Tag) and descendant.td:
-                            if descendant.td.string == u'Committee draft report':
-                                draftdate = descendant.find('td', 'event_column_r column_top')
+                            if descendant.td.string == u'Committee draft report' and draftdate[0] == u'NA':
+                                draftdate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
+                            elif descendant.td.string == u'Committee draft report' and draftdate[0] != u'NA':
+                                draftdate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
                             elif descendant.td.string == u'Committee report tabled for plenary, single reading':
-                                reportdate = descendant.find('td', 'event_column_r column_top')
-                            elif descendant.td.string == u'Text adopted by Parliament, single reading':
+                                reportdate = descendant.find('td', 'event_column_r column_top').contents
+                            elif descendant.td.string == u'Text adopted by Parliament, single reading' or \
+                            descendant.td.string =='Text adopted by Parliament, 1st reading/single reading':
                                 adoptedcode = descendant.find('td', 'event_column_document column_top')
                                 adopteddate = descendant.find('td', 'event_column_r column_top')
                                 adoptedlink = [unicode(adoptedcode.a['href'])]
-                                summaryurl = descendant.find('a', title='Summary for Text adopted by Parliament, single reading')
+                                summaryurl = descendant.find('a', 'sumbutton')
                             elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] == u'NA':
                                 commissiondate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
                                 commissioncode[0] = descendant.find('td', 'event_column_document column_top')
@@ -120,20 +129,24 @@ def parse_info(inputcsv_path, outputcsv_path):
                             continue
                     break
                 elif sibling.text == u'European Parliament':
+                    draftdate = [u'NA', u'NA']
                     commissiondate = [u'NA', u'NA']
                     commissioncode = [u'NA', u'NA']
                     commissionurl = [u'NA', u'NA']
                     for descendant in table.tbody.descendants:
                         if isinstance(descendant, bs4.element.Tag) and descendant.td:
-                            if descendant.td.string == u'Committee draft report':
-                                draftdate = descendant.find('td', 'event_column_r column_top')
+                            if descendant.td.string == u'Committee draft report' and draftdate[0] == u'NA':
+                                draftdate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
+                            elif descendant.td.string == u'Committee draft report' and draftdate[0] != u'NA':
+                                draftdate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
                             elif descendant.td.string == u'Committee report tabled for plenary, single reading':
-                                reportdate = descendant.find('td', 'event_column_r column_top')
-                            elif descendant.td.string == u'Text adopted by Parliament, single reading':
+                                reportdate = descendant.find('td', 'event_column_r column_top').contents
+                            elif descendant.td.string == u'Text adopted by Parliament, single reading' or \
+                            descendant.td.string =='Text adopted by Parliament, 1st reading/single reading':
                                 adoptedcode = descendant.find('td', 'event_column_document column_top')
                                 adopteddate = descendant.find('td', 'event_column_r column_top')
                                 adoptedlink = [unicode(adoptedcode.a['href'])]
-                                summaryurl = descendant.find('a', title='Summary for Text adopted by Parliament, single reading')
+                                summaryurl = descendant.find('a', 'sumbutton')
                             elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] == u'NA':
                                 commissiondate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
                                 commissioncode[0] = descendant.find('td', 'event_column_document column_top')
@@ -154,10 +167,10 @@ def parse_info(inputcsv_path, outputcsv_path):
         tech = table.findAll('td', 'column_center column_top')
         tech = [t.contents[0] for t in tech]
         
-        csvwriter.writerow(reference.contents + title.contents + [url] + acronym.contents 
+        csvwriter.writerow(reference + title + [url] + acronym 
                             + [next(committee.stripped_strings)] + group + grouptitle
                             + rapporteur + commission + commissioner
-                            + draftdate.contents + reportdate.contents
+                            + draftdate + reportdate
                             + adopteddate.contents + [next(adoptedcode.stripped_strings)] 
                             + adoptedlink + [(unicode('http://www.europarl.europa.eu/') + summaryurl['href'])]
                             + commissiondate + commissioncode + commissionurl + techreference.contents + tech)
@@ -181,7 +194,7 @@ def parse_text(inputcsv_path, outputfolder):
             content = soup.find('tr', 'contents')
             paragraphs = content.findAll('p')
             
-            pattern = re.compile(r'^[A-Z0-9]{1,2}\.')
+            pattern = re.compile(r'^[A-Z0-9]{1,3}\.')
             paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
             splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
             paragraphs = [re.split(splitpattern, p) for p in paragraphs]
@@ -199,4 +212,4 @@ def parse_text(inputcsv_path, outputfolder):
 #parse_info("./data/short_urls.csv", "./data/short_info.csv")
 #parse_info("./data/urls.csv", "./data/info.csv")
 #parse_text('./data/short_info.csv', './data/short_text')
-parse_text('./data/info.csv', './data/text')
+#parse_text('./data/info.csv', './data/text')
