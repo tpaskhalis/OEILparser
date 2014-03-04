@@ -181,7 +181,7 @@ def parse_info(inputcsv_path, outputcsv_path):
 
 def parse_text(inputcsv_path, outputfolder):
     with open(inputcsv_path, 'r') as f:
-        urllist = [url[14] for url in csv.reader(f, delimiter=',')]
+        urllist = [url[15] for url in csv.reader(f, delimiter=',')]
         urllist = urllist[1:]
     for url in urllist:
         time.sleep(1)
@@ -190,14 +190,19 @@ def parse_text(inputcsv_path, outputfolder):
         procedure = soup.find('a', 'ring_ref_link')
         procedure = re.split('[/()]', procedure.contents[0])
         procedurefile = procedure[2] + u'_' + procedure[0] + u'-' + procedure[1]
-        with open(os.path.join(outputfolder, procedurefile + u'.csv'), 'w') as f:
+        with open(os.path.join(outputfolder, procedurefile + u'.tsv'), 'w') as f:
             content = soup.find('tr', 'contents')
             paragraphs = content.findAll('p')
             
-            pattern = re.compile(r'^[A-Z0-9]{1,3}\.')
+            pattern = re.compile(r'^[A-Z0-9]{1,3}\.', re.UNICODE)
             paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
             splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
             paragraphs = [re.split(splitpattern, p) for p in paragraphs]
+            clearpattern = re.compile(r'^[\s\n\t\"]*', re.UNICODE)
+            clearpattern2 = re.compile(r'[\s\n\t\"]*$', re.UNICODE)
+            for p in paragraphs:
+                p[1] = re.sub(clearpattern, u'', p[1])
+                p[1] = re.sub(clearpattern2, u'', p[1])
             csvwriter = csv.writer(f, dialect='excel-tab')
             for p in paragraphs:
                 csvwriter.writerow(p)
