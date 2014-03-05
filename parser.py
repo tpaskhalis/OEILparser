@@ -198,11 +198,9 @@ def parse_text(inputcsv_path, outputfolder):
             paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
             splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
             paragraphs = [re.split(splitpattern, p) for p in paragraphs]
-            clearpattern = re.compile(r'^[\s\n\t\"]*', re.UNICODE)
-            clearpattern2 = re.compile(r'[\s\n\t\"]*$', re.UNICODE)
+            clearpattern = re.compile(r'^[\s\n\t\"]*|[\s\n\t\"]*$', re.UNICODE)
             for p in paragraphs:
                 p[1] = re.sub(clearpattern, u'', p[1])
-                p[1] = re.sub(clearpattern2, u'', p[1])
             csvwriter = csv.writer(f, dialect='excel-tab')
             for p in paragraphs:
                 csvwriter.writerow(p)
@@ -216,5 +214,5 @@ def parse_text(inputcsv_path, outputfolder):
 #remove_duplicates('./data/urls.csv', './data/urls.csv')
 #parse_info("./data/short_urls.csv", "./data/short_info.csv")
 #parse_info("./data/urls.csv", "./data/info.csv")
-#parse_text('./data/short_info.csv', './data/short_text')
+parse_text('./data/short_info.csv', './data/short_text')
 #parse_text('./data/info.csv', './data/text')
