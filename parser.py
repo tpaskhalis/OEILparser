@@ -194,7 +194,7 @@ def parse_text(inputcsv_path, outputfolder):
             content = soup.find('tr', 'contents')
             paragraphs = content.findAll('p')
             
-            pattern = re.compile(r'^[A-Z0-9]{1,3}\.', re.UNICODE)
+            pattern = re.compile(r'^[A-Z0-9]{1,3}\.\s{1,2}', re.UNICODE)
             paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
             splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
             paragraphs = [re.split(splitpattern, p) for p in paragraphs]
@@ -214,5 +214,5 @@ def parse_text(inputcsv_path, outputfolder):
 #remove_duplicates('./data/urls.csv', './data/urls.csv')
 #parse_info("./data/short_urls.csv", "./data/short_info.csv")
 #parse_info("./data/urls.csv", "./data/info.csv")
-parse_text('./data/short_info.csv', './data/short_text')
-#parse_text('./data/info.csv', './data/text')
+#parse_text('./data/short_info.csv', './data/short_text')
+parse_text('./data/info.csv', './data/text')
