@@ -190,20 +190,42 @@ def parse_text(inputcsv_path, outputfolder):
         procedure = soup.find('a', 'ring_ref_link')
         procedure = re.split('[/()]', procedure.contents[0])
         procedurefile = procedure[2] + u'_' + procedure[0] + u'-' + procedure[1]
+        
+        content = soup.find('tr', 'contents')
+        paragraphs = content.findAll('p')
+        pattern = re.compile(r'^[A-Z0-9]{1,3}\.\s{1,2}', re.UNICODE)
+        paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
+        splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
+        paragraphs = [re.split(splitpattern, p) for p in paragraphs]
+        clearpattern = re.compile(r'^[\s\n\t\"]*|[\s\n\t\"]*$', re.UNICODE)
+        for p in paragraphs:
+            p[1] = re.sub(clearpattern, u'', p[1])
         with open(os.path.join(outputfolder, procedurefile + u'.tsv'), 'w') as f:
-            content = soup.find('tr', 'contents')
-            paragraphs = content.findAll('p')
-            
-            pattern = re.compile(r'^[A-Z0-9]{1,3}\.\s{1,2}', re.UNICODE)
-            paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
-            splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
-            paragraphs = [re.split(splitpattern, p) for p in paragraphs]
-            clearpattern = re.compile(r'^[\s\n\t\"]*|[\s\n\t\"]*$', re.UNICODE)
-            for p in paragraphs:
-                p[1] = re.sub(clearpattern, u'', p[1])
             csvwriter = csv.writer(f, dialect='excel-tab')
             for p in paragraphs:
                 csvwriter.writerow(p)
+                
+def parse_eurlex_text(inputcsv_path, outputfolder):
+    with open(inputcsv_path, 'r') as f:
+        celexlist = [row[0] for row in csv.reader(f, delimiter=',')]
+        celexlist = celexlist[1:]
+        urldict = {celex:'http://new.eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:' + celex + '&rid=1' for celex in celexlist}
+    for celex, url in urldict.iteritems():
+        time.sleep(1)
+        page = urllib2.urlopen(url)
+        soup = bs4.BeautifulSoup(page.read())
+        content = soup.find('div', id='TexteOnly')
+        paragraphs = content.findAll('p')
+        paragraphs = [p.contents[0] for p in paragraphs if p.contents]
+        whereas = re.compile(r'Whereas:', re.UNICODE)
+        index = [i for i, paragraph in enumerate(paragraphs) if re.match(whereas, paragraph)]
+        paragraphs = paragraphs[index[0]:]
+        clearpattern = re.compile(r'^[\s\n\t\"]*|[\s\n\t\"]*$', re.UNICODE)
+        paragraphs = [re.sub(clearpattern, u'', p) for p in paragraphs]
+        with open(os.path.join(outputfolder, celex + u'.tsv'), 'w') as f:
+            csvwriter = csv.writer(f, dialect='excel-tab')
+            for p in paragraphs:
+                csvwriter.writerow([p])
 
 #for num in range(2004,2008):
 #    parse_links('./data/' + str(num) + '.xml', './data/urls.csv')
@@ -215,4 +237,5 @@ def parse_text(inputcsv_path, outputfolder):
 #parse_info("./data/short_urls.csv", "./data/short_info.csv")
 #parse_info("./data/urls.csv", "./data/info.csv")
 #parse_text('./data/short_info.csv', './data/short_text')
-parse_text('./data/info.csv', './data/text')
+#parse_text('./data/info.csv', './data/text')
+#parse_eurlex_text('./data/EUR-LEX-2006.csv', './data/eurlex_text')
