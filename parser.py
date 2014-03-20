@@ -3,24 +3,23 @@ import bs4
 import csv
 import re
 import urllib2
-import os.path
+import os
 import time
 
 def parse_links(inputxml_path, outputcsv_path):
-    xmlfile = open(inputxml_path, "r")
-    if os.path.isfile(outputcsv_path) and os.path.getsize(outputcsv_path) > 0:
-        urllist = open(outputcsv_path, "a")
-    else:
-        urllist = open(outputcsv_path, "w")
-    xmltext = xmlfile.read()
-    soup = bs4.BeautifulSoup(xmltext, "xml")
-    items = soup.find_all('item')
-    csvwriter = csv.writer(urllist)
-    for item in items:
-        url = item.find('link').text
-        csvwriter.writerow([url])
-    xmlfile.close()
-    urllist.close()
+    with open(inputxml_path, "r") as f:
+        xmltext = f.read()
+        soup = bs4.BeautifulSoup(xmltext, "xml")
+        items = soup.findAll('item')
+        if os.path.isfile(outputcsv_path) and os.path.getsize(outputcsv_path) > 0:
+            urllist = open(outputcsv_path, "a")
+        else:
+            urllist = open(outputcsv_path, "w")
+        csvwriter = csv.writer(urllist)
+        for item in items:
+            url = item.find('link').text
+            csvwriter.writerow([url])
+        urllist.close()
 
 #The OEIL database is not perfect, thus there can be some duplicates after parsing 
 #several xml files. This function removes duplicates by converting list of urls 
@@ -28,13 +27,56 @@ def parse_links(inputxml_path, outputcsv_path):
 def remove_duplicates(inputcsv_path, outputcsv_path):
     with open(inputcsv_path, "r") as f:
         urllist = [url[0] for url in csv.reader(f)]
-        pattern = re.compile(r"[0-9]{4}/[0-9]{4}\(INI\)")
+        pattern = re.compile(r"[0-9]{4}/[A-Z0-9]{4,5}\([A-Z]{3}\)")
         urldict = {re.search(pattern, url).group():url for url in urllist}
     with open(outputcsv_path, "w") as f:
         for value in urldict.values():
             csvwriter = csv.writer(f)
             csvwriter.writerow([value])
-    
+
+def parse_doc_gateway(table_doc_gateway):
+    adopteddate = [u'NA']
+    adoptedcode = [u'NA']
+    adoptedlink = [u'NA']
+    reportdate = [u'NA']
+    summaryurl = [u'NA']
+    draftdate = [u'NA', u'NA']
+    commissiondate = [u'NA', u'NA']
+    commissioncode = [u'NA', u'NA']
+    commissionurl = [u'NA', u'NA']
+    for descendant in table_doc_gateway.tbody.descendants:
+        if isinstance(descendant, bs4.element.Tag) and descendant.td:
+            if descendant.td.string == u'Committee draft report' and draftdate[0] == u'NA':
+                draftdate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
+            elif descendant.td.string == u'Committee draft report' and draftdate[0] != u'NA':
+                draftdate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
+            elif descendant.td.string == u'Committee report tabled for plenary, single reading':
+                reportdate = descendant.find('td', 'event_column_r column_top').contents
+            elif descendant.td.string == u'Text adopted by Parliament, single reading' or \
+            descendant.td.string =='Text adopted by Parliament, 1st reading/single reading':
+                adoptedcode = descendant.find('td', 'event_column_document column_top')
+                adoptedlink = [unicode(adoptedcode.a['href'])]
+                adoptedcode = [next(adoptedcode.stripped_strings)]                
+                adopteddate = descendant.find('td', 'event_column_r column_top').contents                
+                summaryurl = descendant.find('a', 'sumbutton')
+                summaryurl = [(unicode('http://www.europarl.europa.eu/') + summaryurl['href'])]
+            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] == u'NA':
+                commissiondate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
+                commissioncode[0] = descendant.find('td', 'event_column_document column_top')
+                if commissioncode[0].a:
+                    commissionurl[0] = unicode('http://www.europarl.europa.eu/' + commissioncode[0].a['href'])
+                commissioncode[0] = next(commissioncode[0].stripped_strings)
+            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] != u'NA':
+                commissiondate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
+                commissioncode[1] = descendant.find('td', 'event_column_document column_top')
+                if commissioncode[1].a:
+                    commissionurl[1] = unicode('http://www.europarl.europa.eu/' + commissioncode[1].a['href'])
+                commissioncode[1] = next(commissioncode[1].stripped_strings)
+            else:
+                continue
+    return draftdate + reportdate + adopteddate + adoptedcode + adoptedlink + summaryurl + commissiondate + commissioncode + commissionurl
+
+
 def parse_info(inputcsv_path, outputcsv_path):
     urllist = open(inputcsv_path, "r")
     infolist = open(outputcsv_path, "w")
@@ -51,10 +93,16 @@ def parse_info(inputcsv_path, outputcsv_path):
     
     url = urllist.readline()[:-2]
     while url:
-        reference = title = acronym = committee = group = \
-        grouptitle = rapporteur = commission = commissioner = \
-        reportdate = adoptedcode = adopteddate = \
-        adoptedlink = summaryurl = [u'NA']
+        reference = [u'NA']
+        title = [u'NA']
+        acronym = [u'NA']
+        committee = [u'NA']
+        group = [u'NA']
+        grouptitle = [u'NA']
+        rapporteur = [u'NA']
+        commission = [u'NA']
+        commissioner = [u'NA']
+        doc = [u'NA']
         
         page = urllib2.urlopen(url)
         soup = bs4.BeautifulSoup(page.read())
@@ -95,72 +143,10 @@ def parse_info(inputcsv_path, outputcsv_path):
         for table in soup.findAll('table', id='doc_gateway'):
             for sibling in table.findPreviousSiblings():
                 if sibling.text == u'All':
-                    draftdate = [u'NA', u'NA']
-                    commissiondate = [u'NA', u'NA']
-                    commissioncode = [u'NA', u'NA']
-                    commissionurl = [u'NA', u'NA']
-                    for descendant in table.tbody.descendants:
-                        if isinstance(descendant, bs4.element.Tag) and descendant.td:
-                            if descendant.td.string == u'Committee draft report' and draftdate[0] == u'NA':
-                                draftdate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
-                            elif descendant.td.string == u'Committee draft report' and draftdate[0] != u'NA':
-                                draftdate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
-                            elif descendant.td.string == u'Committee report tabled for plenary, single reading':
-                                reportdate = descendant.find('td', 'event_column_r column_top').contents
-                            elif descendant.td.string == u'Text adopted by Parliament, single reading' or \
-                            descendant.td.string =='Text adopted by Parliament, 1st reading/single reading':
-                                adoptedcode = descendant.find('td', 'event_column_document column_top')
-                                adopteddate = descendant.find('td', 'event_column_r column_top')
-                                adoptedlink = [unicode(adoptedcode.a['href'])]
-                                summaryurl = descendant.find('a', 'sumbutton')
-                            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] == u'NA':
-                                commissiondate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
-                                commissioncode[0] = descendant.find('td', 'event_column_document column_top')
-                                if commissioncode[0].a:
-                                    commissionurl[0] = unicode('http://www.europarl.europa.eu/' + commissioncode[0].a['href'])
-                                commissioncode[0] = next(commissioncode[0].stripped_strings)
-                            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] != u'NA':
-                                commissiondate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
-                                commissioncode[1] = descendant.find('td', 'event_column_document column_top')
-                                if commissioncode[1].a:
-                                    commissionurl[1] = unicode('http://www.europarl.europa.eu/' + commissioncode[1].a['href'])
-                                commissioncode[1] = next(commissioncode[1].stripped_strings)
-                        else:
-                            continue
+                    doc = parse_doc_gateway(table)
                     break
                 elif sibling.text == u'European Parliament':
-                    draftdate = [u'NA', u'NA']
-                    commissiondate = [u'NA', u'NA']
-                    commissioncode = [u'NA', u'NA']
-                    commissionurl = [u'NA', u'NA']
-                    for descendant in table.tbody.descendants:
-                        if isinstance(descendant, bs4.element.Tag) and descendant.td:
-                            if descendant.td.string == u'Committee draft report' and draftdate[0] == u'NA':
-                                draftdate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
-                            elif descendant.td.string == u'Committee draft report' and draftdate[0] != u'NA':
-                                draftdate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
-                            elif descendant.td.string == u'Committee report tabled for plenary, single reading':
-                                reportdate = descendant.find('td', 'event_column_r column_top').contents
-                            elif descendant.td.string == u'Text adopted by Parliament, single reading' or \
-                            descendant.td.string =='Text adopted by Parliament, 1st reading/single reading':
-                                adoptedcode = descendant.find('td', 'event_column_document column_top')
-                                adopteddate = descendant.find('td', 'event_column_r column_top')
-                                adoptedlink = [unicode(adoptedcode.a['href'])]
-                                summaryurl = descendant.find('a', 'sumbutton')
-                            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] == u'NA':
-                                commissiondate[0] = descendant.find('td', 'event_column_r column_top').contents[0]
-                                commissioncode[0] = descendant.find('td', 'event_column_document column_top')
-                                if commissioncode[0].a:
-                                    commissionurl[0] = unicode('http://www.europarl.europa.eu/' + commissioncode[0].a['href'])
-                                commissioncode[0] = next(commissioncode[0].stripped_strings)
-                            elif descendant.td.string == u'Commission response to text adopted in plenary' and commissiondate[0] != u'NA':
-                                commissiondate[1] = descendant.find('td', 'event_column_r column_top').contents[0]
-                                commissioncode[1] = descendant.find('td', 'event_column_document column_top')
-                                if commissioncode[1].a:
-                                    commissionurl[1] = unicode('http://www.europarl.europa.eu/' + commissioncode[1].a['href'])
-                                commissioncode[1] = next(commissioncode[1].stripped_strings)
-                        else:
-                            continue
+                    doc = parse_doc_gateway(table)
                         
         table = soup.find('table', id='technicalInformations')
         techreference = table.find('td', 'column_center')
@@ -170,10 +156,7 @@ def parse_info(inputcsv_path, outputcsv_path):
         csvwriter.writerow(reference + title + [url] + acronym 
                             + [next(committee.stripped_strings)] + group + grouptitle
                             + rapporteur + commission + commissioner
-                            + draftdate + reportdate
-                            + adopteddate.contents + [next(adoptedcode.stripped_strings)] 
-                            + adoptedlink + [(unicode('http://www.europarl.europa.eu/') + summaryurl['href'])]
-                            + commissiondate + commissioncode + commissionurl + techreference.contents + tech)
+                            + doc + techreference.contents + tech)
         url = urllist.readline()[:-2]
         time.sleep(1)
     urllist.close()
@@ -227,15 +210,19 @@ def parse_eurlex_text(inputcsv_path, outputfolder):
             for p in paragraphs:
                 csvwriter.writerow([p])
 
-#for num in range(2004,2008):
-#    parse_links('./data/' + str(num) + '.xml', './data/urls.csv')
-#parse_links('./data/2008.rss', './data/urls.csv')
-#parse_links('./data/2009.xml', './data/urls.csv')
-#parse_links('./data/20042009.rss', './data/urls.csv')
-#parse_links('./data/20092014.xml', './data/urls.csv')
-#remove_duplicates('./data/urls.csv', './data/urls.csv')
-#parse_info("./data/short_urls.csv", "./data/short_info.csv")
-#parse_info("./data/urls.csv", "./data/info.csv")
-#parse_text('./data/short_info.csv', './data/short_text')
-#parse_text('./data/info.csv', './data/text')
-#parse_eurlex_text('./data/EUR-LEX-2006.csv', './data/eurlex_text')
+#for f in os.listdir('./OEIL/search_query_results/INI/'):
+#    parse_links('./OEIL/search_query_results/INI/' + f, './OEIL/urls.csv')
+#remove_duplicates('./OEIL/urls.csv', './OEIL/urls.csv')
+#parse_info("./OEIL/short_urls.csv", "./OEIL/short_info.csv")
+#parse_info("./OEIL/urls.csv", "./OEIL/info.csv")
+#parse_text('./OEIL/short_info.csv', './OEIL/short_text')
+#parse_text('./OEIL/info.csv', './OEIL/text')
+
+#for f in os.listdir('./OEIL/search_query_results/all/6th_term/'):
+#    parse_links('./OEIL/search_query_results/all/6th_term/' + f, './OEIL/all_urls.csv')
+#for f in os.listdir('./OEIL/search_query_results/all/7th_term/'):
+#    parse_links('./OEIL/search_query_results/all/7th_term/' + f, './OEIL/all_urls.csv')
+#remove_duplicates('./OEIL/all_urls.csv', './OEIL/all_urls.csv')
+#parse_info('./OEIL/all_urls.csv', './OEIL/all_info.csv')
+
+#parse_eurlex_text('./EUR-Lex/search_query_results/EUR-LEX-2004-2005.csv', './EUR-Lex/text')
