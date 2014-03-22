@@ -1,4 +1,4 @@
-#from bs4 import BeautifulSoup
+#This script requires Python2.7+ and library bs4(which is not part of standard installation).
 import bs4
 import csv
 import re
@@ -6,6 +6,8 @@ import urllib2
 import os
 import time
 
+#This function takes search query results in xml or rss(if xml is unavailable) as an input
+#and writes url list in csv format to path specified as a second argument.
 def parse_urls(inputxml_path, outputcsv_path):
     with open(inputxml_path, "r") as f:
         xmltext = f.read()
@@ -34,6 +36,9 @@ def remove_duplicates(inputcsv_path, outputcsv_path):
             csvwriter = csv.writer(f)
             csvwriter.writerow([value])
 
+#This function parses documentation gateway at the bottom of a page and is called 
+#from parse_info. First for 'All' documents and in case this tab is missing from 
+#'European Parliament' tab. 
 def parse_doc_gateway(table_doc_gateway):
     adopteddate = [u'NA']
     adoptedcode = [u'NA']
@@ -86,7 +91,6 @@ def parse_doc_gateway(table_doc_gateway):
                 continue
     return draftdate + reportdate + adopteddate + adoptedcode + adoptedlink + summaryurl + commissiondate + commissioncode + commissionurl
 
-
 def parse_info(inputcsv_path, outputcsv_path):
     urllist = open(inputcsv_path, "r")
     infolist = open(outputcsv_path, "w")
@@ -112,7 +116,7 @@ def parse_info(inputcsv_path, outputcsv_path):
         rapporteur = [u'NA']
         commission = [u'NA']
         commissioner = [u'NA']
-        doc = ['NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA', 'NA']
+        doc = 13 * ['NA']
         
         page = urllib2.urlopen(url)
         soup = bs4.BeautifulSoup(page.read())
@@ -137,9 +141,7 @@ def parse_info(inputcsv_path, outputcsv_path):
             group, grouptitle = [u'NA'], [u'NA']
         if table.find('span', 'players_rapporter_text'):
             rapporteur = [table.find('span', 'players_rapporter_text').string]
-        else:
-            rapporteur = [u'NA']
-        
+
         if table.find(title='European Commission'):
             commissioncell = table.find(title='European Commission')
             commissionrow = commissioncell.parent.parent
@@ -148,10 +150,6 @@ def parse_info(inputcsv_path, outputcsv_path):
             if commissionrow.find('td','players_rapporter_com').find('p','players_content'):
                 commissioner = commissionrow.find('td','players_rapporter_com').find('p','players_content')
                 commissioner = commissioner.contents
-            else:
-                commissioner = [u'NA']
-        else:
-            commission, commissioner = [u'NA'], [u'NA']
         
         for table in soup.findAll('table', id='doc_gateway'):
             for sibling in table.findPreviousSiblings():
@@ -180,7 +178,6 @@ def parse_text(inputcsv_path, outputfolder):
         urllist = [url[15] for url in csv.reader(f, delimiter=',')]
         urllist = urllist[1:]
     for url in urllist:
-        time.sleep(1)
         page = urllib2.urlopen(url)
         soup = bs4.BeautifulSoup(page.read())
         procedure = soup.find('a', 'ring_ref_link')
@@ -200,6 +197,7 @@ def parse_text(inputcsv_path, outputfolder):
             csvwriter = csv.writer(f, dialect='excel-tab')
             for p in paragraphs:
                 csvwriter.writerow(p)
+        time.sleep(1)
                 
 def parse_eurlex_text(inputcsv_path, outputfolder):
     with open(inputcsv_path, 'r') as f:
@@ -207,7 +205,6 @@ def parse_eurlex_text(inputcsv_path, outputfolder):
         celexlist = celexlist[1:]
         urldict = {celex:'http://new.eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:' + celex + '&rid=1' for celex in celexlist}
     for celex, url in urldict.iteritems():
-        time.sleep(1)
         page = urllib2.urlopen(url)
         soup = bs4.BeautifulSoup(page.read())
         content = soup.find('div', id='TexteOnly')
@@ -222,6 +219,7 @@ def parse_eurlex_text(inputcsv_path, outputfolder):
             csvwriter = csv.writer(f, dialect='excel-tab')
             for p in paragraphs:
                 csvwriter.writerow([p])
+        time.sleep(1)
 
 #for f in os.listdir('./OEIL/search_query_results/INI/'):
 #    parse_urls('./OEIL/search_query_results/INI/' + f, './OEIL/urls.csv')
@@ -237,7 +235,7 @@ def parse_eurlex_text(inputcsv_path, outputfolder):
 #for f in os.listdir('./OEIL/search_query_results/all/7th_term/'):
 #    parse_urls('./OEIL/search_query_results/all/7th_term/' + f, './OEIL/all_urls.csv')
 #remove_duplicates('./OEIL/all_urls.csv', './OEIL/all_urls.csv')
-#parse_info('./OEIL/all_urls.csv', './OEIL/all_info.csv')
+parse_info('./OEIL/all_urls.csv', './OEIL/all_info.csv')
 
-for f in os.listdir('./EUR-Lex/search_query_results/'):
-    parse_eurlex_text('./EUR-Lex/search_query_results/' + f, './EUR-Lex/text')
+#for f in os.listdir('./EUR-Lex/search_query_results/'):
+#    parse_eurlex_text('./EUR-Lex/search_query_results/' + f, './EUR-Lex/text')
