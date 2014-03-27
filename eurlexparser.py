@@ -23,7 +23,7 @@ def parse_eurlex_text(inputcsv_path, outputfolder):
             errors += celex + ', '
             continue
         paragraphs = [p.contents[0] for p in paragraphs if p.contents]
-        whereas = re.compile(r'Whereas:|Whereas', re.UNICODE)
+        whereas = re.compile(r'[Ww]hereas:?', re.UNICODE)
         index = [i for i, paragraph in enumerate(paragraphs) if re.match(whereas, paragraph)]
         if index:
             paragraphs = paragraphs[index[0]:]
