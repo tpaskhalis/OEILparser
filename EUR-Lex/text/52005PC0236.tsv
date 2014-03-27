@@ -1,0 +1,600 @@
+Whereas :
+(1) The Schengen information system (hereinafter referred to as “SIS”) set up pursuant to Title IV of the Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 between the governments of the States of the Benelux economic union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders[14] (hereinafter referred to as the “Schengen Convention”), constitutes an essential tool for the application of the provisions of the Schengen acquis as integrated into the framework of the European Union.
+(2) The development of the second generation of the SIS (hereinafter, referred to as “SIS II”) has been entrusted to the Commission pursuant to Council Regulation (EC) No 2424/2001[15] and Council Decision No 2001/886/JHA[16] of 6 December 2001 on the development of the second generation Schengen Information System (SIS II). The SIS II will replace the SIS as established by the Schengen Convention.
+(3) This Regulation constitutes the necessary legislative basis for governing the SIS II in respect of matters falling within the scope of the Treaty establishing the European Community (hereinafter referred to as the “EC Treaty”). Council Decision No 2006/XX/JHA on the establishment, operation and use of the SIS II[17] constitutes the necessary legislative basis for governing the SIS II in respect of matters falling within the scope of the Treaty of the European Union (hereinafter referred to as the “EU Treaty”).
+(4) The fact that the legislative basis necessary for governing the SIS II consists of separate instruments does not affect the principle that the SIS II constitutes one single information system that should operate as such. Certain provisions of these instruments should therefore be identical.
+(5) The SIS II should constitute a compensatory measure contributing to maintaining a high level of security within an area without internal border controls between Member States by supporting the implementation of policies linked to the movement of persons part of the Schengen acquis.
+(6) It is necessary to specify the objectives of the SIS II and to lay down rules concerning its operation, use and responsibilities including its technical architecture and financing, categories of data to be entered into the system, the purposes for which they are to be entered, the criteria for their entry, the authorities authorised to access it, the interlinking of alerts and further rules on data processing and the protection of personal data.
+(7) The expenditure involved in the operation of SIS II should be charged to the budget of the European Union.
+(8) It is appropriate to establish a manual setting out the detailed rules for the exchange of supplementary information in relation with the action required by the alert. National authorities in each Member State should to ensure the exchange of this information.
+(9) The Commission should be responsible for the operational management of the SIS II in particular in order to ensure a smooth transition between the development of the system and the start of its operations.
+(10) It is appropriate to further harmonise the provisions on the grounds for issuing alerts to third country nationals for the purpose of refusing entry and to clarify their use in the framework of asylum, immigration and return policies. The grounds for issuing such alerts, their purposes and the authorities with right to access them should be more homogeneous.
+(11) Alerts aiming at refusing entry should not be kept longer in the SIS II than the period of refusal of entry set out in the national decision giving rise to the alert. As a general principle, they should be automatically erased from the SIS II after a maximum period of five years. Member States should review at least annually these alerts.
+(12) The SIS II should permit the processing of biometric data in order to assist in the reliable identification of individuals concerned. In the same context the SIS II should also allow for the processing of data of individuals whose identity has been misused in order to avoid inconveniences caused by their misidentification, subject to suitable safeguards, in particular the consent of the individual concerned and a strict limitation of the purposes for which such data can be lawfully processed.
+(13) The SIS II should offer Member States the possibility to establish links between alerts. The establishment of links by a Member State between two or more alerts should have no impact on the action to be taken, the conservation period or the access rights to the alerts.
+(14) Directive 1995/46/EC of the European Parliament and the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data[18] applies to the processing of personal data carried out in application of this Regulation. This includes the designation of the controller in accordance with Article 2 (d) of that Directive and the possibility for Member States to provide for exemptions and restrictions to some of the provided rights and obligations in accordance with Article 13 (1) of that Directive including as regards the rights of access and information of the individual concerned. The principles set out in Directive 1995/46/EC should be supplemented or clarified in this Regulation, where necessary.
+(15) Regulation (EC) No 2001/45 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data[19] applies to the processing of personal data by the European Commission. The principles set out in that Regulation should be supplemented or clarified, where necessary.
+(16) It is appropriate that national independent supervisory authorities monitor the lawfulness of the processing of personal data by the Member States, whilst the European Data Protection Supervisor should monitor the activities of the Commission in relation to the processing of personal data.
+(17) Liability of the Community arising from any breach by the Commission of this Regulation is governed by the second paragraph of Article 288 of the EC Treaty.
+(18) In order to ensure transparency, a report on the activities of the SIS II and on the exchange of supplementary information should be produced every two years by the Commission. An overall evaluation should be issued by the Commission every four years.
+(19) Some aspects of the SIS II such as compatibility of alerts, links between alerts and exchange of supplementary information cannot be covered exhaustively by the provisions of this Regulation due to their technical nature, level of detail and need for regular update. Implementing powers in respect of those aspects should therefore be delegated to the Commission.
+(20) The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission[20].
+(21) It is appropriate to lay down transitional provisions in respect of alerts issued in the SIS in accordance with the Schengen Convention, which will be transferred to the SIS II or alerts issued in the SIS II during a transitional period before all provisions of this Regulation become applicable. Some provisions of the Schengen acquis should continue to apply for a limited period of time until the Member States have examined the compatibility of those alerts with the new legal framework.
+(22) It is necessary to lay down special provisions regarding the remainder of the budget affected to the operations of the SIS which are not part of the budget of the European Union.
+(23) Since the objectives of the action to be taken, namely the establishment and regulation of a joint information system, cannot be sufficiently achieved by the Member States and can therefore, by reason of the scale and effects of the action, be better achieved at Community level, the Community may adopt measures in accordance with the principle of subsidiarity, as set out in Article 5 of the EC Treaty. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary to achieve those objectives.
+(24) This Regulation respects the fundamental rights and observes the principles recognised, in particular by the Charter of Fundamental Rights of the European Union.
+(25) In accordance with Articles 1 and 2 of the Protocol on the position of Denmark annexed to the Treaty on European Union and the Treaty establishing the European Community, Denmark is not a party to the adoption of this Regulation and is, therefore, not bound by it or subject to its application. Given that this Regulation builds upon the Schengen acquis under the provisions of Title IV of Part Three of the EC Treaty, Denmark shall, in accordance with Article 5 of the said Protocol, decide, within a period of six months after the adoption of this Regulation, whether it will implement it in its national law.
+(26) This Regulation constitutes a development of the SIS for the purpose of its application in relation to provisions of the Schengen acquis relating to the movement of persons; the United Kingdom has not applied to and is not taking part in the SIS for these purposes, in accordance with Council Decision 2000/365/EC of 29 May 2000 concerning the request of the United Kingdom of Great Britain and Northern Ireland to take part in some of the provisions of the Schengen acquis [21]; the United Kingdom is, therefore, not party to its adoption and is not bound by or subject to its application.
+(27) This Regulation constitutes a development of the SIS for the purpose of its application in relation to provisions of the Schengen acquis relating to the movement of persons; Ireland has not applied to and is not taking part in the Schengen Information System for these purposes, in accordance with Council Decision 2002/192/EC of 28 February 2002 concerning Ireland's request to take part in some of the provisions of the Schengen acquis [22]; Ireland is, therefore, not party to its adoption and is not bound by it or subject to its application.
+(28) As regards Iceland and Norway, this Regulation constitutes a development of provisions of the Schengen acquis within the meaning of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the association of those two States with the implementation, application and development of the Schengen acquis[23], which fall within the area referred to in Article 1, point G of Council Decision 1999/437/EC of 17 May 1999 on certain arrangements for the application of that Agreement.
+(29) As regards Switzerland, this Regulation constitutes a development of the provisions of the Schengen acquis within the meaning of the Agreement signed between the European Union, the European Community and the Swiss Confederation concerning the association of the Swiss Confederation with the implementation, application and development of the Schengen acquis, which falls within the area referred to in Article 1, point G of Council Decision 1999/437/EC read in conjunction with Article 4 (1) of Council Decision 2004/860/EC on the signing, on behalf of the European Community, and on the provisional application of certain provisions of that Agreement[24].
+(30) This Regulation constitutes an act building on the Schengen acquis or otherwise related to it within the meaning of Article 3 (2) of the 2003 Act of Accession,
+HAS ADOPTED THIS REGULATION:
+CHAPTER I
+General provisions
+Article 1
+Establishment and general objective of the SIS II
+1. A computerised information system called the second generation of the Schengen Information System (hereinafter referred to as “SIS II”) is hereby established to enable competent authorities of the Member States to cooperate by exchanging information for the purposes of controls on persons and objects.
+2. The SIS II shall contribute to maintaining a high level of security within an area without internal border controls between Member States.
+Article 2
+Scope
+1. This Regulation defines the conditions and procedures for the processing of alerts issued in respect of third country nationals in the SIS II and the exchange of supplementary information for the purpose of refusing entry into the territory of the Member States.
+2. This Regulation also lays down provisions on the technical architecture of the SIS II, responsibilities of the Member States and the Commission, general data processing, rights of individuals concerned and liability.
+Article 3
+Definitions
+1. For the purposes of this Regulation, the following definitions shall apply:
+(a) “alert” means a set of data entered in the SIS II allowing the competent authorities to identify a person or an object in view of a specific action to be taken;
+(b) “supplementary information” means the information not stored in the SIS II, but connected to SIS II alerts, which is necessary in relation to the action to be taken;
+(c) “additional data” means the data stored in the SIS II and connected to SIS II alerts which is necessary for allowing the competent authorities to take the appropriate action;
+(d) “third country national” means any individual who is not a citizen of the European Union within the meaning of Article 17(1) of the EC Treaty and who is not a person enjoying the Community right of free movement;
+(e) “persons enjoying the Community right of free movement” means:
+(i) citizens of the Union within the meaning of Article 17(1) of the EC Treaty, and third-country nationals who are members of the family of a citizen of the Union exercising his right to free movement, to whom Directive 2004/38/EC of the European Parliament and of the Council on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States [25] applies;
+(ii) third-country nationals and their family members, whatever their nationality, who, under agreements between the Community and its Member States, on the one hand, and the countries of which they are nationals, on the other, enjoy rights of free movement equivalent to those of citizens of the Union.
+2. “Processing of personal data”, “processing”, and “personal data” shall be understood in accordance with Article 2 of Directive 95/46/EC of the European Parliament and of the Council[26].
+Article 4
+Technical architecture and ways of operating the SIS II
+1. The SIS II is composed of:
+(a) a central database called “the Central Schengen Information System” (hereinafter referred to as “CS-SIS”);
+(b) one to two access points defined by each Member State (hereinafter referred to as “NI-SIS”);
+(c) a communication infrastructure between the CS-SIS and the NI-SIS.
+2. The National Systems of the Member States (hereinafter referred to as “NS”) shall be connected to the SIS II via the NI-SIS.
+3. The national competent authorities referred to in Article 21 (3) shall enter data, access and perform searches in the SIS II directly or in a copy of data of the CS-SIS available in their NS.
+4. The communication infrastructure between the CS-SIS and the NI-SIS shall also be used by Member States for the exchange of supplementary information.
+Article 5
+Costs
+1. The costs incurred in connection with the operation and maintenance of the SIS II comprising CS-SIS, NI-SIS and the communication infrastructure between CS-SIS and NI-SIS shall be borne by the budget of the European Union.
+2. The costs of developing, adapting and operating each NS shall be borne by the Member State concerned.
+3. Additional costs incurred as a result of the use of the copies referred to in Article 4 (3) shall be borne by the Member States that make use of such copies.
+CHAPTER II
+Responsibilities of the Member States
+Article 6
+National Systems
+Each Member State shall be responsible for operating and maintaining its NS and connecting it to the SIS II.
+Article 7
+SIS II national office and SIRENE authorities
+1. Each Member State shall designate an office which shall ensure competent authorities’ access to the SIS II in accordance with this Regulation.
+2. Each Member State shall designate the authorities which shall ensure the exchange of all supplementary information, hereinafter referred to as the “SIRENE authorities”. These authorities shall verify the quality of the information entered into the SIS II. For those purposes they shall have access to data processed in the SIS II.
+3. The Member States shall inform each other and the Commission of the office referred to in paragraph 1 and of the SIRENE authorities referred to in paragraph 2.
+Article 8
+Exchange of supplementary information
+1. Member States shall exchange all supplementary information through the SIRENE authorities. Such information shall be exchanged in order to allow Member States to consult or inform each other whilst entering an alert, following a hit, when the required action cannot be taken, when dealing with the quality of SIS II data and compatibility of alerts as well as for the exercise of the right of access.
+2. Detailed rules for the exchange of supplementary information shall be adopted in accordance with the procedure defined in Article 35 (3) in the form of a manual to be called the “SIRENE Manual”.
+Article 9
+Technical Compliance
+1. Each Member State shall ensure the compatibility of its NS with the SIS II and observe the procedures and technical standards established for that purpose, in accordance with the procedure referred to in Article 35 (2).
+2. Where relevant, Member States shall ensure that the data present in the copies of the data of the CS-SIS database is at all times identical and consistent with the CS-SIS.
+3. Where relevant, Member States shall ensure that a search in copies of the data of the CS-SIS produces the same result as a search performed directly in the CS-SIS.
+Article 10
+Security and confidentiality
+1. Member States having access to data processed in the SIS II shall take the necessary measures to:
+(a) prevent any unauthorised person having access to installations in which operations relating to the NI-SIS and NS are carried out (checks at the entrance to the installation);
+(b) prevent SIS II data and data media from being accessed, read, copied, modified or erased by unauthorised persons (control of data media);
+(c) prevent the unauthorised accessing, reading, copying, modification or erasure of SIS II data for transmission between the NS and the SIS II (control of transmission);
+(d) ensure the possibility of checking and establishing a posteriori what SIS II data has been recorded, when and by whom (control of data recording);
+(e) prevent unauthorised processing of SIS II data in the NS and any unauthorised modification or erasure of SIS II data recorded in the NS (control of data entry);
+(f) ensure that, in using the NS, authorised persons have access only to SIS II data which fall within their competence (control of access);
+(g) ensure that it is possible to check and establish to which authorities SIS II data recorded in NS may be transmitted by data transmission equipment (control of transmission);
+(h) monitor the effectiveness of the security measures referred to in this paragraph (self-auditing).
+2. Member States shall take measures equivalent to those referred to in paragraph 1 as regards security and confidentiality in respect of the exchange and further processing of supplementary information.
+3. Professional secrecy or an equivalent obligation of confidentiality shall apply to all persons and to all bodies required to work with SIS II data and supplementary information.The obligation of confidentiality shall also apply after those people leave office or employment or after the termination of the activities of those bodies.
+Article 11
+Keeping of logs at national level
+1. Each Member State shall keep logs of all exchanges of data with the SIS II and its further processing, for the purpose of monitoring the lawfulness of data processing, ensuring the proper functioning of the NS, data integrity and security.
+2. The logs shall show, in particular, the date and time of the data transmitted, the data used for interrogation, the data transmitted and the name of both the competent authority and the person responsible for processing the data.
+3. The logs shall be protected by appropriate measures against unauthorised access and erased after a period of one year, if they are not required for monitoring procedures which have already begun.
+4. The competent authorities of the Member States, in particular those in charge of the supervision of the processing of data in the SIS II, shall have the right to access the logs for the purposes of monitoring the lawfulness of data processing and to ensure the proper functioning of the system including data integrity and security.
+Each Member State shall transmit the findings of such monitoring to the Commission without delay to enable them to be integrated, as appropriate, into the reports referred to in Article 34 (3).
+Chapter III
+Responsibilities of the Commission
+Article 12
+Operational management
+1. The Commission shall be responsible for the operational management of the SIS II.
+2. The operational management shall consist of all the tasks necessary to keep the SIS II functioning on a 24 hours a day, 7 days a week basis in accordance with this Regulation, in particular the maintenance work and technical developments necessary for the smooth running of the system.
+Article 13
+Security and confidentiality
+With reference to the operation of the SIS II, the Commission shall apply Article 10 mutatis mutandis.
+Article 14
+Keeping of logs at central level
+1. All processing operations within the SIS II shall be logged for the purposes of monitoring the lawfulness of data processing and ensuring the proper functioning of the system, data integrity and security.
+2. The logs shall show, in particular, the date and time of the operation, the data processed and the identification of the competent authority.
+3. The logs shall be protected by appropriate measures against unauthorised access and erased after a period of one year following erasure of the alert to which they are related, if they are not required for monitoring procedures which have already begun.
+4. The competent national authorities, in particular those in charge of the supervision of processing data in the SIS II, shall have the right to access the logs only for the purposes of monitoring the lawfulness of data processing and to ensure the proper functioning of the system, including data integrity and security. .Such access shall be reserved to the logs relating to the processing operations carried out by the Member State concerned.
+5. The Commission shall have the right to access the logs only for the purposes of ensuring the proper functioning of the system, data integrity and security.
+6. The European Data Protection Supervisor shall have the right to access the logs for the sole purpose of monitoring the lawfulness of the personal data processing operations performed by the Commission including data security.
+Chapter IV
+Alerts issued in respect of third country nationals for the purpose of refusing entry
+Article 15
+Objectives and conditions for issuing alerts
+1. Member States shall issue alerts in respect of third country nationals for the purpose of refusing entry into the territory of the Member States on the basis of a decision defining the period of refusal of entry taken by the competent administrative or judicial authorities, in the following cases:
+(a) if the presence of the third country national in the territory of a Member State represents a serious threat to public policy or public security of any Member State based on an individual assessment, in particular if:
+(i) the third country national has been sentenced to a penalty involving deprivation of liberty of at least one year following a conviction of offence referred to in Article 2 (2) of Council Framework Decision 2002/584/JHA[27]on the European arrest warrant and the surrender procedures between Member States;
+(ii) the third country national is the object of a restrictive measure intended to prevent entry into or transit through the territory of Member States, taken in accordance with Article 15 of the EU Treaty.
+(b) if the third country national is the subject of a re-entry ban in application of a return decision or removal order taken in accordance with Directive 2005/XX/EC[on Return][28].
+2. Member States shall issue the alerts referred to in paragraph 1 in accordance with Article 25 (2) of the Schengen Convention and without prejudice to any provision which may be more favourable for the third country national laid down in:
+(a) Council Directive 2003/86/EC on the right to family reunification[29];
+(b) Council Directive 2003/109/EC concerning the status of third country nationals who are long-term residents[30];
+(c) Council Directive 2004/81/EC on the residence permit issued to third-country nationals who are victims of trafficking in human beings or who have been the subject of an action to facilitate illegal immigration, who cooperate with the competent authorities[31];
+(d) Council Directive 2004/83/EC on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted[32];
+(e) Council Directive 2004/114/EC on the conditions of admission of third country nationals for the purpose of studies, pupil exchange, unremunerated training or voluntary service[33];
+(f) Council Directive 2005/XX/EC on a specific procedure for admitting third-country nationals for purposes of scientific research[34].
+3. Where the decision to issue an alert is taken by an administrative authority, the third country national shall have the right to a review by or an appeal to a judicial authority.
+Article 16
+Categories of data
+1. No more than the following data shall be contained in alerts on third country nationals for the purpose of refusing entry:
+(a) surname(s) and forename(s), name at birth and previously used names and any aliases, possibly entered separately;
+(b) date and place of birth;
+(c) sex;
+(d) photographs;
+(e) fingerprints;
+(f) nationality;
+(g) any specific objective and physical characteristics not subject to frequent change ;
+(h) authority issuing the alert;
+(i) a reference to the decision giving rise to the alert that must be:
+- a judicial or administrative decision based on a threat to public policy or internal security including, if relevant, the decision of conviction or the restrictive measure taken in accordance with Article 15 of the EU Treaty or
+- a return decision and/or removal order accompanied by a re-entry ban;
+(j) link(s) to other alerts processed in the SIS II.
+2. The data referred to in paragraph 1 shall only be used to identify a person for the purposes set out in this Regulation.
+3. The technical rules necessary for entering and accessing the data referred to in paragraph 1 shall be established in accordance with the procedure referred to in Article 35 (3).
+Article 17
+Authorities with right to access the alerts
+1. The following authorities shall have the right to access the alerts referred to in Article 15 (1) for the purpose of refusing entry:
+(a) authorities responsible for control of persons at the external borders of the Member States;
+(b) authorities responsible for issuing of visas
+2. In case of a hit, the information on authorisations to enter required by Article 5 (2) of the Schengen Convention shall be provided by the exchange of supplementary information. The detailed rules for this exchange shall be adopted in accordance with the procedure referred to in Article 35 (3) of this Regulation and inserted in the SIRENE Manual.
+3. Access to the alerts shall be given to the authorities responsible for the issuing of residence permits in order to decide on the granting of the residence permit in accordance with the procedure laid down in Article 25 (1) of the Schengen Convention.
+4. The consultation required by Article 25 of the Schengen Convention shall be carried out by means of the exchange of supplementary information. The detailed rules for this exchange shall be adopted in accordance with the procedure referred to in Article 35 (3) of this Regulation and inserted in the SIRENE Manual.
+Article 18
+Other authorities with right to access
+1. Access to the alerts issued in accordance with Article 15 (1) (b) shall be given to the authorities responsible for the implementation of Directive 2005/XX/EC for the purpose of identifying a third country national staying illegally in the territory in order to enforce a return decision or removal order.
+2. Access to the alerts issued in accordance with Article 15 (1) (b) shall be given to the authorities responsible for the implementation of Regulation (EC) No 343/2003 establishing the criteria and mechanisms for determining the Member State responsible for examining an asylum application lodged in one of the Member States by a third-country national[35], for the purpose of determining whether an asylum applicant has stayed illegally in another Member State.
+3. Access to the alerts issued in accordance with Article 15 (1) (a) shall be given to the authorities responsible for the implementation of Directive 2004/83/EC and Directive 2005/XX/EC[36] [on minimum standards on procedures in Member States for granting and withdrawing refugee status] for the purpose of determining whether a third country national represents a threat to public order or internal security.
+Article 19
+Access to alerts on identity documents
+The authorities referred to in Article 17 and 18 (1) shall have the right to access alerts on identity documents referred to in Article 35 (1) (d) and (e) of Decision 2006/XX in order to verify that the identity document produced by the third country national has not been stolen, misappropriated, or lost.
+Article 20
+Conservation period of the alerts
+1. Alerts issued pursuant to Article 15 (1) shall not be kept longer than the period of refusal of entry laid down in the decision referred to in this provision.
+2. Alerts issued in respect of a person who has acquired citizenship of any Member State shall be erased as soon as the Member State which issued the alert becomes aware that the person has acquired such citizenship.
+3. Alerts issued in respect of third country nationals who become members of the family of a citizen of the Union or of other beneficiaries of Community law on the right to free movement shall be erased as soon as the Member State which entered the alert becomes aware that the person has acquired such new status.
+4. The alerts shall be reviewed in order to determine if they comply with the Directives listed in Article 15 (2) when these become applicable to the third country national in respect of whom the alert has been issued.
+5. The alerts shall automatically be erased after five years from the date of the decision referred to in Article 15 (1). The Member States having entered the data in the SIS II may decide to keep the alerts in the system if the conditions of Article 15 are fulfilled.
+6. Member States will be informed systematically one month before the automatic erasure of the alerts from the system.
+CHAPTER V
+General data processing rules
+Article 21
+Processing of SIS II data
+1. Data entered in the SIS II pursuant to this Regulation shall only be processed for the purposes and by the competent national authorities defined by the Member States in accordance with this Regulation.
+2. Access to SIS II data shall only be authorised within the limits of the competence of the national authority and to duly authorised staff.
+3. Each Member State shall maintain and transmit to the Commission an up-to-date list of national authorities who are authorised to process SIS II data. That list shall specify, for each authority, which category of data it may process, for what purpose and who is to be considered as controller, and shall be communicated by the Commission to the European Data Protection Supervisor. The Commission shall ensure the annual publication of the list in the Official Journal of the European Union .
+Article 22
+Entering a reference number
+A Member State accessing the SIS II without making use of a copy of data of the CS-SIS referred to in Article 4 (3) may add a reference number to the alerts it issues for the sole purpose of tracing national information linked to the issued alert.
+Access to the reference number shall be restricted to the Member State that issued the alert.
+Article 23
+Copy of SIS II data
+1. Except for the copy of data of the CS-SIS referred to in Article 4 (3), the data processed in the SIS II may only be copied for technical purposes and provided that such copying is necessary for the competent national authorities to access the data in accordance with this Regulation.
+2. Data entered into the SIS II by another Member State shall not be copied into a Member State’s own national data files.
+3. Paragraph 2 shall not prejudice the right of a Member State to keep in its national file SIS II data in connection with which action has been taken on its territory. Such data shall be kept in national files for a maximum period of three years, except if specific provisions in national law provide for a longer retention period.
+4. This article shall not prejudice the right of a Member State to keep in its national files data contained in a particular alert, which that Member State has issued in the SIS II.
+Article 24
+Quality of the data processed in the SIS II and compatibility between alerts
+1. The Member State entering the data in the SIS II shall be responsible for ensuring that that data is processed lawfully and, in particular, that it is accurate and up-to-date.
+2. Only the Member State which entered the data in the SIS II shall modify, add to, correct or erase it.
+3. If a Member State, which did not enter the data, has evidence suggesting that data is incorrect or has been unlawfully processed in the SIS II, it shall inform the Member State which entered the data by exchanging supplementary information at the earliest opportunity and if possible not later then 10 days after the evidence comes to its attention. The Member State which entered the data shall check it and, if necessary, modify, add to, correct or erase it. The detailed rules for this exchange of supplementary information shall be adopted in accordance with the procedure defined in Article 35 (3) and inserted in the SIRENE Manual.
+4. If Member States are unable to reach agreement within two months about the correction of the data, any of them may submit the case to the European Data Protection Supervisor who shall act as mediator.
+5. The Member States shall exchange supplementary information in order to distinguish accurately between alerts in the SIS II related to persons with similar characteristics. The detailed rules for this exchange of supplementary information shall be adopted in accordance with the procedure defined in Article 35 (3) and inserted in the SIRENE Manual.
+6. When a person is already the subject of an alert in the SIS II, the Member State issuing a new alert in respect of the same person shall reach agreement on the entry of this new alert with the Member State which issued the first alert. The agreement shall be reached on the basis of the exchange of supplementary information. The detailed rules for this exchange of supplementary information shall be adopted in accordance with the procedure defined in Article 35 (3) and inserted in the SIRENE Manual.Different alerts on the same person may be entered in the SIS II if they are compatible.The rules governing the compatibility and priority of categories of alerts shall be determined in accordance with the procedure set out in Article 35 (3).
+7. Data kept in the SIS II shall be reviewed at least annually by the issuing Member State. Member States may provide for a shorter review period.
+Article 25
+Additional data for the purpose of dealing with misidentifications of persons
+1. Where confusion may arise between the person actually intended by an alert and a person whose identity has been misused, Member States shall add data related to the latter to the alert in order to avoid the negative consequences of misidentifications.
+2. The data related to an individual whose identity has been misused shall only be added with that individual’s explicit consent and shall only be used for the following purposes:
+a) to allow the competent authority to differentiate the individual whose identity has been misused from the person actually intended by the alert;
+b) to allow the individual whose identity has been misused to prove his identity and to establish that his identity has been misused.
+3. No more than the following personal data may be entered and further processed in the SIS II for the purpose of this article:
+(a) surname(s) and forename(s), any aliases possibly entered separately;
+(b) date and place of birth;
+(c) sex;
+(d) photographs;
+(e) fingerprints;
+(f) any specific objective and physical characteristic not subject to frequent change
+(g) nationality;
+(h) number(s) of identity paper(s) and date of issuing.
+4. The data referred to in paragraph 3 shall be erased at the same time as the corresponding alert or earlier if the person so requests.
+5. Only the authorities having the right to access the corresponding alert may access the data referred to in paragraph 3 and for the sole purpose of avoiding misidentification.
+6. The technical rules referred to in Article 16 (3) shall apply to the data referred to in paragraph 3 of this article.
+Article 26
+Links between alerts
+1. A Member State may create a link between alerts it issues in the SIS II in accordance with its national legislation. The effect of such a link shall be to establish a relationship between two or more alerts.
+2. The creation of a link shall not affect the specific action to be taken on the basis of each linked alert or the conservation period of each of the linked alerts.
+3. The creation of a link shall not affect the rights to access provided for in this Regulation. Authorities with no right to access certain categories of alerts shall not have access to the links to those categories.
+4. When a Member State considers that the creation of a link between alerts is incompatible with its national law or international obligations, it may take the necessary measures to ensure there can be no access to the link from its national territory.
+5. The technical rules for linking alerts shall be adopted in accordance with Article 35 (3).
+Article 27
+Purpose and conservation period of supplementary information
+1. Member States shall keep a copy of the decisions referred to in Article 16 (1) (i) to support the exchange of supplementary information.
+2. The supplementary information transmitted by another Member State shall be used only for the purpose for which it was transmitted. It shall only be kept in national files as long as the alert to which it relates is kept in the SIS II. Member States may keep this information for a longer period if necessary to achieve the purpose for which it was transmitted. In any event, the supplementary information shall be erased at the latest one year after the related alert has been erased from the SIS II.
+3. Paragraph 2 shall not prejudice the right of a Member State to keep in national files data relating to a particular alert in connection with which action has been taken on its territory. Such data may be held in national files for a maximum period of three years, except if specific provisions of national law authorise retention of the data for a longer period.
+CHAPTER VI
+Data protection
+Article 28
+Right of information
+An individual whose data is to be processed in the SIS II for the purpose of refusing entry shall be informed of:
+(a) the identity of the controller and his representative, if any;
+(b) the purposes for which the data will be processed within the SIS II;
+(c) the potential recipients of the data;
+(d) the reason for issuing the alert in the SIS II;
+(e) the existence of the right of access and the right to rectify his personal data.
+Article 29
+Right of access, rectification and erasure
+1. The right of individuals to have access to, and to obtain the rectification or erasure of their personal data processed in the SIS II shall be exercised in accordance with the law of the Member State before which that right is invoked.
+2. If the Member State before which the right of access is invoked did not enter the data, it shall communicate the data to the individual concerned after having given the Member State which entered the data an opportunity to state its position. This shall be done through an exchange of supplementary information. The detailed rules for this exchange of supplementary information shall be adopted in accordance with the procedure defined in Article 35 (3) and inserted in SIRENE Manual.
+3. The personal data shall be communicated to the individual concerned as soon as possible and in any event not later than 60 days from the date on which he applies for access.
+4. The individual shall be informed about the follow-up given to the exercise of his rights of rectification and erasure as soon as possible and in any event not later than 6 months from the date on which he applies for rectification or erasure.
+Article 30
+Remedies
+Any person in the territory of any Member State shall have the right to bring an action or a complaint before the courts of that Member State if he is refused the right of access to or the right to rectify or erase data relating to him or the right to obtain information or reparation in connection with the processing of his personal data contrary to this Regulation.
+Article 31
+Data protection authorities
+1. Each Member State shall require that the authorities designated pursuant to Article 28(1) of Directive 95/46/EC to monitor independently the lawfulness of the processing of SIS II personal data on its territory, including the exchange and further processing of supplementary information
+2. The European Data Protection Supervisor shall monitor that the personal data processing activities of the Commission are carried out in accordance with this Regulation.
+3. The national supervisory authorities and the European Data Protection Supervisor shall cooperate actively with each other. The European Data Protection Supervisor shall convene a meeting for that purpose at least once a year.
+CHAPTER VII
+Liability and sanctions
+Article 32
+Liability
+1. Each Member State shall be liable for any damage caused to an individual arising from unauthorised or incorrect processing of data, communicated via the SIS II or SIRENE authorities, carried out by that Member State.
+2. If the Member State against which an action is brought pursuant to paragraph 1, is not the Member State which entered the data in the SIS II, the latter shall reimburse, on request, the sums paid out as compensation unless the data was used by the requested Member State in breach of this Regulation.
+3. If failure of a Member State to comply with its obligations under this Regulation causes damage to the SIS II, that Member State shall be held liable for such damage, unless and insofar as the Commission or other Member State(s) participating in the SIS II failed to take reasonable steps to prevent the damage from occurring or to minimise its impact.
+Article 33
+Sanctions
+Member States shall ensure that processing of SIS II data or supplementary information contrary to this Regulation is subject to effective, proportionate and dissuasive sanctions in accordance with national law.
+CHAPTER VIII
+Final Provisions
+Article 34
+Monitoring, evaluation and statistics
+1. The Commission shall ensure that systems are in place to monitor the functioning of the SIS II against objectives, in terms of output, cost-effectiveness and quality of service.
+2. For the purposes of technical maintenance, reporting and statistics, the Commission shall have access to the necessary information related to the processing operations performed in the SIS II.
+3. Two years after the SIS II starts operations and every two years thereafter, the Commission shall submit to the European Parliament and the Council a report on the activities of the SIS II and on the bilateral and multilateral exchange of supplementary information between Member States.
+4. Four years after the SIS II starts operations and every four years thereafter, the Commission shall produce an overall evaluation of the SIS II and the bilateral and multilateral exchange of supplementary information between Member States. This overall evaluation shall include the examination of results achieved against objectives and assess the continuing validity of the underlying rationale and any implications of future operations. The Commission shall transmit the reports on the evaluation to the European Parliament and the Council.
+5. Member States shall provide the Commission with the information necessary to draft the reports referred to in paragraphs 3 and 4.
+Article 35
+Committee
+1. The Commission shall be assisted by a Committee.
+2. Where reference is made to this paragraph, the advisory procedure laid down in Article 3 of Decision 1999/468/EC shall apply, in compliance with Article 7 (3) thereof.
+3. Where reference is made to this paragraph, the regulatory procedure laid down in Article 5 of Decision 1999/468/EC shall apply, in compliance with Article 7(3) thereof.The period provided for in Article 5(6) of Decision 1999/468/EC shall be three months.
+4. The Committee shall adopt its Rules of Procedure.
+Article 36
+Amendment of the Schengen Convention
+1. For the purposes of matters falling within the scope of the EC Treaty, this Regulation replaces Articles 92 to 119 of the Schengen Convention, with the exception of Article 102 (a) thereof.
+2. It also replaces the following provisions of the Schengen acquis implementing those articles[37]:
+a) Decision of the Executive Committee of 14 December 1993 on the Financial Regulation on the costs of installing and operating the Schengen information system (C.SIS) (SCH/Com-ex (93) 16);
+b) Decision of the Executive Committee of 7 October 1997 on contributions from Norway and Iceland to the costs of installing and operating of the C.SIS (SCH/Com-ex (97) 18);
+c) Decision of the Executive Committee of 7 October 1997 on the development of the SIS (SCH/Com-ex (97) 24);
+d) Decision of the Executive Committee of 15 December 1997 amending the Financial Regulation on C.SIS (SCH/Com-ex (97) 35);
+e) Decision of the Executive Committee of 21 April 1998 on C.SIS with 15/18 connections (SCH/Com-ex (98) 11);
+f) Decision of the Executive Committee of 28 April 1999 on C.SIS installation expenditure (SCH/Com-ex (99) 4);
+g) Decision of the Executive Committee of 28 April 1999 on updating the Sirene manual (SCH/Com-ex (99) 5);
+h) Declaration of the Executive Committee of 18 April 1996 defining the concept of alien (SCH/Com-ex (96) decl. 5);
+i) Declaration of the Executive Committee of 28 April 1999 on the structure of SIS (SCH/Com-ex (99) decl. 2 rev.).
+3. For the purposes of matters falling within the scope of the EC Treaty, references to the replaced articles of the Schengen Convention and relevant provisions of the Schengen acquis implementing those articles shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in the Annex.
+Article 37
+Repeal
+Regulation (EC) No 378/2004 is repealed.
+Article 38
+Transitional period and budget
+1. Articles 94, 96 and 101 (1) and (2) of the Schengen Convention shall continue to apply to alerts issued in the SIS and transferred to the SIS II or to alerts issued directly in the SIS II before the date set in accordance with Article 39 (3) of this Regulation until one year after that date.One year after the date set in accordance with Article 39 (3), those alerts shall be automatically erased from the SIS II unless Member States have reissued those alerts in accordance with this Regulation.
+2. The remainder of the budget at the date set in accordance with Article 39 (2), which has been approved in accordance with Article 119 of the Schengen Convention, shall be paid back to the Member States. The amounts to be repaid shall be calculated on the basis of the contributions from the Member States as laid down in the Decision of the Executive Committee of 14 December 1993 on the financial regulation on the costs of installing and operating the Schengen Information System.
+Article 39
+Entry into force and applicability
+1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .It shall apply from a date to be determined by the Commission in accordance with paragraphs 2 and 3.
+2. The date from which Articles 1 to 14 and 21 to 38 with the exception of Articles 22, 25 and 26 are to apply shall be determined after:
+(a) the necessary implementing measures have been adopted;
+(b) the Commission has made the necessary technical arrangements for allowing the SIS II to be connected to the Member States and
+(c) all Member States have notified the Commission that they have made the necessary technical and legal arrangements to process SIS II data and exchange supplementary information in accordance with the aforementioned articles.
+The Commission shall publish the date in the Official Journal of the European Union .
+3. The date from which Articles 15 to 20 and Articles 22, 25 and 26 are to apply shall be determined after:
+(a) the necessary implementing measures have been adopted and
+(b) all Member States have notified the Commission that they have made the necessary technical and legal arrangements to process SIS II data and exchange supplementary information in accordance with the aforementioned articles.
+The Commission shall publish the date in the Official Journal of the European Union .
+This Regulation shall be binding in its entirety and directly applicable in all Member States in accordance with the Treaty establishing the European Community.
+Done at Brussels,
+For the European Parliament For the Council
+The President The President
+ANNEX
+Correlation table
+Schengen Convention[38] Articles | Regulation Articles |
+Art. 92(1) | Art. 1(1); Art. 2(1); Art. 4(1)(2)(3) |
+Art. 92(2) | Art. 4(1)(2)(3); Art. 5(2)(3); Art.6; Art.9 |
+Art. 92(3) | Art. 4(1)(2)(3), Art. 5(1), Art. 12 |
+Art. 92(4) | Art.3 (1); Art. 7(2)(3); Art.8 |
+Art. 93 | Art.1(2) |
+Art. 94(1) | Art. 21(1) |
+Art. 94(2) | Art.15(1) |
+Art. 94(3) | Art. 16(1); Art. 25(3) |
+Art. 94(4) |
+Art. 95(1) |
+Art. 95(2) |
+Art. 95(3) |
+Art. 95(4) |
+Art. 95(5) |
+Art. 95(6) |
+Art. 96(1) | Art. 15(1) |
+Art. 96(2) | Art. 15(1) |
+Art. 96(3) | Art. 15(1) |
+Art. 97 |
+Art. 98(1) |
+Art. 98(2) |
+Art. 99(1) |
+Art. 99(2) |
+Art. 99(3 ) |
+Art. 99(4) |
+Art. 99(5) |
+Art. 99(6) |
+Art. 100(1) |
+Art. 100(2) |
+Art. 100(3) |
+Art. 101(1) | Art. 17(1) |
+Art. 101(2) | Art. 17(1)(3); Art. 18; Art.19 |
+Art. 101(3) | Art. 21(2) |
+Art. 101(4) | Art. 21(3) |
+Art. 101A(1) |
+Art. 101A(2) |
+Art. 101A(3) |
+Art. 101A(4) |
+Art. 101A(5) |
+Art. 101A(6) |
+Art. 101B(1) |
+Art. 101B(2) |
+Art. 101B(3) |
+Art. 101B(4) |
+Art. 101B(5) |
+Art. 101B(6) |
+Art. 101B(7) |
+Art. 101B(8) |
+Art. 102(1) | Art. 21(1) |
+Art. 102(2) | Art. 23(1)(2) |
+Art. 102(3) |
+Art. 102(4) | Art.17(1)(3); Art.18; Art.19 |
+Art. 102(5) | Art. 32(1) |
+Art. 103 | Art. 11 |
+Art. 104(1) |
+Art. 104(2) |
+Art. 104(3) |
+Art. 105 | Art. 24(1) |
+Art. 106(1) | Art. 24(2) |
+Art. 106(2) | Art. 24(3) |
+Art. 106(3) | Art. 24(4) |
+Art. 107 | Art. 24(6) |
+Art. 108(1) | Art. 7(1) |
+Art. 108(2) |
+Art. 108(3) | Art. 6; Art. 7(1); Art. 9(1) |
+Art. 108(4) | Art. 7(3) |
+Art. 109(1) | Art. 28; Art. 29(1)(2)(3) |
+Art. 109(2) |
+Art. 110 | Art. 29(1)(4); Art.31(1) |
+Art. 111(1) | Art. 30 |
+Art. 111(2) |
+Art. 112(1) | Art. 20(1)(2)(3)(4)(5); Art. 24(7) |
+Art. 112(2) | Art. 24(7) |
+Art. 112(3) | Art. 20(6) |
+Art. 112(4) | Art.20(5) |
+Art. 112A(1) | Art. 27(2) |
+Art. 112A(2) | Art. 27(3) |
+Art. 113(1) |
+Art. 113(2) | Art. 14(3)(4)(5)(6) |
+Art. 113A(1) | Art. 27(2) |
+Art. 113A(2) | Art. 27(3) |
+Art. 114(1) | Art. 31(1) |
+Art. 114(2) | Art. 31 |
+Art. 115(1) | Art. 31(2) |
+Art. 115(2) |
+Art. 115(3) |
+Art. 115(4) |
+Art. 116(1) | Art. 32(1) |
+Art. 116(2) | Art. 32(2) |
+Art. 117(1) |
+Art. 117(2) |
+Art. 118(1) | Art. 10(1) |
+Art. 118(2) | Art. 10(1) |
+Art. 118(3) | Art. 10(3) |
+Art. 118(4) | Art. 13 |
+Art. 119(1) | Art. 5(1); Art.38(2) |
+Art. 119(2) | Art. 5(2)(3) |
+FINANCIAL STATEMENT
+Policy area(s): JLS Activit(y/ies): Strategy, policy and coordination. |
+TITLE OF ACTION: FUNCTIONING OF THE SIS II |
+1. BUDGET LINE(S) + HEADING(S)
+18 08 02 Schengen Information System, second generation (SIS II)
+2. OVERALL FIGURES
+2.1 Total allocation for action (Part B):
+156 Million € for commitments until 2013
+2.2 Period of application:
+-  From 2007 to 2013 (for this statement)
+-  Undetermined duration, after 2013.
+2.3 Overall multi-annual estimate of expenditure:
+a) Schedule of commitment appropriations/payment appropriations (financial intervention) (cfr. point 6.1.1)
+€ Million ( to 3 decimal places)
+2007 | 2008 | 2009 | 2010 | 2011 | 2012 and subsequent years | Total |
+Commitments | 11,000 | 13,000 | 21,000 | 33,000 | 18,000 | 36,000 | 132,000 |
+Payments | 5,500 | 12,000 | 17,000 | 27,000 | 25,500 | 45,000 | 132,000 |
+It is estimated that fifty percent of the payments will be made in the year of commitment, the rest the following year.
+b) Technical and Administrative assistance and support expenditure (cf. point 6.1.2)
+CE | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 |
+CP | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 | 0,000 |
+Sub-total a+b |
+CE | 11,000 | 13,000 | 21,000 | 33,000 | 18,000 | 36,000 | 132,000 |
+CP | 5,500 | 12,000 | 17,000 | 27,000 | 25,500 | 45,000 | 132,000 |
+c) Overall financial impact of human resource and other administrative expenditure (cf. points 7.2 and 7.3)
+2007 | 2008 | 2009 | 2010 | 2011 | 2012 and subsequent years | Total |
+CE | 14,401 | 16,401 | 24,401 | 36,401 | 21,401 | 42,802 | 155,807 |
+CP | 8,901 | 15,401 | 20,401 | 30,401 | 28,901 | 51,802 | 155,807 |
+2.4 Compatibility with financial programming and financial perspectives
+( Proposal is compatible with existing financial programming.
+The amounts indicated for the period 2007-2013 are subject to the adoption of the new financial perspectives.
+2.5 Financial impact on revenue
+( Proposal has financial impact – the effect on revenue is as follows:
+The present proposal builds upon the Schengen acquis, as defined in Annex A of the Agreement signed on 18 May 1999 between the Council and the Republic of Iceland and the Kingdom of Norway concerning the association of both these States with the implementation, application and development of the Schengen acquis[39]. Article 12(1) last paragraph lays down: “In cases where operational costs are attributed to the general budget of the European Community, Iceland and Norway shall share in these costs by contributing to the said budget an annual sum in accordance with the percentage of the gross national product of their countries in relation with the gross national product of all participating States”[40].
+Contribution from Iceland/Norway: 2.128% (2002 figures)
+€ Million (to one decimal place)
+Prior to action | Situation following action |
+Non compuls. | Diff | NO | NO | NO | N° 3 |
+4. LEGAL BASIS
+This statement accompanies two legislative proposals:
+- a Regulation of the European Parliament and the Council on the establishment, operation and use of the Second Generation Schengen Information System (SIS II) based on Articles 62 (2) (b), 63 (3) (b) and 66 of the EC Treaty and;
+- a Council Decision on the establishment, operation and use of the Second Generation of Schengen Information System (SIS II) based on Articles 30 (1) (a) and (b), Article 31 (a) and (b) and Article 34 (2) (c) of the EU Treaty.
+5. DESCRIPTION AND GROUNDS
+5.1 Need for Community intervention [41]
+5.1.1 Objectives pursued
+The SIS II will be a common information system allowing the competent authorities in the Member States to cooperate, by exchanging information for the implementation of various policies required, in order to establish an area without internal frontiers. It will replace the current SIS, which does not have the capacity to service more than 18 participating States. It is at present operational for 13 Member States and 2 other States (Iceland and Norway).
+The Council therefore adopted a Regulation (EC) No 2424/2001 and Decision No 2001/886/JHA of 6 December 2001[42] on the development of the SIS II and entrusted this task to the Commission. These instruments also allowed the expenditure involved in the development phase (2002-2006) of the SIS II to be charged to the budget of the European Union. The present proposal aims to ensure the continuity of this Community support during the operational phase and provide findings for the development of new functionalities.
+The target date for the SIS II to be operational, as required by the Council, is set for the beginning of 2007. The Commission will need adequate facilities and sufficient resources to manage the SIS II for the start of operations.
+The estimates indicated in the Communication on the development of the Schengen Information System II and possible synergies with a future Visa Information System (VIS) of December 2003 [43] covered the development of the system for the period 2004-2006. While the present financial statement covers the expenditure necessary for operating the SIS II.
+The objective is to ensure daily maintenance of the IT system by acquiring the necessary resources to verify the system’s activity, carry out maintenance interventions, and react in case of difficulties appearing during the operational management procedures. SIS II management needs resources both technical (IT infrastructure and networks, technical and office space) and human (people in charge of administrative and technical management of the IT system).
+The objective is also to manage future evolutions of the system, including the integration of new functionalities such as the development of a biometrics search engine.
+5.1.2 Measures taken in connection with ex ante evaluation
+A feasibility study on the SIS II was carried out between September 2002 and July 2003.
+The results of this feasibility study were endorsed by the Council in June 2003 and presented by the Commission in the aforementioned Communication on the SIS II
+The chosen architecture (a central database and national interfaces which store no data) requires a high availability and robustness, to be achieved through specific measures, such as doubled hardware and software, as well as data replication. The high availability of the SIS II, including the possibility for Member States to query the central SIS II database, allows those Member States, which are ready to do so, to discard their copy of data contained in the CS-SIS database. The added value of such a feature is that the annual costs for the management and maintenance of the national database will be reduced for those Member States concerned.
+Apart from the feasibility study, the Commission examined the level of financial and human resources which the French Ministry of the Interior devotes to the operational management of the current SIS to which the Member States directly contribute, in accordance with Article 119 of the Schengen Convention[44]. The budget of the European Union must cover some additional items such as premises and infrastructure for hosting the systems, the cost covered at this moment by France, and which do not impact on the total amount of the operating costs of the current SIS.
+5.1.3 Measures taken following ex post evaluation
+Not applicable
+5.2 Action envisaged and budget intervention arrangements
+The planned financial resources must cover the expenses for the hosting of the information system and for the necessary resources for its daily management and of its possible technical evolution. This is in line with the Council conclusions of 29 April 2004, which foresee two sites for the development of the SIS II. The financial resources must also cover the expenses related to the network which will link the Member States to the central domain.
+SIS II Management (see specific line in section 6.1.1 table):
+The estimates of the expenses to be borne by the budget of the European Union for the SIS II management include:
+-  Costs related to the office space occupied by people and computers (server rooms, offices, meeting rooms); these costs represent a significant part of the SIS II management budget for 2007 and increase slowly consistent with usual rates (maximum 4% yearly grow).
+-  Hardware costs:
+-  For 2007, a provision has been made for a specific investment intended to acquire network devices enabling 29 users (Member States and potential European bodies) to be directly connected to the European network. This represents 52% of the SIS II management budget for 2007. For 2008, the envisaged provision covers only the linking-up of future new Members States (1 to 2 additional MS as from 2008) and so will not be very significant (only 4% in 2008). This provision covers the acquiring of the equipment. As far as the rental expenses are concerned, see the section related to “ Network: direct access point rental ” hereunder. As from 2010, the envisaged provisions cover the partial upgrade and renewal of the system in order to adapt the system’s capacity to the demand (new requests for access to the central system) while allowing its progressive replacement. These costs represent 47% of the 2010 SIS II management budget.
+-  The future maintenance contract for the IT system will start in 2010. In the first 3 years, the system will remain under the terms of the guarantee, therefore, no budget is planned for the period 2007-2009. As from 2010, the system maintenance will be covered by a specific contract, the budget is estimated at a maximum of 35% of the SIS II management budget for 2010. This amount is based on the value of the offer that was selected for the implementation of SIS II.
+-  Stationery, furniture and various work equipment, documentation, costs related to public relations and training activities: These costs represent 15.5 % of the SIS II management budget for 2007.
+Network: direct access point rental (see specific line in section 6.1.1 table):
+The estimates of the expenses borne by the budget of the European Union also include the costs for the rental of devices allowing Member States to connect their National system directly to the European network. At this stage, the contract for the future network infrastructure is not yet signed and, therefore, the estimates are based on the current contract for TESTA II.
+The 2007 financial figures cover the estimated rental cost for 27 direct s-TESTA lines, the link between the two sites and their relevant equipment. These costs are re-evaluated every year in order to cover 36 direct access points by 2013.
+The communications infrastructure (lease of access points, lines etc...) represents an important expenditure. This is due to the very high sensitivity and necessary high availability of the SIS II. The users have thus requested a dedicated line from the common domain (TESTA) to their national SIS II access points, significantly increasing the communication costs. This same communication infrastructure will be used for the bilateral or multilateral transmission of supplementary information between the SIRENE authorities.
+However, the provisional costs of the network are comparable to the prices available in the current SIS. The global amount (6 Mio) might appear higher than that of the SISNET, but this is mainly due to the doubling of the number of access points. From 15 access points in the first generation Schengen Information System, the SIS II will provide for 27 access points.
+External support for the assistance of the maintenance of IT management systems (see specific line in section 6.1.1 table):
+The estimates of the expenses borne by the budget of the European Union also foresee the costs for consultancy and technical assistance. The figure given will cover:
+-  consultancy on specific topics that require particular attention through feasibility studies or ad-hoc expertise,
+-  IT technical assistance in various fields such as new technology, biometrics, system & network management…
+Development and operation of a search engine based on a biometric identifier (see specific line in section 6.1.1 table):
+Contrary to the current SIS, the new system should be flexible enough to cope with changing requirements. The Council Conclusions of 14 June 2004 on the SIS II mentioned the possible implementation of a central biometric search engine, for the purpose of identification of persons and this will represent a significant improvement for the system and a separate expenditure heading has, therefore, been included in the financial statement. The development of such a biometric search engine will require a new public procurement procedure and, given the currently very dynamic biometric market, the estimates regarding costs can only be very approximate. In any case, the implementation will be very progressive, since the Member States will need a considerable time for rolling out within the country and, at the external borders, the necessary infrastructure for entering and searching biometric data in the SIS II.
+The price estimates in this financial statement are based on a gradual increase of capacity, with annual investments of the capacity needed for the next year, and taking into account the constant drop in prices. The figures presented hereunder are based on the available estimates, in particular the number of searches on wanted persons. It is envisaged that a gradual introduction of biometric searches will result in up to 30% of the total searches in 3 years’ time being carried out on the basis of biometric data. This number of total searches is estimated to grow from 65 Mio to 95 Mio over the period 2008-2010, provided that Members States progressively increase their use of the central system.
+External human resources (see specific line in section 6.1.1 table):
+The total of 20 security agents must be seen in terms of up to 7 persons on site, 24 hours a day, 7 days a week (3 teams of seven). The same reasoning applies for the 21 data input operators. Currently, 3 teams of 7 data input operators are available on the C.SIS site, 24 hours a day, 7 days a week.
+5.3 Methods of implementation
+The system shall be maintained by the Commission, which shall be responsible for operating the Central database and the communication infrastructure between the Central database and the National Interfaces. External evaluation and consultancy will have to be provided by contractors who will also assist the Commission in carrying out specific studies where necessary.
+The Commission will be assisted by the Committees laid down in the Regulation and Decision on the establishment, operation and use of the SIS II and that will replace the Committees established by Regulation (EC) No 2424/2001 and Decision (EC) No 886/2001 on the development of the SIS II.
+In the context of the new financial perspectives, the scope for entrusting tasks related to the management of large-scale IT systems (EURODAC, SIS II, VIS) to the external borders agency will be explored at a later stage.
+6. FINANCIAL IMPACT
+6.1. Total financial impact on Part B - (over the entire programming period).
+For certain items, the table below provides estimates prepared on the basis of a projection of the costs related to the operation of the current system. For the post-2007 years, an inflation rate was applied when necessary. For every part the amounts are rounded to the unit above.
+6.1.1 Financial Participation
+Commitments in € million (to three decimal places)
+Number of permanent posts | Number of temporary posts |
+Officials or temporary staff | A B C | 8 14 1 | 8 14 1 | 2 managers, 1 intermediate manager , 2 operating managers, 3 desk officers 8 operating engineers, 3 test engineers, 1 assistant and 2 secretaries 1 support |
+Other human resources |
+Total | 23 | 23 |
+7.2 Overall financial impact of human resources
+Type of human resources | Amount K € | Method of calculation* (K€) |
+Officials Temporary staff | 2484 | 2007 |
+Personnel for operational tasks | 1836 |
+1 | Manager (1 current) [A] | 108 |
+1 | Intermediate manager between manager and staff (1 current) [A] | 108 |
+2 | Operating managers (2 current) [A] | 216 |
+8 | Operating engineers (6 current + 2 new) [B] | 864 |
+3 | Test engineers (3 current) [B] | 324 |
+2 | Secretaries (2 current) [B] | 216 |
+Personnel for strategic management tasks | 648 |
+1 | Manager (A) | 108 |
+1 | Assistant (B) | 108 |
+3 | Desk officers (A) | 324 |
+1 | Support (C) | 108 |
+TOTAL | 2484 |
+Other human resources (please indicate the budget line) |
+Total | 2484 |
+The amounts are total expenditure for twelve months.
+7.3 Other administrative expenditure deriving from the action
+Budget line (number and heading) | Amount € | Method of calculation |
+Overall allocation (Title A7) 18 01 02 11 01 – Missions 18 01 02 11 – Meetings 18 01 02 11 – Compulsory committees (1) 18 01 02 11 – Non-compulsory committees (1) 18 01 02 11 – Conferences 18 01 02 11 04 – Studies and consultations Other expenditure (specify) | 66.000 300.000 15.000 36.000 500.000 | 30*1.000+12*3.000 10 * 30.000 2*7500 1*36.000 500.000 | Steering Committee |
+Information systems (A-5001/A-4300) |
+Other expenditure - Part A (specify) |
+Total | 917.000 |
+The amounts are total expenditure for twelve months.
+(1) Specify the type of committee and the group it belongs to.
+I. Annual total (7.2 + 7.3) II. Duration of action III. Total cost of action (I x II) | 3.401.000 € 7 years 23.807.000 € |
+8. FOLLOW-UP AND EVALUATION
+8.1 Follow-up arrangements
+Regarding the performance of the system, the Commission will ensure that systems are in place to monitor the functioning of the SIS II against objectives, in terms of output, cost-effectiveness and quality of service. For this purpose, the Commission will produce statistics on the use of the SIS II.
+The Commission will also systematically involve the users via the SIS II Committee or specific working groups for assessing the performance of the system and taking appropriate action in cooperation with selected contractors.
+8.2 Arrangements and schedule for the planned evaluation
+Two years after the SIS II starts operations and every two years thereafter, the European Commission will submit a report to the European Parliament and the Council on the technical functioning of the SIS II and on the bilateral and multilateral exchange of supplementary information between Member States.
+Four years after the SIS II starts operations and every four years thereafter, the Commission will produce an overall evaluation of the SIS II and the bilateral and multilateral exchange of supplementary information between Member States. This overall evaluation shall include the examination of results achieved against objectives and assess the continuing validity of the underlying rationale and any implications of future operations. The Commission shall transmit the reports on the evaluations to the European Parliament and the Council.
+9. ANTI-FRAUD MEASURES
+The Commission procedures for the award of contracts will be applied, ensuring compliance with Community law on public contracts.
+[1] Regulation EC No 2424/2001 and Decision 2001/886/JHA on the development of the second generation of the Schengen Information System,
+[2] Articles 92 to 119 of the Schengen Convention (OJ L 239,22.09.2000, p. 19) taking into account also the amendments entered in the Convention following the adoption of the Regulation EC No 871/2004 concerning the introduction of some new functions for the SIS, including in the fight against terrorism, OJ L 162, 30.04.2004, p. 29.
+[3] Council Conclusions on SIS II of 5-6 June 2003, 29 April and 14 June 2004 and European Parliament’s Opinions and Resolutions T4-0082/1997, T5-0610/2002, T5-0611/2002, T5-0391/2003, T5-0392/2003 and T5-0509/2003
+[4] OJ L 64, 02.03.2004, p. 5.
+[5] OJ L 176, 10.7.1999, p. 17.
+[6] OJ L 131, 1.6.2000, p. 43.
+[7] OJ L 64, 7.3.2002, p. 20.
+[8] Council document 13054/04.
+[9] OJ L 176 of 10.07.1999, p. 31.
+[10] OJ L 370, 17.12.2004, p.78.
+[11] OJ L 328 of 13.12.2001, p. 1.
+[12] OJ C , , p. .
+[13] OJ C , , p. .
+[14] OJ L 239, 22.9.2000, p. 19. Convention as last amended by Regulation (EC) No 871/2004 (OJ L 162, 30.4.2004, p. 29).
+[15] OJ L 328 , 13.12.2001, p.4.
+[16] OJ L 328, 13.12.2001, p. 1.
+[17] OJ. L…
+[18] OJ L 281, 23.11.1995, p. 31
+[19] OJ L 8, 12.1.2001, p. 1.
+[20] OJ L 184, 17.7.1999, p. 23.
+[21] OJ L 131, 1.6.2000, p. 43.
+[22] OJ L 64, 7.3.2002, p. 20.
+[23] OJ L 176, 10.7.1999, p. 31.
+[24] OJ L 370, 17.12.2004, p.78
+[25] OJ L 158, 30.04.04, p. 77.
+[26] Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data, OJ L 281 23.11.1995, p. 31.
+[27] OJ L190, 18.7.2002, p.1.
+[28] OJ XX
+[29] OJ L 251, 3.10.2003, p. 12.
+[30] OJ L 16, 23.1.2004, p. 44.
+[31] OJ L 261, 6.8.2004, p. 19.
+[32] OJ L 304, 30.9.2004, p. 12.
+[33] OJ L 375, 23.12.2004, p. 12.
+[34] OJ L XX
+[35] OJ L 50, 25.02.03, p.1
+[36] OJ XX
+[37] OJ L 239 22.9.2000, p. 439.
+[38] Articles and paragraphs in italics have been added or amended by Council Regulation (EC) No. 871/2004 and Council Decision 2005/211/JHA on the introduction of new functions for the Schengen Information System, including the fight against terrorism.
+[39] OJ L 176, 10. 7.1999, p. 36.
+[40] Switzerland as a country to be associated with the implementation, application and development of the Schengen acquis will also contribute to the EU Budget.
+[41] For further information, please see the separated orientation document.
+[42] OJ L 328, 13.12.2001, p. 1.
+[43] COM (2003) 711
+[44] In particular the Management report for 2003 on C.SIS installation and operation Council Doc. SIRIS 73
+[45] Computer maintenance on 2 sites, upkeep and operating costs of premises (offices, meeting room and computer room), furniture, equipment and supplies, documentation, public relations, training.
+[46] For further information, please see the separated orientation document.
