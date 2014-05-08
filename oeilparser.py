@@ -116,7 +116,7 @@ def parse_info(inputcsv_path, outputcsv_path):
         rapporteur = [u'NA']
         commission = [u'NA']
         commissioner = [u'NA']
-        doc = 13 * ['NA']
+        doc = 13 * [u'NA']
         
         page = urllib2.urlopen(url)
         soup = bs4.BeautifulSoup(page.read())
@@ -177,6 +177,7 @@ def parse_text(inputcsv_path, outputfolder):
     with open(inputcsv_path, 'r') as f:
         urllist = [url[15] for url in csv.reader(f, delimiter=',')]
         urllist = urllist[1:]
+        urllist = filter(None, urllist)
     for url in urllist:
         page = urllib2.urlopen(url)
         soup = bs4.BeautifulSoup(page.read())
@@ -187,7 +188,7 @@ def parse_text(inputcsv_path, outputfolder):
         content = soup.find('tr', 'contents')
         paragraphs = content.findAll('p')
         pattern = re.compile(r'^[A-Z0-9]{1,3}\.\s{1,2}', re.UNICODE)
-        paragraphs = [p.contents[0] for p in paragraphs if p.contents and isinstance(p.contents[0], bs4.element.NavigableString) and re.match(pattern, p.contents[0])]
+        paragraphs = [p.text for p in paragraphs if p.text and re.match(pattern, p.text)]
         splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
         paragraphs = [re.split(splitpattern, p) for p in paragraphs]
         clearpattern = re.compile(r'^[\s\n\t\"]*|[\s\n\t\"]*$', re.UNICODE)
@@ -198,44 +199,18 @@ def parse_text(inputcsv_path, outputfolder):
             for p in paragraphs:
                 csvwriter.writerow(p)
         time.sleep(1)
-                
-def parse_eurlex_text(inputcsv_path, outputfolder):
-    with open(inputcsv_path, 'r') as f:
-        celexlist = [row[0] for row in csv.reader(f, delimiter=',')]
-        celexlist = celexlist[1:]
-        urldict = {celex:'http://new.eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:' + celex + '&rid=1' for celex in celexlist}
-    for celex, url in urldict.iteritems():
-        page = urllib2.urlopen(url)
-        soup = bs4.BeautifulSoup(page.read())
-        content = soup.find('div', id='TexteOnly')
-        paragraphs = content.findAll('p')
-        paragraphs = [p.contents[0] for p in paragraphs if p.contents]
-        whereas = re.compile(r'Whereas:', re.UNICODE)
-        index = [i for i, paragraph in enumerate(paragraphs) if re.match(whereas, paragraph)]
-        paragraphs = paragraphs[index[0]:]
-        clearpattern = re.compile(r'^[\s\n\t\"]*|[\s\n\t\"]*$', re.UNICODE)
-        paragraphs = [re.sub(clearpattern, u'', p) for p in paragraphs]
-        with open(os.path.join(outputfolder, celex + u'.tsv'), 'w') as f:
-            csvwriter = csv.writer(f, dialect='excel-tab')
-            for p in paragraphs:
-                csvwriter.writerow([p])
-        time.sleep(1)
 
 #for f in os.listdir('./OEIL/search_query_results/INI/'):
 #    parse_urls('./OEIL/search_query_results/INI/' + f, './OEIL/urls.csv')
 #remove_duplicates('./OEIL/urls.csv', './OEIL/urls.csv')
-#parse_info("./OEIL/short_urls.csv", "./OEIL/short_info.csv")
 #parse_info("./OEIL/urls.csv", "./OEIL/info.csv")
 #parse_info("./OEIL/urls.csv", "./OEIL/info2.csv")
-#parse_text('./OEIL/short_info.csv', './OEIL/short_text')
 #parse_text('./OEIL/info.csv', './OEIL/text')
+#parse_text('./OEIL/inl_info.csv', './OEIL/text')
 
 #for f in os.listdir('./OEIL/search_query_results/all/6th_term/'):
 #    parse_urls('./OEIL/search_query_results/all/6th_term/' + f, './OEIL/all_urls.csv')
 #for f in os.listdir('./OEIL/search_query_results/all/7th_term/'):
 #    parse_urls('./OEIL/search_query_results/all/7th_term/' + f, './OEIL/all_urls.csv')
 #remove_duplicates('./OEIL/all_urls.csv', './OEIL/all_urls.csv')
-parse_info('./OEIL/all_urls.csv', './OEIL/all_info.csv')
-
-#for f in os.listdir('./EUR-Lex/search_query_results/'):
-#    parse_eurlex_text('./EUR-Lex/search_query_results/' + f, './EUR-Lex/text')
+#parse_info('./OEIL/all_urls.csv', './OEIL/all_info.csv')
