@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:42:20 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:00:31 CEST 2014</generatedOn>
 	<items count="300">
 	<item>
 			<reference>2007/2614(RSP)</reference>
@@ -31,12 +31,6 @@ Strategy for 2009</title>
 		<lastpubdate>Mon Mar 03 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2684(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2684(RSP)&amp;l=en</link>
-		<title>Kosovo</title>
-		<lastpubdate>Mon Feb 11 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2649(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2649(RSP)&amp;l=en</link>
 		<title>Resolution on the input for the 2008 Spring
@@ -44,10 +38,10 @@ Council as regards the Lisbon Strategy</title>
 		<lastpubdate>Mon Feb 11 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2683(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2683(RSP)&amp;l=en</link>
-		<title>Situation in Iran</title>
-		<lastpubdate>Mon Jan 28 00:00:00 CET 2008</lastpubdate>
+			<reference>2007/2684(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2684(RSP)&amp;l=en</link>
+		<title>Kosovo</title>
+		<lastpubdate>Mon Feb 11 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
 			<reference>2007/2639(RSP)</reference>
@@ -55,6 +49,12 @@ Council as regards the Lisbon Strategy</title>
 		<title>Annual debate on the progress made in the Area of
 Freedom, Security and Justice (Articles 2 and 39 of the TEU)
 2007</title>
+		<lastpubdate>Mon Jan 28 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2683(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2683(RSP)&amp;l=en</link>
+		<title>Situation in Iran</title>
 		<lastpubdate>Mon Jan 28 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -78,56 +78,10 @@ Presidency</title>
 		<lastpubdate>Mon Dec 17 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2268(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2268(INI)&amp;l=en</link>
-		<title>2007 progress report on FYROM</title>
-		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2267(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2267(INI)&amp;l=en</link>
-		<title>Croatia's 2007 progress report</title>
-		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2269(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2269(INI)&amp;l=en</link>
-		<title>Turkey's 2007 progress report</title>
-		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2271(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2271(INI)&amp;l=en</link>
-		<title>Commission's 2007 enlargement strategy
-paper</title>
-		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2274(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2274(INI)&amp;l=en</link>
-		<title>Annual Report on Human Rights in the World 2007
-and the EU's policy on the matter</title>
-		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2275(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2275(INI)&amp;l=en</link>
-		<title>Situation of the European economy: report on the
-Broad Economic Policy Guidelines for 2008</title>
-		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2286(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2286(INI)&amp;l=en</link>
 		<title>The Treaty amending the Treaty on the European
 Union and the Treaty establishing the European Community</title>
-		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2285(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2285(INI)&amp;l=en</link>
-		<title>White Paper on nutrition, overweight and obesity
-related health issues</title>
 		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -155,6 +109,52 @@ the Single Market</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2288(INI)&amp;l=en</link>
 		<title>Protecting the consumer: Improving consumer
 education and awareness on credit and finance</title>
+		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2267(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2267(INI)&amp;l=en</link>
+		<title>Croatia's 2007 progress report</title>
+		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2269(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2269(INI)&amp;l=en</link>
+		<title>Turkey's 2007 progress report</title>
+		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2268(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2268(INI)&amp;l=en</link>
+		<title>2007 progress report on FYROM</title>
+		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2271(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2271(INI)&amp;l=en</link>
+		<title>Commission's 2007 enlargement strategy
+paper</title>
+		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2274(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2274(INI)&amp;l=en</link>
+		<title>Annual Report on Human Rights in the World 2007
+and the EU's policy on the matter</title>
+		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2275(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2275(INI)&amp;l=en</link>
+		<title>Situation of the European economy: report on the
+Broad Economic Policy Guidelines for 2008</title>
+		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2285(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2285(INI)&amp;l=en</link>
+		<title>White Paper on nutrition, overweight and obesity
+related health issues</title>
 		<lastpubdate>Fri Dec 14 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -231,13 +231,6 @@ Strait in the Black Sea and the subsequent oil pollution</title>
 		<lastpubdate>Thu Dec 06 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2666(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2666(RSP)&amp;l=en</link>
-		<title>Second EU-Africa Summit (Lisbon, 8 - 9 December
-2007)</title>
-		<lastpubdate>Thu Dec 06 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2665(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2665(RSP)&amp;l=en</link>
 		<title>Resolution on combating the rise of
@@ -274,6 +267,13 @@ part</title>
 		<lastpubdate>Thu Dec 06 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2666(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2666(RSP)&amp;l=en</link>
+		<title>Second EU-Africa Summit (Lisbon, 8 - 9 December
+2007)</title>
+		<lastpubdate>Thu Dec 06 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2672(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2672(RSP)&amp;l=en</link>
 		<title>Results of the European Council meeting in
@@ -298,12 +298,6 @@ Health Action Plan 2004 - 2010</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2251(INI)&amp;l=en</link>
 		<title>European Investment Bank EIB. Annual Report
 2006</title>
-		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2255(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2255(INI)&amp;l=en</link>
-		<title>Chinese policy and its effects on Africa</title>
 		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -334,24 +328,10 @@ in the EU</title>
 		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2260(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2260(INI)&amp;l=en</link>
-		<title>New Animal Health Strategy for the European Union
-(2007-2013)</title>
-		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2256(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2256(INI)&amp;l=en</link>
 		<title>Implementing trade policy through efficient import
 and export rules and procedures</title>
-		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2257(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2257(INI)&amp;l=en</link>
-		<title>Mid-term review of industrial policy: a
-contribution to the EU's Growth and Jobs Strategy</title>
 		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -370,19 +350,32 @@ European Commission in complaint 3453/2005/GG</title>
 		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2255(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2255(INI)&amp;l=en</link>
+		<title>Chinese policy and its effects on Africa</title>
+		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2260(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2260(INI)&amp;l=en</link>
+		<title>New Animal Health Strategy for the European Union
+(2007-2013)</title>
+		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2257(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2257(INI)&amp;l=en</link>
+		<title>Mid-term review of industrial policy: a
+contribution to the EU's Growth and Jobs Strategy</title>
+		<lastpubdate>Fri Nov 30 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2670(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2670(RSP)&amp;l=en</link>
 		<title>Future of Europe, debate with the
 participation of the head of the Spanish Government, Member of the
 European Council</title>
 		<lastpubdate>Mon Nov 26 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2569(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2569(RSP)&amp;l=en</link>
-		<title>Presentation of the Court of Auditors' annual
-report 2006</title>
-		<lastpubdate>Fri Nov 23 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
 			<reference>2007/2669(RSP)</reference>
@@ -398,6 +391,13 @@ Agreements</title>
 		<lastpubdate>Fri Nov 23 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2569(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2569(RSP)&amp;l=en</link>
+		<title>Presentation of the Court of Auditors' annual
+report 2006</title>
+		<lastpubdate>Fri Nov 23 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2258(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2258(INI)&amp;l=en</link>
 		<title>Certain issues relating to motor
@@ -410,12 +410,6 @@ insurance</title>
 		<title>Report from the Commission on the evaluation of
 the Dublin system</title>
 		<lastpubdate>Wed Nov 21 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2238(INL)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2238(INL)&amp;l=en</link>
-		<title>Hedge funds and private equity</title>
-		<lastpubdate>Fri Nov 16 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
 			<reference>2007/2239(INL)</reference>
@@ -434,6 +428,12 @@ the Dublin system</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2231(INI)&amp;l=en</link>
 		<title>Advancing African Agriculture - Proposal for
 agricultural development and food security in Africa</title>
+		<lastpubdate>Fri Nov 16 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2238(INL)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2238(INL)&amp;l=en</link>
+		<title>Hedge funds and private equity</title>
 		<lastpubdate>Fri Nov 16 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -491,12 +491,6 @@ situations of fragility in developing countries</title>
 		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2661(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2661(RSP)&amp;l=en</link>
-		<title>Resolution on Uzbekistan</title>
-		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2660(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2660(RSP)&amp;l=en</link>
 		<title>Resolution on Somalia</title>
@@ -525,6 +519,34 @@ reside freely within the territory of the Member States</title>
 		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2652(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2652(RSP)&amp;l=en</link>
+		<title>Complaint by Boeing (US) against Airbus
+(EU) before the WTO</title>
+		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2576(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2576(RSP)&amp;l=en</link>
+		<title>Resolution on the Commission legislative and work
+programme for 2008</title>
+		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2637(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2637(RSP)&amp;l=en</link>
+		<title>Resolution on the European interest: succeeding in
+the age of globalisation</title>
+		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2648(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2648(RSP)&amp;l=en</link>
+		<title>Resolution on the proclamation of a
+European consensus on humanitarian aid</title>
+		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2653(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2653(RSP)&amp;l=en</link>
 		<title>Resolution on the full application of
@@ -536,13 +558,6 @@ Republic</title>
 		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2652(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2652(RSP)&amp;l=en</link>
-		<title>Complaint by Boeing (US) against Airbus
-(EU) before the WTO</title>
-		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2650(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2650(RSP)&amp;l=en</link>
 		<title>Resolution on limiting global climate
@@ -551,24 +566,9 @@ on Climate Change and beyond (COP 13 and COP/MOP 3)</title>
 		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2648(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2648(RSP)&amp;l=en</link>
-		<title>Resolution on the proclamation of a
-European consensus on humanitarian aid</title>
-		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2637(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2637(RSP)&amp;l=en</link>
-		<title>Resolution on the European interest: succeeding in
-the age of globalisation</title>
-		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2576(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2576(RSP)&amp;l=en</link>
-		<title>Resolution on the Commission legislative and work
-programme for 2008</title>
+			<reference>2007/2661(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2661(RSP)&amp;l=en</link>
+		<title>Resolution on Uzbekistan</title>
 		<lastpubdate>Thu Nov 08 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -619,13 +619,6 @@ munitions</title>
 		<lastpubdate>Thu Oct 18 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2626(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2626(RSP)&amp;l=en</link>
-		<title>Resolution on the EU-Russia Summit
-(Mafra, 26 October 2007)</title>
-		<lastpubdate>Thu Oct 18 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2596(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2596(RSP)&amp;l=en</link>
 		<title>Resolution on EU-Turkey relations</title>
@@ -636,6 +629,13 @@ munitions</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2513(RSP)&amp;l=en</link>
 		<title>Statement following the informal
 European Council meeting in Lisbon (18- 19 October 2007)</title>
+		<lastpubdate>Thu Oct 18 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2626(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2626(RSP)&amp;l=en</link>
+		<title>Resolution on the EU-Russia Summit
+(Mafra, 26 October 2007)</title>
 		<lastpubdate>Thu Oct 18 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -667,16 +667,16 @@ practices and future challenges</title>
 		<lastpubdate>Mon Oct 08 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2632(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2632(RSP)&amp;l=en</link>
-		<title>Maritime policy for the EU</title>
-		<lastpubdate>Mon Oct 08 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2511(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2511(RSP)&amp;l=en</link>
 		<title>Preparation for the informal European Council
 meeting in Lisbon (18-19 October 2007)</title>
+		<lastpubdate>Mon Oct 08 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2632(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2632(RSP)&amp;l=en</link>
+		<title>Maritime policy for the EU</title>
 		<lastpubdate>Mon Oct 08 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -708,23 +708,10 @@ development in West Africa</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2184(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2184(INI)&amp;l=en</link>
-		<title>Towards a reformed World Trade
-Organisation</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2185(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2185(INI)&amp;l=en</link>
 		<title>EU's strategy to deliver market access for
 European companies</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2181(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2181(INI)&amp;l=en</link>
-		<title>European Union's role in Iraq</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -750,41 +737,10 @@ fund</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2187(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2187(INI)&amp;l=en</link>
-		<title>European Research Area: New perspectives</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2189(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2189(INI)&amp;l=en</link>
-		<title>EU Consumer Policy Strategy 2007-2013</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2192(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2192(INI)&amp;l=en</link>
-		<title>Future of the sheep/lamb and goat sector in
-Europe</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2194(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2194(INI)&amp;l=en</link>
 		<title>What future for young farmers under the ongoing
 reform of the CAP?</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2195(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2195(INI)&amp;l=en</link>
-		<title>Health check on the CAP</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2200(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2200(INI)&amp;l=en</link>
-		<title>Asset management II</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -794,23 +750,10 @@ reform of the CAP?</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2199(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2199(INI)&amp;l=en</link>
-		<title>Deposit guarantee schemes</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2196(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2196(INI)&amp;l=en</link>
 		<title>Green Paper: Diplomatic and consular protection of
 Union citizens in third countries</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2201(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2201(INI)&amp;l=en</link>
-		<title>Competition: Sector inquiry on retail
-banking</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -849,19 +792,6 @@ Action Programme</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2211(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2211(INI)&amp;l=en</link>
-		<title>European agenda for culture in a globalising
-world</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2209(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2209(INI)&amp;l=en</link>
-		<title>Common principles on flexicurity</title>
-		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2210(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2210(INI)&amp;l=en</link>
 		<title>Organ donation and transplantation: policy actions
@@ -876,10 +806,80 @@ policy in the EU</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2181(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2181(INI)&amp;l=en</link>
+		<title>European Union's role in Iraq</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2184(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2184(INI)&amp;l=en</link>
+		<title>Towards a reformed World Trade
+Organisation</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2189(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2189(INI)&amp;l=en</link>
+		<title>EU Consumer Policy Strategy 2007-2013</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2187(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2187(INI)&amp;l=en</link>
+		<title>European Research Area: New perspectives</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2192(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2192(INI)&amp;l=en</link>
+		<title>Future of the sheep/lamb and goat sector in
+Europe</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2199(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2199(INI)&amp;l=en</link>
+		<title>Deposit guarantee schemes</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2195(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2195(INI)&amp;l=en</link>
+		<title>Health check on the CAP</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2201(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2201(INI)&amp;l=en</link>
+		<title>Competition: Sector inquiry on retail
+banking</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2200(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2200(INI)&amp;l=en</link>
+		<title>Asset management II</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2209(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2209(INI)&amp;l=en</link>
+		<title>Common principles on flexicurity</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2208(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2208(INI)&amp;l=en</link>
 		<title>Stabilisation of Afghanistan: challenges for the
 EU and the international community</title>
+		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2211(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2211(INI)&amp;l=en</link>
+		<title>European agenda for culture in a globalising
+world</title>
 		<lastpubdate>Fri Sep 28 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1071,26 +1071,13 @@ documents</title>
 	<item>
 			<reference>2007/2156(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2156(INI)&amp;l=en</link>
-		<title>The demographic future of Europe</title>
+		<title>Demographic future of Europe</title>
 		<lastpubdate>Fri Jul 13 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2593(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2593(RSP)&amp;l=en</link>
-		<title>Future agreement on Kosovo</title>
-		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
 			<reference>2007/2588(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2588(RSP)&amp;l=en</link>
 		<title>Bilateral trade relations with China</title>
-		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2509(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2509(RSP)&amp;l=en</link>
-		<title>Presentation of the programme of the Portuguese
-Presidency</title>
 		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1114,13 +1101,6 @@ disease</title>
 		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2598(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2598(RSP)&amp;l=en</link>
-		<title>Risk management of genetically modified maize line
-MON 863</title>
-		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2595(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2595(RSP)&amp;l=en</link>
 		<title>Resolution on the TRIPS agreement and access to
@@ -1133,12 +1113,6 @@ medicines</title>
 		<title>Resolution on the democratic scrutiny of the
 implementation of the financing instrument for development
 cooperation (DCI)</title>
-		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2589(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2589(RSP)&amp;l=en</link>
-		<title>Resolution on the situation in Darfur</title>
 		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1171,6 +1145,32 @@ statistical data provided by Member States</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2604(RSP)&amp;l=en</link>
 		<title>Resolution on human rights violations in
 Transnistria (Moldova)</title>
+		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2509(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2509(RSP)&amp;l=en</link>
+		<title>Presentation of the programme of the Portuguese
+Presidency</title>
+		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2589(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2589(RSP)&amp;l=en</link>
+		<title>Resolution on the situation in Darfur</title>
+		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2593(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2593(RSP)&amp;l=en</link>
+		<title>Future agreement on Kosovo</title>
+		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2598(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2598(RSP)&amp;l=en</link>
+		<title>Risk management of genetically modified maize line
+MON 863</title>
 		<lastpubdate>Thu Jul 05 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1210,19 +1210,6 @@ Petitions during the year 2006</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2144(INI)&amp;l=en</link>
 		<title>Tax treatment of losses in cross-border
 situations</title>
-		<lastpubdate>Fri Jun 22 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2138(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2138(INI)&amp;l=en</link>
-		<title>Programming implementation of the 10th European
-Development Fund</title>
-		<lastpubdate>Fri Jun 22 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2139(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2139(INI)&amp;l=en</link>
-		<title>The European Union and Humanitarian Aid</title>
 		<lastpubdate>Fri Jun 22 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1280,6 +1267,19 @@ services</title>
 		<lastpubdate>Fri Jun 22 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2139(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2139(INI)&amp;l=en</link>
+		<title>The European Union and Humanitarian Aid</title>
+		<lastpubdate>Fri Jun 22 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2138(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2138(INI)&amp;l=en</link>
+		<title>Programming implementation of the 10th European
+Development Fund</title>
+		<lastpubdate>Fri Jun 22 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2146(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2146(INI)&amp;l=en</link>
 		<title>Community strategy 2007-2012 on health and safety
@@ -1313,27 +1313,12 @@ Multiannual Indicative Programme for Asia</title>
 		<lastpubdate>Mon Jun 18 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2590(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2590(RSP)&amp;l=en</link>
-		<title>Resolution on the humanitarian situation of Iraqi
-refugees</title>
-		<lastpubdate>Mon Jun 18 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2584(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2584(RSP)&amp;l=en</link>
 		<title>Resolution on the financing of the
 European programme of satellite radionavigation (Galileo) under the
 Interinstitutional Agreement of 17 May 2006 and the multiannual
 financial framework 2007-2013</title>
-		<lastpubdate>Mon Jun 18 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2582(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2582(RSP)&amp;l=en</link>
-		<title>Resolution on an arms trade treaty: establishment
-of common international standards for the import, export and
-transfer of conventional weapons</title>
 		<lastpubdate>Mon Jun 18 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1347,6 +1332,21 @@ in Ethiopia</title>
 			<reference>2007/2573(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2573(RSP)&amp;l=en</link>
 		<title>Situation in the Middle East</title>
+		<lastpubdate>Mon Jun 18 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2582(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2582(RSP)&amp;l=en</link>
+		<title>Resolution on an arms trade treaty: establishment
+of common international standards for the import, export and
+transfer of conventional weapons</title>
+		<lastpubdate>Mon Jun 18 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2590(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2590(RSP)&amp;l=en</link>
+		<title>Resolution on the humanitarian situation of Iraqi
+refugees</title>
 		<lastpubdate>Mon Jun 18 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1401,13 +1401,6 @@ Nations Human Rights Council (UNHRC) (Geneva, 11-19 June
 		<lastpubdate>Mon Jun 11 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2120(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2120(INI)&amp;l=en</link>
-		<title>CARS 21: A Competitive Automotive Regulatory
-Framework</title>
-		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2106(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2106(INI)&amp;l=en</link>
 		<title>Action Plan for energy efficiency: realising the
@@ -1428,22 +1421,10 @@ Point</title>
 		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2101(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2101(INI)&amp;l=en</link>
-		<title>A Black Sea Regional Policy Approach</title>
-		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2109(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2109(INI)&amp;l=en</link>
 		<title>Common organisation of the markets in fishery and
 aquaculture products</title>
-		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2102(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2102(INI)&amp;l=en</link>
-		<title>An EU Strategy for Central Asia</title>
 		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1462,13 +1443,6 @@ opportunities</title>
 		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2105(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2105(INI)&amp;l=en</link>
-		<title>Green Paper: Towards a Europe free from tobacco
-smoke, policy options at EU level</title>
-		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2110(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2110(INI)&amp;l=en</link>
 		<title>Management of deep-sea fish stocks</title>
@@ -1479,13 +1453,6 @@ smoke, policy options at EU level</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2111(INI)&amp;l=en</link>
 		<title>Rights-based management tools in
 fisheries</title>
-		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2112(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2112(INI)&amp;l=en</link>
-		<title>A policy to reduce unwanted by-catches and
-eliminate discards in European fisheries</title>
 		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1511,13 +1478,6 @@ learn</title>
 		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2119(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2119(INI)&amp;l=en</link>
-		<title>Community Strategy to reduce CO2 emissions from
-passenger cars and light-commercial vehicles</title>
-		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2117(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2117(INI)&amp;l=en</link>
 		<title>The situation of women in rural areas of the
@@ -1539,6 +1499,46 @@ the imprisonment of parents on social and family life</title>
 		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2125(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2125(INI)&amp;l=en</link>
+		<title>Production of opium for medical purposes in
+Afghanistan</title>
+		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2101(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2101(INI)&amp;l=en</link>
+		<title>A Black Sea Regional Policy Approach</title>
+		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2105(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2105(INI)&amp;l=en</link>
+		<title>Green Paper: Towards a Europe free from tobacco
+smoke, policy options at EU level</title>
+		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2102(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2102(INI)&amp;l=en</link>
+		<title>An EU Strategy for Central Asia</title>
+		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2119(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2119(INI)&amp;l=en</link>
+		<title>Community Strategy to reduce CO2 emissions from
+passenger cars and light-commercial vehicles</title>
+		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2112(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2112(INI)&amp;l=en</link>
+		<title>A policy to reduce unwanted by-catches and
+eliminate discards in European fisheries</title>
+		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2126(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2126(INI)&amp;l=en</link>
 		<title>Relations between the European Union and
@@ -1546,10 +1546,10 @@ Serbia</title>
 		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2125(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2125(INI)&amp;l=en</link>
-		<title>Production of opium for medical purposes in
-Afghanistan</title>
+			<reference>2007/2120(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2120(INI)&amp;l=en</link>
+		<title>CARS 21: A Competitive Automotive Regulatory
+Framework</title>
 		<lastpubdate>Thu Jun 07 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1560,12 +1560,6 @@ economy and a third industrial revolution in Europe through a
 partnership with committed regions and cities, SMEs and civil
 society organisations</title>
 		<lastpubdate>Wed May 30 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2566(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2566(RSP)&amp;l=en</link>
-		<title>Resolution on human rights in Sudan</title>
-		<lastpubdate>Tue May 29 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
 			<reference>2007/2567(RSP)</reference>
@@ -1594,6 +1588,12 @@ Nigeria</title>
 		<lastpubdate>Tue May 29 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2566(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2566(RSP)&amp;l=en</link>
+		<title>Resolution on human rights in Sudan</title>
+		<lastpubdate>Tue May 29 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2563(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2563(RSP)&amp;l=en</link>
 		<title>Resolution on the EU strategic objectives for the
@@ -1603,18 +1603,18 @@ International Trade in Endangered Species of Wild Fauna and Flora
 		<lastpubdate>Tue May 29 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2554(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2554(RSP)&amp;l=en</link>
-		<title>Resolution on the EU-Russia summit
-in Samara on 18 May 2007</title>
-		<lastpubdate>Fri May 11 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2546(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2546(RSP)&amp;l=en</link>
 		<title>Resolution on strengthening European
 legislation in the field of information and consultation of
 workers</title>
+		<lastpubdate>Fri May 11 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2554(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2554(RSP)&amp;l=en</link>
+		<title>Resolution on the EU-Russia summit
+in Samara on 18 May 2007</title>
 		<lastpubdate>Fri May 11 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1637,30 +1637,10 @@ Philippines</title>
 		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2552(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2552(RSP)&amp;l=en</link>
-		<title>Resolution on the kidnapping in Gaza of the
-journalist Alan Johnston</title>
-		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2551(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2551(RSP)&amp;l=en</link>
 		<title>Resolution on recent repression of demonstrations
 in Russia</title>
-		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2545(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2545(RSP)&amp;l=en</link>
-		<title>Resolution on Zimbabwe</title>
-		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2542(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2542(RSP)&amp;l=en</link>
-		<title>Resolution on the initiative for a universal
-moratorium on the death penalty</title>
 		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1675,6 +1655,26 @@ establishment of a European Common Aviation Area (ECAA)</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2548(RSP)&amp;l=en</link>
 		<title>Resolution on the Galileo concession contract
 negotiations</title>
+		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2542(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2542(RSP)&amp;l=en</link>
+		<title>Resolution on the initiative for a universal
+moratorium on the death penalty</title>
+		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2545(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2545(RSP)&amp;l=en</link>
+		<title>Resolution on Zimbabwe</title>
+		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2552(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2552(RSP)&amp;l=en</link>
+		<title>Resolution on the kidnapping in Gaza of the
+journalist Alan Johnston</title>
 		<lastpubdate>Wed May 02 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1696,13 +1696,6 @@ and the Council</title>
 			<reference>2007/2078(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2078(INI)&amp;l=en</link>
 		<title>Competition policy 2005</title>
-		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2088(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2088(INI)&amp;l=en</link>
-		<title>Strengthening the European neighbourhood
-policy</title>
 		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1732,44 +1725,10 @@ process</title>
 		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2089(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2089(INI)&amp;l=en</link>
-		<title>Prospects for the internal gas and electricity
-market</title>
-		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2090(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2090(INI)&amp;l=en</link>
-		<title>Road map for renewable energy in Europe</title>
-		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2091(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2091(INI)&amp;l=en</link>
-		<title>Conventional energy sources and energy
-technology</title>
-		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2094(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2094(INI)&amp;l=en</link>
 		<title>Application of the principle of equal treatment
 between persons irrespective of racial or ethnic origin</title>
-		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2092(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2092(INI)&amp;l=en</link>
-		<title>Airport capacity and groundhandling: towards a
-more efficient policy</title>
-		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2093(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2093(INI)&amp;l=en</link>
-		<title>Towards an EU strategy on the rights of the
-child</title>
 		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1784,6 +1743,47 @@ the Lisbon strategy</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2096(INI)&amp;l=en</link>
 		<title>Strategy for the simplification of the regulatory
 environment</title>
+		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2089(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2089(INI)&amp;l=en</link>
+		<title>Prospects for the internal gas and electricity
+market</title>
+		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2091(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2091(INI)&amp;l=en</link>
+		<title>Conventional energy sources and energy
+technology</title>
+		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2090(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2090(INI)&amp;l=en</link>
+		<title>Road map for renewable energy in Europe</title>
+		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2088(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2088(INI)&amp;l=en</link>
+		<title>Strengthening the European neighbourhood
+policy</title>
+		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2092(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2092(INI)&amp;l=en</link>
+		<title>Airport capacity and groundhandling: towards a
+more efficient policy</title>
+		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2093(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2093(INI)&amp;l=en</link>
+		<title>Towards an EU strategy on the rights of the
+child</title>
 		<lastpubdate>Fri Apr 27 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -1850,17 +1850,17 @@ the EC and the USA</title>
 		<lastpubdate>Tue Mar 20 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2522(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2522(RSP)&amp;l=en</link>
-		<title>Resolution on nuclear non-proliferation and
-disarmament</title>
-		<lastpubdate>Tue Mar 20 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2515(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2515(RSP)&amp;l=en</link>
 		<title>Resolution on the provision of
 cross-border health care</title>
+		<lastpubdate>Tue Mar 20 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2522(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2522(RSP)&amp;l=en</link>
+		<title>Resolution on nuclear non-proliferation and
+disarmament</title>
 		<lastpubdate>Tue Mar 20 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -1884,36 +1884,10 @@ indicative programmes for Malaysia, Brazil and Pakistan</title>
 		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2519(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2519(RSP)&amp;l=en</link>
-		<title>Resolution on refugees from Iraq</title>
-		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2518(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2518(RSP)&amp;l=en</link>
 		<title>Resolution on the dialogue between the Chinese
 Government and the Dalai Lama's envoys</title>
-		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2514(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2514(RSP)&amp;l=en</link>
-		<title>Resolution on the situation in Darfur</title>
-		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2503(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2503(RSP)&amp;l=en</link>
-		<title>Resolution on SWIFT, the PNR agreement and the
-transatlantic dialogue on these issues</title>
-		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2022(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2022(INI)&amp;l=en</link>
-		<title>Trade and economic relations with
-Ukraine</title>
 		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -1953,6 +1927,32 @@ enforcement</title>
 		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2503(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2503(RSP)&amp;l=en</link>
+		<title>Resolution on SWIFT, the PNR agreement and the
+transatlantic dialogue on these issues</title>
+		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2514(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2514(RSP)&amp;l=en</link>
+		<title>Resolution on the situation in Darfur</title>
+		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2519(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2519(RSP)&amp;l=en</link>
+		<title>Resolution on refugees from Iraq</title>
+		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2022(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2022(INI)&amp;l=en</link>
+		<title>Trade and economic relations with
+Ukraine</title>
+		<lastpubdate>Mon Feb 19 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2026(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2026(INI)&amp;l=en</link>
 		<title>Efficiency of the enforcement of judgments in the
@@ -1989,35 +1989,10 @@ penalty</title>
 		<lastpubdate>Mon Feb 05 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2000(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2000(INI)&amp;l=en</link>
-		<title>Towards a common European foreign policy on
-energy</title>
-		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2001(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2001(INI)&amp;l=en</link>
 		<title>The functioning of the Human Rights Dialogues and
 consultations on Human Rights with Third countries</title>
-		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2002(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2002(INI)&amp;l=en</link>
-		<title>The state of play of EU-Africa relations</title>
-		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2003(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2003(INI)&amp;l=en</link>
-		<title>Trade and Climate Change</title>
-		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2004(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2004(INI)&amp;l=en</link>
-		<title>Public Finances in EMU 2006</title>
 		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -2035,10 +2010,28 @@ and society</title>
 		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2010(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2010(INI)&amp;l=en</link>
-		<title>Green Paper on the Review of the Consumer
-Acquis</title>
+			<reference>2007/2000(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2000(INI)&amp;l=en</link>
+		<title>Towards a common European foreign policy on
+energy</title>
+		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2003(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2003(INI)&amp;l=en</link>
+		<title>Trade and Climate Change</title>
+		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2002(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2002(INI)&amp;l=en</link>
+		<title>The state of play of EU-Africa relations</title>
+		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2004(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2004(INI)&amp;l=en</link>
+		<title>Public Finances in EMU 2006</title>
 		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -2046,6 +2039,13 @@ Acquis</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2006(INI)&amp;l=en</link>
 		<title>Thematic Strategy on the Sustainable Use of
 Pesticides</title>
+		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2010(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2010(INI)&amp;l=en</link>
+		<title>Green Paper on the Review of the Consumer
+Acquis</title>
 		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
 	</item>
 	</items>

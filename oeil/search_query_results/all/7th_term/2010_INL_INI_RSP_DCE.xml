@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:55:12 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:12:01 CEST 2014</generatedOn>
 	<items count="369">
 	<item>
 			<reference>2010/3005(RSP)</reference>
@@ -31,13 +31,6 @@ March 2011)</title>
 		<lastpubdate>Thu Mar 24 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2998(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2998(RSP)&amp;l=en</link>
-		<title>Resolution on the 2010 progress report on the
-former Yugoslav Republic of Macedonia</title>
-		<lastpubdate>Thu Mar 24 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2999(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2999(RSP)&amp;l=en</link>
 		<title>Resolution on the 2010 progress report on
@@ -45,17 +38,24 @@ Iceland</title>
 		<lastpubdate>Thu Mar 24 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2710(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2710(RSP)&amp;l=en</link>
-		<title>Preparation for the European Council meeting
-(24-25 March 2011)</title>
-		<lastpubdate>Thu Mar 10 00:00:00 CET 2011</lastpubdate>
+			<reference>2010/2998(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2998(RSP)&amp;l=en</link>
+		<title>Resolution on the 2010 progress report on the
+former Yugoslav Republic of Macedonia</title>
+		<lastpubdate>Thu Mar 24 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/2958(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2958(RSP)&amp;l=en</link>
 		<title>Resolution on the review of the European
 Neighbourhood Policy - Eastern Dimension</title>
+		<lastpubdate>Thu Mar 10 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2710(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2710(RSP)&amp;l=en</link>
+		<title>Preparation for the European Council meeting
+(24-25 March 2011)</title>
 		<lastpubdate>Thu Mar 10 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -100,13 +100,6 @@ Croatia</title>
 		<lastpubdate>Thu Feb 03 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2900(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2900(RSP)&amp;l=en</link>
-		<title>Preparation for the European Council meeting of 4
-February 2011</title>
-		<lastpubdate>Thu Jan 20 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2821(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2821(RSP)&amp;l=en</link>
 		<title>Resolution on the conclusion of a Geneva Agreement
@@ -124,6 +117,13 @@ States</title>
 (TBVI) - practical implementation of the Europe 2020 strategy with
 a view to meeting MDG 6 and eliminating tuberculosis by
 2050</title>
+		<lastpubdate>Thu Jan 20 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2900(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2900(RSP)&amp;l=en</link>
+		<title>Preparation for the European Council meeting of 4
+February 2011</title>
 		<lastpubdate>Thu Jan 20 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -148,11 +148,10 @@ European Union ban on shark finning</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2299(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2299(INI)&amp;l=en</link>
-		<title>Development of the common security and defence
-policy following the entry into force of the Lisbon
-Treaty</title>
+			<reference>2010/2295(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2295(INI)&amp;l=en</link>
+		<title>Activities of the Committee on Petitions in
+2010</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -170,6 +169,14 @@ organisations</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2299(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2299(INI)&amp;l=en</link>
+		<title>Development of the common security and defence
+policy following the entry into force of the Lisbon
+Treaty</title>
+		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2302(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2302(INI)&amp;l=en</link>
 		<title>Credit rating agencies: future
@@ -177,10 +184,9 @@ perspectives</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2303(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2303(INI)&amp;l=en</link>
-		<title>Corporate governance in financial
-institutions</title>
+			<reference>2010/2301(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2301(INI)&amp;l=en</link>
+		<title>EU and China: unbalanced trade?</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -191,55 +197,16 @@ growth</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2303(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2303(INI)&amp;l=en</link>
+		<title>Corporate governance in financial
+institutions</title>
+		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2306(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2306(INI)&amp;l=en</link>
 		<title>European cinema in the digital era</title>
-		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2308(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2308(INI)&amp;l=en</link>
-		<title>European Union's Internal Security
-Strategy</title>
-		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2310(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2310(INI)&amp;l=en</link>
-		<title>EU approach on criminal law</title>
-		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2309(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2309(INI)&amp;l=en</link>
-		<title>Organised crime in the European Union</title>
-		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2295(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2295(INI)&amp;l=en</link>
-		<title>Activities of the Committee on Petitions in
-2010</title>
-		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2311(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2311(INI)&amp;l=en</link>
-		<title>EU Counter-Terrorism Policy: main achievements and
-future challenges</title>
-		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2301(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2301(INI)&amp;l=en</link>
-		<title>EU and China: unbalanced trade?</title>
-		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2307(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2307(INI)&amp;l=en</link>
-		<title>Youth on the move: a framework for improving
-Europe's education and training systems</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -250,10 +217,16 @@ lessons learnt for the future cohesion policy of the EU</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2289(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2289(INI)&amp;l=en</link>
-		<title>Governance and partnership in the Single
-Market</title>
+			<reference>2010/2307(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2307(INI)&amp;l=en</link>
+		<title>Youth on the move: a framework for improving
+Europe's education and training systems</title>
+		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2310(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2310(INI)&amp;l=en</link>
+		<title>EU approach on criminal law</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -261,6 +234,33 @@ Market</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2300(INI)&amp;l=en</link>
 		<title>Future of EU budget support to developing
 countries</title>
+		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2289(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2289(INI)&amp;l=en</link>
+		<title>Governance and partnership in the Single
+Market</title>
+		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2308(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2308(INI)&amp;l=en</link>
+		<title>European Union's Internal Security
+Strategy</title>
+		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2311(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2311(INI)&amp;l=en</link>
+		<title>EU Counter-Terrorism Policy: main achievements and
+future challenges</title>
+		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2309(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2309(INI)&amp;l=en</link>
+		<title>Organised crime in the European Union</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -312,13 +312,6 @@ Serbia</title>
 		<lastpubdate>Thu Dec 16 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2982(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2982(RSP)&amp;l=en</link>
-		<title>Referendum on the future status of Southern
-Sudan</title>
-		<lastpubdate>Thu Dec 16 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2981(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2981(RSP)&amp;l=en</link>
 		<title>Resolution on violation of freedom of expression
@@ -331,6 +324,13 @@ Lithuania</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/3015(RSP)&amp;l=en</link>
 		<title>Resolution on FLEGT Voluntary Partnership
 Agreements</title>
+		<lastpubdate>Thu Dec 16 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2982(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2982(RSP)&amp;l=en</link>
+		<title>Referendum on the future status of Southern
+Sudan</title>
 		<lastpubdate>Thu Dec 16 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -369,24 +369,10 @@ area</title>
 		<lastpubdate>Thu Dec 09 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/3006(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/3006(RSP)&amp;l=en</link>
-		<title>Resolution on the situation in Côte
-d'Ivoire</title>
-		<lastpubdate>Thu Dec 09 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/3008(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/3008(RSP)&amp;l=en</link>
 		<title>Resolution on Malaysia: the practice of
 caning</title>
-		<lastpubdate>Thu Dec 09 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/3007(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/3007(RSP)&amp;l=en</link>
-		<title>Outcome of the Climate Change Conference in
-Cancún</title>
 		<lastpubdate>Thu Dec 09 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -405,6 +391,20 @@ population</title>
 		<lastpubdate>Thu Dec 09 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/3006(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/3006(RSP)&amp;l=en</link>
+		<title>Resolution on the situation in Côte
+d'Ivoire</title>
+		<lastpubdate>Thu Dec 09 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/3007(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/3007(RSP)&amp;l=en</link>
+		<title>Outcome of the Climate Change Conference in
+Cancún</title>
+		<lastpubdate>Thu Dec 09 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2282(DCE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2282(DCE)&amp;l=en</link>
 		<title>Declaration on Camp Ashraf</title>
@@ -418,45 +418,10 @@ European Union</title>
 		<lastpubdate>Mon Nov 29 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2248(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2248(INI)&amp;l=en</link>
-		<title>EIB annual report for 2009</title>
-		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2249(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2249(INI)&amp;l=en</link>
-		<title>EU legislation on Transmissible Spongiform
-Encephalopathies (TSE) and on related feed and food controls -
-implementation and outlook</title>
-		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2268(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2268(INI)&amp;l=en</link>
-		<title>Negotiations on EU-Libya Framework
-Agreement</title>
-		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2275(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2275(INI)&amp;l=en</link>
-		<title>Women entrepreneurship in small and medium sized
-enterprises</title>
-		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2274(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2274(INI)&amp;l=en</link>
-		<title>Universal service and '112' emergency
-number</title>
-		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2270(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2270(INI)&amp;l=en</link>
-		<title>Financing of reinforcement of dam infrastructure
-in developing countries</title>
+			<reference>2010/2245(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2245(INI)&amp;l=en</link>
+		<title>Innovation Union: transforming Europe for a
+post-crisis world</title>
 		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -468,10 +433,46 @@ report 2009</title>
 		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2249(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2249(INI)&amp;l=en</link>
+		<title>EU legislation on Transmissible Spongiform
+Encephalopathies (TSE) and on related feed and food controls -
+implementation and outlook</title>
+		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2269(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2269(INI)&amp;l=en</link>
 		<title>Migration flows arising from instability: scope
 and role of the EU foreign policy</title>
+		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2268(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2268(INI)&amp;l=en</link>
+		<title>Negotiations on EU-Libya Framework
+Agreement</title>
+		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2270(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2270(INI)&amp;l=en</link>
+		<title>Financing of reinforcement of dam infrastructure
+in developing countries</title>
+		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2274(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2274(INI)&amp;l=en</link>
+		<title>Universal service and '112' emergency
+number</title>
+		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2275(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2275(INI)&amp;l=en</link>
+		<title>Women entrepreneurship in small and medium sized
+enterprises</title>
 		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -482,10 +483,9 @@ and the European Disability Strategy 2010-2020</title>
 		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2273(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2273(INI)&amp;l=en</link>
-		<title>Promoting workers' mobility within the European
-Union</title>
+			<reference>2010/2276(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2276(INI)&amp;l=en</link>
+		<title>EU strategy on Roma inclusion</title>
 		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -495,22 +495,22 @@ Union</title>
 		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2245(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2245(INI)&amp;l=en</link>
-		<title>Innovation Union: transforming Europe for a
-post-crisis world</title>
-		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2277(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2277(INI)&amp;l=en</link>
 		<title>Single Market for Enterprises and Growth</title>
 		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2276(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2276(INI)&amp;l=en</link>
-		<title>EU strategy on Roma inclusion</title>
+			<reference>2010/2273(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2273(INI)&amp;l=en</link>
+		<title>Promoting workers' mobility within the European
+Union</title>
+		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2248(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2248(INI)&amp;l=en</link>
+		<title>EIB annual report for 2009</title>
 		<lastpubdate>Fri Nov 26 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -518,13 +518,6 @@ post-crisis world</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2910(RSP)&amp;l=en</link>
 		<title>Implementation of the EU-Russia visa faciliation
 agreement</title>
-		<lastpubdate>Thu Nov 25 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2653(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2653(RSP)&amp;l=en</link>
-		<title>Preparation for the European Council meeting
-(16-17 December 2010)</title>
 		<lastpubdate>Thu Nov 25 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -538,6 +531,13 @@ agreement</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2973(RSP)&amp;l=en</link>
 		<title>Visa liberalisation scheme in Serbia and
 FYROM</title>
+		<lastpubdate>Thu Nov 25 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2653(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2653(RSP)&amp;l=en</link>
+		<title>Preparation for the European Council meeting
+(16-17 December 2010)</title>
 		<lastpubdate>Thu Nov 25 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -587,13 +587,6 @@ exchange rates</title>
 		<lastpubdate>Thu Nov 18 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2966(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2966(RSP)&amp;l=en</link>
-		<title>Resolution on Burma: conduct of elections and the
-release of opposition leader Aung San Suu Kyi</title>
-		<lastpubdate>Thu Nov 18 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2965(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2965(RSP)&amp;l=en</link>
 		<title>Resolution on Tibet: plans to make Chinese the
@@ -633,12 +626,6 @@ horizontal cooperation rules</title>
 		<lastpubdate>Thu Nov 18 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2969(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2969(RSP)&amp;l=en</link>
-		<title>Results of the G20 summit</title>
-		<lastpubdate>Thu Nov 18 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2968(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2968(RSP)&amp;l=en</link>
 		<title>Resolution on the 10th anniversary of UN Security
@@ -660,6 +647,26 @@ laureate Liu Xiaobo</title>
 		<lastpubdate>Thu Nov 18 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2966(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2966(RSP)&amp;l=en</link>
+		<title>Resolution on Burma: conduct of elections and the
+release of opposition leader Aung San Suu Kyi</title>
+		<lastpubdate>Thu Nov 18 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2969(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2969(RSP)&amp;l=en</link>
+		<title>Results of the G20 summit</title>
+		<lastpubdate>Thu Nov 18 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2918(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2918(RSP)&amp;l=en</link>
+		<title>Anti-dumping cases - state of play and
+prospects</title>
+		<lastpubdate>Thu Nov 11 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2639(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2639(RSP)&amp;l=en</link>
 		<title>Resolution on the Communication from the
@@ -674,10 +681,10 @@ October 2010) and economic governance</title>
 		<lastpubdate>Thu Nov 11 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2918(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2918(RSP)&amp;l=en</link>
-		<title>Anti-dumping cases - state of play and
-prospects</title>
+			<reference>2010/2764(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2764(RSP)&amp;l=en</link>
+		<title>Resolution on the climate change conference in
+Cancun (COP16)</title>
 		<lastpubdate>Thu Nov 11 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -688,30 +695,10 @@ strategic partnership following the 3rd EU-Africa Summit</title>
 		<lastpubdate>Thu Nov 11 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2764(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2764(RSP)&amp;l=en</link>
-		<title>Resolution on the climate change conference in
-Cancun (COP16)</title>
-		<lastpubdate>Thu Nov 11 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2235(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2235(INI)&amp;l=en</link>
-		<title>European road safety 2011-2020</title>
-		<lastpubdate>Fri Oct 22 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2239(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2239(INI)&amp;l=en</link>
-		<title>Towards adequate, sustainable and safe European
-pension systems</title>
-		<lastpubdate>Fri Oct 22 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2234(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2234(INI)&amp;l=en</link>
-		<title>European cooperation in vocational education and
-training to support the Europe 2020 strategy</title>
+			<reference>2010/2233(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2233(INI)&amp;l=en</link>
+		<title>Relations of the European Union with the Gulf
+Cooperation Council</title>
 		<lastpubdate>Fri Oct 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -722,10 +709,23 @@ training to support the Europe 2020 strategy</title>
 		<lastpubdate>Fri Oct 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2233(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2233(INI)&amp;l=en</link>
-		<title>Relations of the European Union with the Gulf
-Cooperation Council</title>
+			<reference>2010/2235(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2235(INI)&amp;l=en</link>
+		<title>European road safety 2011-2020</title>
+		<lastpubdate>Fri Oct 22 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2234(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2234(INI)&amp;l=en</link>
+		<title>European cooperation in vocational education and
+training to support the Europe 2020 strategy</title>
+		<lastpubdate>Fri Oct 22 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2239(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2239(INI)&amp;l=en</link>
+		<title>Towards adequate, sustainable and safe European
+pension systems</title>
 		<lastpubdate>Fri Oct 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -756,16 +756,6 @@ sector</title>
 		<lastpubdate>Thu Oct 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2899(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2899(RSP)&amp;l=en</link>
-		<title>Resolution on the global approach to transfers of
-passenger name record (PNR) data to third countries, and on the
-recommendations from the Commission to the Council to authorise the
-opening of negotiations between the European Union and Australia,
-Canada and the United States</title>
-		<lastpubdate>Thu Oct 21 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2898(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2898(RSP)&amp;l=en</link>
 		<title>Resolution on the forthcoming EU-US Summit and the
@@ -787,6 +777,16 @@ the EU</title>
 		<lastpubdate>Thu Oct 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2899(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2899(RSP)&amp;l=en</link>
+		<title>Resolution on the global approach to transfers of
+passenger name record (PNR) data to third countries, and on the
+recommendations from the Commission to the Council to authorise the
+opening of negotiations between the European Union and Australia,
+Canada and the United States</title>
+		<lastpubdate>Thu Oct 21 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2242(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2242(INI)&amp;l=en</link>
 		<title>Financial, economic and social crisis:
@@ -799,12 +799,6 @@ taken. Final report</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2935(RSP)&amp;l=en</link>
 		<title>Resolution on the Anti-Counterfeiting Trade
 Agreement (ACTA)</title>
-		<lastpubdate>Thu Oct 14 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2934(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2934(RSP)&amp;l=en</link>
-		<title>Resolution on Ukraine</title>
 		<lastpubdate>Thu Oct 14 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -857,12 +851,6 @@ in the Republic of Moldova</title>
 		<lastpubdate>Thu Oct 14 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2924(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2924(RSP)&amp;l=en</link>
-		<title>Sludge catastrophe in Hungary</title>
-		<lastpubdate>Thu Oct 14 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2925(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2925(RSP)&amp;l=en</link>
 		<title>Aid for Pakistan and possible implication for the
@@ -870,17 +858,16 @@ European industrial sector</title>
 		<lastpubdate>Thu Oct 14 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2763(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2763(RSP)&amp;l=en</link>
-		<title>Preparations for the G20 Summit (11-12 November
-2010)</title>
-		<lastpubdate>Thu Oct 07 00:00:00 CEST 2010</lastpubdate>
+			<reference>2010/2924(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2924(RSP)&amp;l=en</link>
+		<title>Sludge catastrophe in Hungary</title>
+		<lastpubdate>Thu Oct 14 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2880(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2880(RSP)&amp;l=en</link>
-		<title>Single Market Act</title>
-		<lastpubdate>Thu Oct 07 00:00:00 CEST 2010</lastpubdate>
+			<reference>2010/2934(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2934(RSP)&amp;l=en</link>
+		<title>Resolution on Ukraine</title>
+		<lastpubdate>Thu Oct 14 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/2875(RSP)</reference>
@@ -897,10 +884,30 @@ the Eradication of Poverty</title>
 		<lastpubdate>Thu Oct 07 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2763(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2763(RSP)&amp;l=en</link>
+		<title>Preparations for the G20 Summit (11-12 November
+2010)</title>
+		<lastpubdate>Thu Oct 07 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2880(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2880(RSP)&amp;l=en</link>
+		<title>Single Market Act</title>
+		<lastpubdate>Thu Oct 07 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2895(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2895(RSP)&amp;l=en</link>
 		<title>Social provisions of the Lisbon Treaty</title>
 		<lastpubdate>Wed Oct 06 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2202(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2202(INI)&amp;l=en</link>
+		<title>Annual Report on Human Rights in the World 2009
+and the European Union's policy on the matter</title>
+		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/2201(INI)</reference>
@@ -915,41 +922,6 @@ rules regarding their funding</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2203(INI)&amp;l=en</link>
 		<title>Future European international investment
 policy</title>
-		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2207(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2207(INI)&amp;l=en</link>
-		<title>International Air Agreements under the Treaty of
-Lisbon</title>
-		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2209(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2209(INI)&amp;l=en</link>
-		<title>Priorities and outline of a new EU policy
-framework to fight violence against women</title>
-		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2208(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2208(INI)&amp;l=en</link>
-		<title>Transport applications of the Global Navigation
-Satellite Systems - short and medium term EU policy</title>
-		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2210(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2210(INI)&amp;l=en</link>
-		<title>Combating illegal fishing at the global level -
-the role of the EU</title>
-		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2202(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2202(INI)&amp;l=en</link>
-		<title>Annual Report on Human Rights in the World 2009
-and the European Union's policy on the matter</title>
 		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -969,13 +941,32 @@ Europe</title>
 		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2789(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2789(RSP)&amp;l=en</link>
-		<title>Resolution on the EU strategic objectives for the
-10th Meeting of the Conference of the Parties to the Convention on
-Biological Diversity (CBD), to be held in Nagoya (Japan) from 18 to
-29 October 2010</title>
-		<lastpubdate>Thu Sep 23 00:00:00 CEST 2010</lastpubdate>
+			<reference>2010/2207(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2207(INI)&amp;l=en</link>
+		<title>International Air Agreements under the Treaty of
+Lisbon</title>
+		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2209(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2209(INI)&amp;l=en</link>
+		<title>Priorities and outline of a new EU policy
+framework to fight violence against women</title>
+		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2210(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2210(INI)&amp;l=en</link>
+		<title>Combating illegal fishing at the global level -
+the role of the EU</title>
+		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2208(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2208(INI)&amp;l=en</link>
+		<title>Transport applications of the Global Navigation
+Satellite Systems - short and medium term EU policy</title>
+		<lastpubdate>Fri Sep 24 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/2873(RSP)</reference>
@@ -1015,6 +1006,15 @@ after 2013</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2760(RSP)&amp;l=en</link>
 		<title>Contribution of biodiversity and ecosystems to the
 achievement of the Millennium Development Goals</title>
+		<lastpubdate>Thu Sep 23 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2789(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2789(RSP)&amp;l=en</link>
+		<title>Resolution on the EU strategic objectives for the
+10th Meeting of the Conference of the Parties to the Convention on
+Biological Diversity (CBD), to be held in Nagoya (Japan) from 18 to
+29 October 2010</title>
 		<lastpubdate>Thu Sep 23 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1060,17 +1060,17 @@ objectionable content</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2154(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2154(INI)&amp;l=en</link>
-		<title>Aviation security with a special focus on security
-scanners</title>
-		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2153(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2153(INI)&amp;l=en</link>
 		<title>Evaluation of the management of H1N1 influenza in
 2009-2010 in the EU</title>
+		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2152(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2152(INI)&amp;l=en</link>
+		<title>New Trade Policy for Europe under the Europe 2020
+Strategy</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1082,17 +1082,24 @@ interregional cooperation</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2161(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2161(INI)&amp;l=en</link>
-		<title>Cultural dimensions of the EU's external
-actions</title>
+			<reference>2010/2154(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2154(INI)&amp;l=en</link>
+		<title>Aviation security with a special focus on security
+scanners</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2152(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2152(INI)&amp;l=en</link>
-		<title>New Trade Policy for Europe under the Europe 2020
-Strategy</title>
+			<reference>2010/2157(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2157(INI)&amp;l=en</link>
+		<title>Demographic change and its consequences for the
+future Cohesion Policy of the EU</title>
+		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2156(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2156(INI)&amp;l=en</link>
+		<title>Unlocking the potential of cultural and creative
+industries</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1110,10 +1117,17 @@ Policy</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2138(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2138(INI)&amp;l=en</link>
-		<title>Equality between women and men in the European
-Union — 2010</title>
+			<reference>2010/2161(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2161(INI)&amp;l=en</link>
+		<title>Cultural dimensions of the EU's external
+actions</title>
+		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2160(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2160(INI)&amp;l=en</link>
+		<title>State of play and future synergies for increased
+effectiveness between ERDF and other Structural Funds</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1124,17 +1138,10 @@ Union</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2156(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2156(INI)&amp;l=en</link>
-		<title>Unlocking the potential of cultural and creative
-industries</title>
-		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2157(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2157(INI)&amp;l=en</link>
-		<title>Demographic change and its consequences for the
-future Cohesion Policy of the EU</title>
+			<reference>2010/2138(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2138(INI)&amp;l=en</link>
+		<title>Equality between women and men in the European
+Union — 2010</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1142,13 +1149,6 @@ future Cohesion Policy of the EU</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2139(INI)&amp;l=en</link>
 		<title>Report 2010 on the implementation of the Cohesion
 Policy programmes for 2007-2013</title>
-		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2160(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2160(INI)&amp;l=en</link>
-		<title>State of play and future synergies for increased
-effectiveness between ERDF and other Structural Funds</title>
 		<lastpubdate>Fri Sep 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1179,12 +1179,6 @@ programmes (CBC) budget</title>
 		<lastpubdate>Thu Sep 09 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2711(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2711(RSP)&amp;l=en</link>
-		<title>Import of Laogai-made goods into the EU</title>
-		<lastpubdate>Thu Sep 09 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2856(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2856(RSP)&amp;l=en</link>
 		<title>Resolution on the European strategy for the
@@ -1207,6 +1201,12 @@ September 2010)</title>
 		<lastpubdate>Thu Sep 09 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2711(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2711(RSP)&amp;l=en</link>
+		<title>Import of Laogai-made goods into the EU</title>
+		<lastpubdate>Thu Sep 09 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2844(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2844(RSP)&amp;l=en</link>
 		<title>Presentation by the Council of the draft general
@@ -1218,13 +1218,6 @@ budget - 2011 financial year</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2842(RSP)&amp;l=en</link>
 		<title>Resolution on the situation of Roma and on freedom
 of movement in the European Union</title>
-		<lastpubdate>Thu Sep 02 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2841(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2841(RSP)&amp;l=en</link>
-		<title>Humanitarian situation after the floods in
-Pakistan</title>
 		<lastpubdate>Thu Sep 02 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1246,6 +1239,13 @@ people</title>
 		<title>Free movement of workers –
 temporary restrictions affecting the Romanian and Bulgarian
 citizens on the European Union labour market</title>
+		<lastpubdate>Thu Sep 02 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2841(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2841(RSP)&amp;l=en</link>
+		<title>Humanitarian situation after the floods in
+Pakistan</title>
 		<lastpubdate>Thu Sep 02 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1302,6 +1302,49 @@ European Parliament in application of Part II, Section G, paragraph
 		<lastpubdate>Thu Aug 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2096(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2096(INI)&amp;l=en</link>
+		<title>Setting up an EU rapid response
+capability</title>
+		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2099(INL)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2099(INL)&amp;l=en</link>
+		<title>Improving the economic governance and stability
+framework of the Union, in particular in the euro area</title>
+		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2100(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2100(INI)&amp;l=en</link>
+		<title>EU policy framework to assist developing countries
+in addressing food security challenges</title>
+		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2101(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2101(INI)&amp;l=en</link>
+		<title>Implementation of the European consensus on
+humanitarian aid: the mid-term review of its Action Plan and the
+way forward</title>
+		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2102(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2102(INI)&amp;l=en</link>
+		<title>Tax and development - Cooperating with developing
+countries on promoting good governance in tax matters</title>
+		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2103(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2103(INI)&amp;l=en</link>
+		<title>International trade policy in the context of
+climate change imperatives</title>
+		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2104(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2104(INI)&amp;l=en</link>
 		<title>Efficiency and effectiveness of EU funding in the
@@ -1318,12 +1361,6 @@ change'</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2109(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2109(INI)&amp;l=en</link>
-		<title>More efficient and fairer retail market</title>
-		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2108(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2108(INI)&amp;l=en</link>
 		<title>Towards a new Energy Strategy for Europe 2011 -
@@ -1331,17 +1368,22 @@ change'</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2111(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2111(INI)&amp;l=en</link>
-		<title>EU protein deficit: what solution for a long
-standing problem?</title>
+			<reference>2010/2107(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2107(INI)&amp;l=en</link>
+		<title>Revision of the Energy Efficiency Action
+Plan</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2113(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2113(INI)&amp;l=en</link>
-		<title>Current and future management of Black Sea
-fisheries</title>
+			<reference>2010/2110(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2110(INI)&amp;l=en</link>
+		<title>EU agriculture and international trade</title>
+		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2109(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2109(INI)&amp;l=en</link>
+		<title>More efficient and fairer retail market</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1352,58 +1394,10 @@ in the context of food security</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2115(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2115(INI)&amp;l=en</link>
-		<title>Women and business leadership</title>
-		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2101(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2101(INI)&amp;l=en</link>
-		<title>Implementation of the European consensus on
-humanitarian aid: the mid-term review of its Action Plan and the
-way forward</title>
-		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2100(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2100(INI)&amp;l=en</link>
-		<title>EU policy framework to assist developing countries
-in addressing food security challenges</title>
-		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2103(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2103(INI)&amp;l=en</link>
-		<title>International trade policy in the context of
-climate change imperatives</title>
-		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2102(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2102(INI)&amp;l=en</link>
-		<title>Tax and development - Cooperating with developing
-countries on promoting good governance in tax matters</title>
-		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2105(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2105(INI)&amp;l=en</link>
-		<title>Innovative financing at a global and European
-level</title>
-		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2110(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2110(INI)&amp;l=en</link>
-		<title>EU agriculture and international trade</title>
-		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2096(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2096(INI)&amp;l=en</link>
-		<title>Setting up an EU rapid response
-capability</title>
+			<reference>2010/2111(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2111(INI)&amp;l=en</link>
+		<title>EU protein deficit: what solution for a long
+standing problem?</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1415,23 +1409,29 @@ CBRN Action Plan</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2099(INL)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2099(INL)&amp;l=en</link>
-		<title>Improving the economic governance and stability
-framework of the Union, in particular in the euro area</title>
+			<reference>2010/2113(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2113(INI)&amp;l=en</link>
+		<title>Current and future management of Black Sea
+fisheries</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2107(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2107(INI)&amp;l=en</link>
-		<title>Revision of the Energy Efficiency Action
-Plan</title>
+			<reference>2010/2115(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2115(INI)&amp;l=en</link>
+		<title>Women and business leadership</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/2095(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2095(INI)&amp;l=en</link>
 		<title>Industrial Policy for the globalised era</title>
+		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2105(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2105(INI)&amp;l=en</link>
+		<title>Innovative financing at a global and European
+level</title>
 		<lastpubdate>Mon Jul 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1585,23 +1585,10 @@ trade agreement</title>
 		<lastpubdate>Thu Jun 24 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2610(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2610(RSP)&amp;l=en</link>
-		<title>Resolution on the European integration process of
-Kosovo</title>
-		<lastpubdate>Wed Jun 23 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2747(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2747(RSP)&amp;l=en</link>
 		<title>Oil exploration and extraction - risks, liability
 and regulation</title>
-		<lastpubdate>Wed Jun 23 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2611(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2611(RSP)&amp;l=en</link>
-		<title>Resolution on Albania</title>
 		<lastpubdate>Wed Jun 23 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1612,9 +1599,29 @@ of the European Union</title>
 		<lastpubdate>Wed Jun 23 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2611(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2611(RSP)&amp;l=en</link>
+		<title>Resolution on Albania</title>
+		<lastpubdate>Wed Jun 23 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2610(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2610(RSP)&amp;l=en</link>
+		<title>Resolution on the European integration process of
+Kosovo</title>
+		<lastpubdate>Wed Jun 23 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2078(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2078(INI)&amp;l=en</link>
 		<title>ECB annual report for 2009</title>
+		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2079(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2079(INI)&amp;l=en</link>
+		<title>Simplifying the implementation of the Research
+Framework Programmes</title>
 		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1625,17 +1632,10 @@ Alzheimer’s disease and other dementias</title>
 		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2089(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2089(INI)&amp;l=en</link>
-		<title>Reducing health inequalities in the EU</title>
-		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2080(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2080(INI)&amp;l=en</link>
-		<title>Civil law, commercial law, family law and private
-international law aspects of the Action plan implementing the
-Stockholm Programme</title>
+			<reference>2010/2085(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2085(INI)&amp;l=en</link>
+		<title>Revision of the General Product Safety Directive
+and market surveillance</title>
 		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1645,20 +1645,6 @@ Stockholm Programme</title>
 European Parliament following the draft recommendation to the
 European Commission in Complaint 676/2008/RT (According to Rule
 205(2), 1st part)</title>
-		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2085(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2085(INI)&amp;l=en</link>
-		<title>Revision of the General Product Safety Directive
-and market surveillance</title>
-		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2079(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2079(INI)&amp;l=en</link>
-		<title>Simplifying the implementation of the Research
-Framework Programmes</title>
 		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1675,16 +1661,24 @@ world</title>
 		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2080(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2080(INI)&amp;l=en</link>
+		<title>Civil law, commercial law, family law and private
+international law aspects of the Action plan implementing the
+Stockholm Programme</title>
+		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2089(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2089(INI)&amp;l=en</link>
+		<title>Reducing health inequalities in the EU</title>
+		<lastpubdate>Mon Jun 21 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2736(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2736(RSP)&amp;l=en</link>
 		<title>Resolution on the situation in the Korean
 Peninsula</title>
-		<lastpubdate>Thu Jun 10 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2740(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2740(RSP)&amp;l=en</link>
-		<title>Ban of commercial whaling</title>
 		<lastpubdate>Thu Jun 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1704,13 +1698,6 @@ Peninsula</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2737(RSP)&amp;l=en</link>
 		<title>Resolution on the Democratic Republic of Congo:
 the case of Floribert Chebeya Bahizire</title>
-		<lastpubdate>Thu Jun 10 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2735(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2735(RSP)&amp;l=en</link>
-		<title>Resolution on the Israeli military operation
-against the humanitarian flotilla and the Gaza blockade</title>
 		<lastpubdate>Thu Jun 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1748,6 +1735,19 @@ Framework</title>
 		<lastpubdate>Thu Jun 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2735(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2735(RSP)&amp;l=en</link>
+		<title>Resolution on the Israeli military operation
+against the humanitarian flotilla and the Gaza blockade</title>
+		<lastpubdate>Thu Jun 10 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2740(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2740(RSP)&amp;l=en</link>
+		<title>Ban of commercial whaling</title>
+		<lastpubdate>Thu Jun 10 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2059(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2059(INI)&amp;l=en</link>
 		<title>European Ombudsman: report on 2009 annual activity
@@ -1762,13 +1762,6 @@ of civilian-military capabilities</title>
 		<lastpubdate>Fri May 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2075(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2075(INI)&amp;l=en</link>
-		<title>Regulation of trading in financial instruments -
-'dark pools' etc.</title>
-		<lastpubdate>Fri May 21 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2070(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2070(INI)&amp;l=en</link>
 		<title>Health care systems in sub-Saharan Africa and
@@ -1776,10 +1769,24 @@ global health</title>
 		<lastpubdate>Fri May 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2072(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2072(INI)&amp;l=en</link>
+		<title>Funding and functioning of the European
+Globalisation Adjustment Fund</title>
+		<lastpubdate>Fri May 21 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2074(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2074(INI)&amp;l=en</link>
 		<title>Basel II and revision of the Capital Requirements
 Directives (CRD 4)</title>
+		<lastpubdate>Fri May 21 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2075(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2075(INI)&amp;l=en</link>
+		<title>Regulation of trading in financial instruments -
+'dark pools' etc.</title>
 		<lastpubdate>Fri May 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1794,13 +1801,6 @@ of European Union law (2008)</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2053(INI)&amp;l=en</link>
 		<title>Implementation of the Services Directive
 2006/123/EC</title>
-		<lastpubdate>Fri May 21 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2072(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2072(INI)&amp;l=en</link>
-		<title>Funding and functioning of the European
-Globalisation Adjustment Fund</title>
 		<lastpubdate>Fri May 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1831,16 +1831,16 @@ summit (31 May - 1 June 2010)</title>
 		<lastpubdate>Thu May 20 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2691(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2691(RSP)&amp;l=en</link>
-		<title>Credit rating agencies</title>
-		<lastpubdate>Thu May 20 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2681(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2681(RSP)&amp;l=en</link>
 		<title>Preparations for G20 Summit (26-27 June
 2010)</title>
+		<lastpubdate>Thu May 20 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2691(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2691(RSP)&amp;l=en</link>
+		<title>Credit rating agencies</title>
 		<lastpubdate>Thu May 20 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1882,12 +1882,6 @@ Burma/Myanmar</title>
 		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2699(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2699(RSP)&amp;l=en</link>
-		<title>Cuts in education budgets - EU 2020</title>
-		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2697(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2697(RSP)&amp;l=en</link>
 		<title>Security and prevention measures on offshore oil
@@ -1918,10 +1912,10 @@ than colours and sweeteners and repealing Decision
 		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2666(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2666(RSP)&amp;l=en</link>
-		<title>Employment and social dimensions of Europe
-2020</title>
+			<reference>2010/2674(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2674(RSP)&amp;l=en</link>
+		<title>Principle of subsidiarity and universality of
+social public services in the EU</title>
 		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1933,10 +1927,10 @@ context of the Europe 2020 Strategy</title>
 		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2696(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2696(RSP)&amp;l=en</link>
-		<title>Outcome of the Summit of 7 May 2010 and the ECOFIN
-meeting</title>
+			<reference>2010/2666(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2666(RSP)&amp;l=en</link>
+		<title>Employment and social dimensions of Europe
+2020</title>
 		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1946,10 +1940,16 @@ meeting</title>
 		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2674(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2674(RSP)&amp;l=en</link>
-		<title>Principle of subsidiarity and universality of
-social public services in the EU</title>
+			<reference>2010/2699(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2699(RSP)&amp;l=en</link>
+		<title>Cuts in education budgets - EU 2020</title>
+		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2696(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2696(RSP)&amp;l=en</link>
+		<title>Outcome of the Summit of 7 May 2010 and the ECOFIN
+meeting</title>
 		<lastpubdate>Wed May 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -1982,12 +1982,6 @@ Regulation</title>
 		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2591(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2591(RSP)&amp;l=en</link>
-		<title>Resolution on EU 2020</title>
-		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2647(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2647(RSP)&amp;l=en</link>
 		<title>Accession agreement of the European Union to the
@@ -1996,9 +1990,18 @@ Fundamental Freedoms</title>
 		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2050(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2050(INI)&amp;l=en</link>
-		<title>EU's approach towards Iran</title>
+			<reference>2010/2043(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2043(INI)&amp;l=en</link>
+		<title>Transposition and application of Council Directive
+2004/113/EC implementing the principle of equal treatment between
+men and women in the access to and supply of goods and
+services</title>
+		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2051(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2051(INI)&amp;l=en</link>
+		<title>Future of European standardisation</title>
 		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -2009,12 +2012,6 @@ behaviour</title>
 		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2051(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2051(INI)&amp;l=en</link>
-		<title>Future of European standardisation</title>
-		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2054(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2054(INI)&amp;l=en</link>
 		<title>Role of women in agriculture and rural
@@ -2022,18 +2019,21 @@ areas</title>
 		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2055(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2055(INI)&amp;l=en</link>
-		<title>Interconnection of business registers</title>
+			<reference>2010/2591(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2591(RSP)&amp;l=en</link>
+		<title>Resolution on EU 2020</title>
 		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2043(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2043(INI)&amp;l=en</link>
-		<title>Transposition and application of Council Directive
-2004/113/EC implementing the principle of equal treatment between
-men and women in the access to and supply of goods and
-services</title>
+			<reference>2010/2050(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2050(INI)&amp;l=en</link>
+		<title>EU's approach towards Iran</title>
+		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2055(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2055(INI)&amp;l=en</link>
+		<title>Interconnection of business registers</title>
 		<lastpubdate>Thu Apr 22 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -2078,13 +2078,6 @@ Australia and Canada</title>
 		<lastpubdate>Thu Apr 15 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2656(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2656(RSP)&amp;l=en</link>
-		<title>Resolution on the situation in
-Kyrgyzstan</title>
-		<lastpubdate>Thu Apr 15 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2649(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2649(RSP)&amp;l=en</link>
 		<title>Resolution on the Recommendation from the
@@ -2096,11 +2089,11 @@ and terrorist financing</title>
 		<lastpubdate>Thu Apr 15 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2595(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2595(RSP)&amp;l=en</link>
-		<title>Coordination of humanitarian aid and
-reconstruction in Haiti</title>
-		<lastpubdate>Thu Mar 25 00:00:00 CET 2010</lastpubdate>
+			<reference>2010/2656(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2656(RSP)&amp;l=en</link>
+		<title>Resolution on the situation in
+Kyrgyzstan</title>
+		<lastpubdate>Thu Apr 15 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/2593(RSP)</reference>
@@ -2117,25 +2110,24 @@ May 2010</title>
 		<lastpubdate>Thu Mar 25 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2595(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2595(RSP)&amp;l=en</link>
+		<title>Coordination of humanitarian aid and
+reconstruction in Haiti</title>
+		<lastpubdate>Thu Mar 25 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2038(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2038(INI)&amp;l=en</link>
+		<title>Long-term sustainability of public finances for a
+recovering economy</title>
+		<lastpubdate>Fri Mar 12 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2041(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2041(INI)&amp;l=en</link>
 		<title>Social integration of women belonging to ethnic
 minority groups</title>
-		<lastpubdate>Fri Mar 12 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2037(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2037(INI)&amp;l=en</link>
-		<title>Progress towards the achievement of the Millenium
-Development Goals: mid-term review in preparation of the UN
-high-level meeting in September 2010</title>
-		<lastpubdate>Fri Mar 12 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2039(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2039(INI)&amp;l=en</link>
-		<title>Role of minimum income in combating poverty and
-promoting an inclusive society in Europe</title>
 		<lastpubdate>Fri Mar 12 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2146,10 +2138,18 @@ progress made and new challenges</title>
 		<lastpubdate>Fri Mar 12 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2038(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2038(INI)&amp;l=en</link>
-		<title>Long-term sustainability of public finances for a
-recovering economy</title>
+			<reference>2010/2039(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2039(INI)&amp;l=en</link>
+		<title>Role of minimum income in combating poverty and
+promoting an inclusive society in Europe</title>
+		<lastpubdate>Fri Mar 12 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2037(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2037(INI)&amp;l=en</link>
+		<title>Progress towards the achievement of the Millenium
+Development Goals: mid-term review in preparation of the UN
+high-level meeting in September 2010</title>
 		<lastpubdate>Fri Mar 12 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2285,17 +2285,17 @@ of Nuclear Weapons</title>
 		<lastpubdate>Thu Feb 25 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2560(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2560(RSP)&amp;l=en</link>
-		<title>Resolution on investing in the development of low
-carbon technologies, SET-Plan</title>
-		<lastpubdate>Thu Feb 25 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2559(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2559(RSP)&amp;l=en</link>
 		<title>Resolution on the Second European Roma
 Summit</title>
+		<lastpubdate>Thu Feb 25 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2526(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2526(RSP)&amp;l=en</link>
+		<title>Revision of the 'Package Travel
+Directive'</title>
 		<lastpubdate>Thu Feb 25 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2305,10 +2305,10 @@ Summit</title>
 		<lastpubdate>Thu Feb 25 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2526(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2526(RSP)&amp;l=en</link>
-		<title>Revision of the 'Package Travel
-Directive'</title>
+			<reference>2010/2560(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2560(RSP)&amp;l=en</link>
+		<title>Resolution on investing in the development of low
+carbon technologies, SET-Plan</title>
 		<lastpubdate>Thu Feb 25 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2334,6 +2334,12 @@ national minorities in Belarus</title>
 		<lastpubdate>Wed Feb 24 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2026(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2026(INI)&amp;l=en</link>
+		<title>EU's trade relations with Latin-America</title>
+		<lastpubdate>Fri Feb 12 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2028(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2028(INI)&amp;l=en</link>
 		<title>Public service broadcasting in the digital era:
@@ -2345,12 +2351,6 @@ the future of the dual system</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2027(INI)&amp;l=en</link>
 		<title>Demographic challenge and solidarity between
 generations</title>
-		<lastpubdate>Fri Feb 12 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2026(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2026(INI)&amp;l=en</link>
-		<title>EU's trade relations with Latin-America</title>
 		<lastpubdate>Fri Feb 12 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2381,16 +2381,16 @@ Nations Human Rights Council (Geneva, 1-26 March 2010)</title>
 		<lastpubdate>Thu Feb 11 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2021(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2021(INI)&amp;l=en</link>
-		<title>Power of legislative delegation</title>
-		<lastpubdate>Tue Feb 09 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2020(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2020(INI)&amp;l=en</link>
 		<title>Recommendation to the Council on the 65th Session
 of the United Nations General Assembly</title>
+		<lastpubdate>Tue Feb 09 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2021(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2021(INI)&amp;l=en</link>
+		<title>Power of legislative delegation</title>
 		<lastpubdate>Tue Feb 09 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2434,10 +2434,10 @@ legislative term</title>
 		<lastpubdate>Thu Feb 04 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2006(INL)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2006(INL)&amp;l=en</link>
-		<title>Cross-border crisis management in the banking
-sector</title>
+			<reference>2010/2007(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2007(INI)&amp;l=en</link>
+		<title>2008 discharge: performance, financial management
+and control of agencies</title>
 		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2445,6 +2445,13 @@ sector</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2009(INI)&amp;l=en</link>
 		<title>Remuneration of directors of listed companies and
 remuneration policies in the financial services sector</title>
+		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2010(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2010(INI)&amp;l=en</link>
+		<title>Developing the job potential of a new sustainable
+economy</title>
 		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2463,13 +2470,6 @@ programme</title>
 		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2016(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2016(INI)&amp;l=en</link>
-		<title>Guaranteeing independent impact
-assessments</title>
-		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2015(INI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2015(INI)&amp;l=en</link>
 		<title>Journalism and new media - creating a public
@@ -2477,10 +2477,16 @@ sphere in Europe</title>
 		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2011(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2011(INI)&amp;l=en</link>
-		<title>Delivering a single market to consumers and
-citizens</title>
+			<reference>2010/2016(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2016(INI)&amp;l=en</link>
+		<title>Guaranteeing independent impact
+assessments</title>
+		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2018(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2018(INI)&amp;l=en</link>
+		<title>Precarious women workers</title>
 		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2491,23 +2497,17 @@ actions</title>
 		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2018(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2018(INI)&amp;l=en</link>
-		<title>Precarious women workers</title>
+			<reference>2010/2011(INI)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2011(INI)&amp;l=en</link>
+		<title>Delivering a single market to consumers and
+citizens</title>
 		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2010(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2010(INI)&amp;l=en</link>
-		<title>Developing the job potential of a new sustainable
-economy</title>
-		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2007(INI)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2007(INI)&amp;l=en</link>
-		<title>2008 discharge: performance, financial management
-and control of agencies</title>
+			<reference>2010/2006(INL)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2006(INL)&amp;l=en</link>
+		<title>Cross-border crisis management in the banking
+sector</title>
 		<lastpubdate>Fri Jan 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -2539,13 +2539,6 @@ context of counter-terrorism strategies</title>
 		<lastpubdate>Thu Jan 21 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2518(RSP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2518(RSP)&amp;l=en</link>
-		<title>Resolution on the recent earthquake in
-Haiti</title>
-		<lastpubdate>Thu Jan 14 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2516(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2516(RSP)&amp;l=en</link>
 		<title>SWIFT</title>
@@ -2575,6 +2568,13 @@ communities</title>
 			<reference>2010/2504(RSP)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2504(RSP)&amp;l=en</link>
 		<title>Resolution on Iran</title>
+		<lastpubdate>Thu Jan 14 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2518(RSP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2518(RSP)&amp;l=en</link>
+		<title>Resolution on the recent earthquake in
+Haiti</title>
 		<lastpubdate>Thu Jan 14 00:00:00 CET 2010</lastpubdate>
 	</item>
 	</items>

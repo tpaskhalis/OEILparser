@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:34:20 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 13:51:20 CEST 2014</generatedOn>
 	<items count="92">
 	<item>
 			<reference>2005/0237B(COD)</reference>
@@ -43,19 +43,19 @@ accidents</title>
 		<lastpubdate>Tue Feb 14 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
+			<reference>2005/0242(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0242(COD)&amp;l=en</link>
+		<title>Maritime transport: civil liability and financial
+guarantees of shipowners</title>
+		<lastpubdate>Mon Feb 06 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
 			<reference>2005/0237A(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0237A(COD)&amp;l=en</link>
 		<title>Maritime safety: common rules and
 standards for ship inspection and survey
 organisations (repeal. Directive 94/57/EC).
 Recast</title>
-		<lastpubdate>Mon Feb 06 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0242(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0242(COD)&amp;l=en</link>
-		<title>Maritime transport: civil liability and financial
-guarantees of shipowners</title>
 		<lastpubdate>Mon Feb 06 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -76,13 +76,6 @@ Directive 89/552/EEC and Regulation (EC) No 2006/2004)</title>
 		<lastpubdate>Wed Jan 18 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/0283(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0283(COD)&amp;l=en</link>
-		<title>Promotion of clean and energy-efficient road
-transport vehicles</title>
-		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2005/0239(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0239(COD)&amp;l=en</link>
 		<title>Maritime safety: establishing a Community vessel
@@ -90,35 +83,17 @@ traffic monitoring and information system</title>
 		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
+			<reference>2005/0283(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0283(COD)&amp;l=en</link>
+		<title>Promotion of clean and energy-efficient road
+transport vehicles</title>
+		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
 			<reference>2005/0263(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0263(COD)&amp;l=en</link>
 		<title>Medical devices and active implantable medical
 devices (amend. Directives 93/42/EEC and 90/385/EEC)</title>
-		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0281(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0281(COD)&amp;l=en</link>
-		<title>Waste: revision of the Framework
-Directive</title>
-		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0265(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0265(COD)&amp;l=en</link>
-		<title>Company law: exercise of voting rights by
-shareholders of companies having their registered office in a
-Member State and whose shares are admitted to trading on a
-regulated market, cross-border voting for investors (amend.
-Directive 2004/109/EC)</title>
-		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0277(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0277(COD)&amp;l=en</link>
-		<title>Research RTD, 7th EC framework programme
-2007-2013: participation of undertakings, research centres and
-universities</title>
 		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -135,12 +110,26 @@ emissions and on access to repair information (amend. Directives
 		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/0258(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0258(COD)&amp;l=en</link>
-		<title>Social security: employed, self employed persons
-and families (amend. Regulations (EEC) No 1408/71 and (EEC) No
-574/72)</title>
-		<lastpubdate>Wed Jan 11 00:00:00 CET 2006</lastpubdate>
+			<reference>2005/0281(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0281(COD)&amp;l=en</link>
+		<title>Waste: revision of the Framework
+Directive</title>
+		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0277(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0277(COD)&amp;l=en</link>
+		<title>Research RTD, 7th EC framework programme
+2007-2013: participation of undertakings, research centres and
+universities</title>
+		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0265(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0265(COD)&amp;l=en</link>
+		<title>Exercise of certain rights of shareholders in
+listed companies</title>
+		<lastpubdate>Thu Jan 12 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
 			<reference>2005/0028(COD)</reference>
@@ -158,12 +147,27 @@ obligations into a Community Regulation, Rome I</title>
 		<lastpubdate>Wed Jan 11 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
+			<reference>2005/0258(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0258(COD)&amp;l=en</link>
+		<title>Social security: employed, self employed persons
+and families (amend. Regulations (EEC) No 1408/71 and (EEC) No
+574/72)</title>
+		<lastpubdate>Wed Jan 11 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
 			<reference>2005/0253(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0253(COD)&amp;l=en</link>
 		<title>National acounts data: revision of the
 transmission programme (amend. Regulation (CE) No
 2223/96)</title>
 		<lastpubdate>Tue Dec 20 00:00:00 CET 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0248(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0248(COD)&amp;l=en</link>
+		<title>Education and lifelong learning: production and
+development of statistics</title>
+		<lastpubdate>Wed Dec 07 00:00:00 CET 2005</lastpubdate>
 	</item>
 	<item>
 			<reference>2005/0244(COD)</reference>
@@ -180,13 +184,6 @@ perfluorooctane sulfonates PFOS (amend. Directive
 		<title>Electronic customs and trade: a
 paperless environment for customs and trade, implementing the
 Single Window and One-Stop Shop</title>
-		<lastpubdate>Wed Dec 07 00:00:00 CET 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0248(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0248(COD)&amp;l=en</link>
-		<title>Education and lifelong learning: production and
-development of statistics</title>
 		<lastpubdate>Wed Dec 07 00:00:00 CET 2005</lastpubdate>
 	</item>
 	<item>
@@ -211,9 +208,7 @@ European Aviation Safety Agency (EASA)</title>
 	<item>
 			<reference>2005/0227(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0227(COD)&amp;l=en</link>
-		<title>Medicinal products for human use: advanced therapy
-medicinal products (amend. Directive 2001/83/EC, Regulation (EC) No
-726/2004)</title>
+		<title>Advanced therapy medicinal products</title>
 		<lastpubdate>Thu Nov 17 00:00:00 CET 2005</lastpubdate>
 	</item>
 	<item>
@@ -234,9 +229,8 @@ Justice': specific programme 'Fight against violence
 	<item>
 			<reference>2005/0223(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0223(COD)&amp;l=en</link>
-		<title>Fishery statistics: data on landings of fishery
-products in Member States (repeal. Regulation (EEC) No
-1382/91)</title>
+		<title>Submission of statistical data on landings of
+fishery products in Member States</title>
 		<lastpubdate>Tue Nov 15 00:00:00 CET 2005</lastpubdate>
 	</item>
 	<item>
@@ -257,10 +251,9 @@ Community action. Marine Strategy Framework Directive</title>
 	<item>
 			<reference>2005/0214(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0214(COD)&amp;l=en</link>
-		<title>Freedom of movement of persons, social protection:
-improving the acquisition and preservation of
-supplementary pension rights in order to facilitate
-worker mobility</title>
+		<title>Improving the acquisition and preservation of
+supplementary pension rights in order to facilitate worker
+mobility</title>
 		<lastpubdate>Tue Oct 25 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
@@ -320,7 +313,8 @@ Olympic and Paralympic Winter Games in Torino</title>
 			<reference>2005/0167(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0167(COD)&amp;l=en</link>
 		<title>Common standards and procedures for returning
-illegally staying third-country nationals</title>
+illegally staying third-country nationals. 'Return
+Directive'</title>
 		<lastpubdate>Mon Sep 05 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
@@ -331,19 +325,19 @@ Addiction EMCDDA (recast Regulation (EEC) No 302/93)</title>
 		<lastpubdate>Fri Sep 02 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
+			<reference>2005/0157(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0157(COD)&amp;l=en</link>
+		<title>European standardisation: Community
+financing</title>
+		<lastpubdate>Mon Aug 29 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
 			<reference>2005/0159(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0159(COD)&amp;l=en</link>
 		<title>External borders: recognition by new Member States
 and Schengen States of residence permits issued by Switzerland and
 Liechtenstein as equivalent to their national visas for the purpose
 of transit (Regulation (EC) No 539/2001)</title>
-		<lastpubdate>Mon Aug 29 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0157(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0157(COD)&amp;l=en</link>
-		<title>European standardisation: Community
-financing</title>
 		<lastpubdate>Mon Aug 29 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
@@ -356,10 +350,11 @@ the purpose of transit</title>
 		<lastpubdate>Mon Aug 29 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/0149(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0149(COD)&amp;l=en</link>
-		<title>Noise pollution: noise emission by equipment used
-outdoors (amend. Directive 2000/14/EC)</title>
+			<reference>2005/0144(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0144(COD)&amp;l=en</link>
+		<title>Information society, eEurope: good practices and
+network security, extension of the MODINIS programme in 2006
+(amend. Decision 2256/2003/EC)</title>
 		<lastpubdate>Fri Aug 12 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
@@ -371,11 +366,10 @@ paging (repeal. Directive 90/544/EEC)</title>
 		<lastpubdate>Fri Aug 12 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/0144(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0144(COD)&amp;l=en</link>
-		<title>Information society, eEurope: good practices and
-network security, extension of the MODINIS programme in 2006
-(amend. Decision 2256/2003/EC)</title>
+			<reference>2005/0149(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0149(COD)&amp;l=en</link>
+		<title>Noise pollution: noise emission by equipment used
+outdoors (amend. Directive 2000/14/EC)</title>
 		<lastpubdate>Fri Aug 12 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
@@ -450,6 +444,15 @@ year of equal opportunities for all 2007</title>
 		<lastpubdate>Wed Jun 08 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
+			<reference>2005/0089(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0089(COD)&amp;l=en</link>
+		<title>European Agency for the Management of Operational
+Cooperation at the External Borders of the Member States (FRONTEX):
+term of office of Executive Director and Deputy Executive
+Director</title>
+		<lastpubdate>Tue Jun 07 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
 			<reference>2005/0106(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0106(COD)&amp;l=en</link>
 		<title>Schengen: legal framework governing in respect of
@@ -468,20 +471,74 @@ responsible for issuing vehicle registration certificates</title>
 		<lastpubdate>Tue Jun 07 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/0089(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0089(COD)&amp;l=en</link>
-		<title>European Agency for the Management of Operational
-Cooperation at the External Borders of the Member States (FRONTEX):
-term of office of Executive Director and Deputy Executive
-Director</title>
-		<lastpubdate>Tue Jun 07 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
 			<reference>2005/0102(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0102(COD)&amp;l=en</link>
 		<title>Community action for the European Capital of
 Culture event for the years 2007 to 2019</title>
 		<lastpubdate>Tue Jun 07 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0088(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0088(COD)&amp;l=en</link>
+		<title>European Railway Agency: term of office of
+Executive Director</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0087(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0087(COD)&amp;l=en</link>
+		<title>European Aviation Safety Agency: term of office of
+Executive Director and Directors</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0086(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0086(COD)&amp;l=en</link>
+		<title>European Maritime Safety Agency: Executive
+Director’s term of office</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0082(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0082(COD)&amp;l=en</link>
+		<title>European Centre for Disease Prevention and
+Control: Director’s term of office</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0076(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0076(COD)&amp;l=en</link>
+		<title>European Monitoring Centre for Drugs and Drug
+Addiction: Director's term of office</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0075(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0075(COD)&amp;l=en</link>
+		<title>European Training Foundation:
+Director’s term of office</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0085(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0085(COD)&amp;l=en</link>
+		<title>European Agency for Health and Safety at Work:
+Director’s term of office</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0083(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0083(COD)&amp;l=en</link>
+		<title>European Medicines Agency: term of office of
+Executive Director</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/0081(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0081(COD)&amp;l=en</link>
+		<title>European Food Safety Authority: term of office of
+Executive Director</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
 			<reference>2005/0074(COD)</reference>
@@ -508,69 +565,6 @@ Executive Director</title>
 		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/0076(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0076(COD)&amp;l=en</link>
-		<title>European Monitoring Centre for Drugs and Drug
-Addiction: Director's term of office</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0075(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0075(COD)&amp;l=en</link>
-		<title>European Training Foundation:
-Director’s term of office</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0081(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0081(COD)&amp;l=en</link>
-		<title>European Food Safety Authority: term of office of
-Executive Director</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0083(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0083(COD)&amp;l=en</link>
-		<title>European Medicines Agency: term of office of
-Executive Director</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0088(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0088(COD)&amp;l=en</link>
-		<title>European Railway Agency: term of office of
-Executive Director</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0082(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0082(COD)&amp;l=en</link>
-		<title>European Centre for Disease Prevention and
-Control: Director’s term of office</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0086(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0086(COD)&amp;l=en</link>
-		<title>European Maritime Safety Agency: Executive
-Director’s term of office</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0087(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0087(COD)&amp;l=en</link>
-		<title>European Aviation Safety Agency: term of office of
-Executive Director and Directors</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/0085(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0085(COD)&amp;l=en</link>
-		<title>European Agency for Health and Safety at Work:
-Director’s term of office</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
 			<reference>2005/0098(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0098(COD)&amp;l=en</link>
 		<title>European Maritime Safety Agency: response to
@@ -589,17 +583,14 @@ contracts (correct. Directive 2004/18/EC)</title>
 			<reference>2005/0047(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0047(COD)&amp;l=en</link>
 		<title>General programme 'Solidarity and Management of
-Migration Flows': External borders fund, 2007-2013, implementation
-of the common integrated border management system</title>
+Migration Flows': External Borders Fund 2007-2013</title>
 		<lastpubdate>Tue May 10 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
 			<reference>2005/0049(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/0049(COD)&amp;l=en</link>
 		<title>General programme 'Solidarity and Management of
-Migration Flows': European Return Fund, 2008-2013, voluntary or
-forced return of illegally residing third
-country-nationals</title>
+Migration Flows': European Return Fund 2008-2013</title>
 		<lastpubdate>Tue May 10 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:21:59 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:07:58 CEST 2014</generatedOn>
 	<items count="61">
 	<item>
 			<reference>2009/0176(COD)</reference>
@@ -25,22 +25,6 @@ persons and the content of the protection granted. Recast</title>
 		<lastpubdate>Tue Nov 03 00:00:00 CET 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/0161(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0161(COD)&amp;l=en</link>
-		<title>Financial supervision: powers of the European
-Banking Authority, the European Insurance and Occupational Pensions
-Authority and the European Securities and Markets
-Authority</title>
-		<lastpubdate>Tue Nov 03 00:00:00 CET 2009</lastpubdate>
-	</item>
-	<item>
-			<reference>2009/0163(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0163(COD)&amp;l=en</link>
-		<title>Instrument for Pre-Accession Assistance
-(IPA)</title>
-		<lastpubdate>Tue Nov 03 00:00:00 CET 2009</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/0169(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0169(COD)&amp;l=en</link>
 		<title>Joint Baltic Sea Research and Development
@@ -51,6 +35,22 @@ Programme (BONUS)</title>
 			<reference>2009/0162(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0162(COD)&amp;l=en</link>
 		<title>Macro-financial assistance to Ukraine</title>
+		<lastpubdate>Tue Nov 03 00:00:00 CET 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/0163(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0163(COD)&amp;l=en</link>
+		<title>Instrument for Pre-Accession Assistance
+(IPA)</title>
+		<lastpubdate>Tue Nov 03 00:00:00 CET 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/0161(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0161(COD)&amp;l=en</link>
+		<title>Financial supervision: powers of the European
+Banking Authority, the European Insurance and Occupational Pensions
+Authority and the European Securities and Markets
+Authority</title>
 		<lastpubdate>Tue Nov 03 00:00:00 CET 2009</lastpubdate>
 	</item>
 	<item>
@@ -118,13 +118,6 @@ agriculture</title>
 		<lastpubdate>Mon Oct 05 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/0132(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0132(COD)&amp;l=en</link>
-		<title>Securities: offer to the public and harmonisation
-of transparency requirements</title>
-		<lastpubdate>Mon Sep 28 00:00:00 CEST 2009</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/0140(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0140(COD)&amp;l=en</link>
 		<title>European Systemic Risk Board (ESRB):
@@ -137,6 +130,13 @@ system</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0143(COD)&amp;l=en</link>
 		<title>European Insurance and Occupational Pensions
 Authority (EIOPA): establisment</title>
+		<lastpubdate>Mon Sep 28 00:00:00 CEST 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/0132(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0132(COD)&amp;l=en</link>
+		<title>Securities: offer to the public and harmonisation
+of transparency requirements</title>
 		<lastpubdate>Mon Sep 28 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
@@ -218,18 +218,18 @@ guidelines. Recast</title>
 		<lastpubdate>Wed Aug 19 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/0108(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0108(COD)&amp;l=en</link>
-		<title>Energy policy: measures to safeguard security of
-gas supply</title>
-		<lastpubdate>Tue Aug 18 00:00:00 CEST 2009</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/0105(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0105(COD)&amp;l=en</link>
 		<title>European Regional Development Fund (ERDF):
 eligibility of housing interventions in favour of marginalised
 communities</title>
+		<lastpubdate>Tue Aug 18 00:00:00 CEST 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/0108(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0108(COD)&amp;l=en</link>
+		<title>Energy policy: measures to safeguard security of
+gas supply</title>
 		<lastpubdate>Tue Aug 18 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
@@ -291,17 +291,17 @@ territories</title>
 		<lastpubdate>Tue Jun 30 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/0054(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0054(COD)&amp;l=en</link>
-		<title>Commercial transactions: combating late payment.
-Recast</title>
-		<lastpubdate>Mon Jun 29 00:00:00 CEST 2009</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/0058(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0058(COD)&amp;l=en</link>
 		<title>External actions: financing instrument for
 stability</title>
+		<lastpubdate>Mon Jun 29 00:00:00 CEST 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/0054(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0054(COD)&amp;l=en</link>
+		<title>Commercial transactions: combating late payment.
+Recast</title>
 		<lastpubdate>Mon Jun 29 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>

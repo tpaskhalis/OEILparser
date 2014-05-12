@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:56:58 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:13:07 CEST 2014</generatedOn>
 	<items count="173">
-	<item>
-			<reference>2011/0901B(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0901B(COD)&amp;l=en</link>
-		<title>Court of Justice of the European Union: number of
-judges at the General Court (amend. Statute)</title>
-		<lastpubdate>Thu Jun 14 00:00:00 CEST 2012</lastpubdate>
-	</item>
 	<item>
 			<reference>2011/0341B(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0341B(COD)&amp;l=en</link>
 		<title>Action programme for taxation (Fiscalis 2020),
 2014-2020</title>
+		<lastpubdate>Thu Jun 14 00:00:00 CEST 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0901B(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0901B(COD)&amp;l=en</link>
+		<title>Court of Justice of the European Union: number of
+judges at the General Court (amend. Statute)</title>
 		<lastpubdate>Thu Jun 14 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
@@ -33,8 +33,8 @@ Agreement</title>
 	<item>
 			<reference>2011/0415(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0415(COD)&amp;l=en</link>
-		<title>Instruments for external action: common rules and
-procedures for the implementation, 2014-2020</title>
+		<title>Instruments for financing external action: common
+rules and procedures (2014-2020)</title>
 		<lastpubdate>Thu Jan 19 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -51,6 +51,14 @@ procedures for the implementation, 2014-2020</title>
 		<lastpubdate>Tue Jan 17 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/0445(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0445(COD)&amp;l=en</link>
+		<title>Tariff quotas for certain meat and cereal
+products: alignment of Regulation with the TFEU (Commission
+delegated and implementing powers)</title>
+		<lastpubdate>Tue Jan 17 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/0453(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0453(COD)&amp;l=en</link>
 		<title>Imports of olive oil and other agricultural
@@ -59,54 +67,11 @@ products from Turkey: alignment of Regulations with the TFEU
 		<lastpubdate>Tue Jan 17 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0445(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0445(COD)&amp;l=en</link>
-		<title>Community tariff quotas for certain meat and
-cereal products: alignment of Regulation with the TFEU (Commission
-delegated and implementing powers)</title>
-		<lastpubdate>Tue Jan 17 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0442(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0442(COD)&amp;l=en</link>
 		<title>European Bank for Reconstruction and Development
 (EBRD): extending the geographic scope of operations to the
 Southern and Eastern Mediterranean</title>
-		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0449(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0449(COD)&amp;l=en</link>
-		<title>Pericles 2020 programme: exchange, assistance and
-training for the protection of the euro against counterfeiting,
-2014-2020</title>
-		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0438(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0438(COD)&amp;l=en</link>
-		<title>Public procurement</title>
-		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0439(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0439(COD)&amp;l=en</link>
-		<title>Procurement in the water, energy, transport and
-postal services sectors</title>
-		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0437(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0437(COD)&amp;l=en</link>
-		<title>Award of concession contracts</title>
-		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0435(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0435(COD)&amp;l=en</link>
-		<title>Recognition of professional qualifications:
-European Professional Card supported by the Internal Market
-Information System (IMI)</title>
 		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -122,11 +87,39 @@ Information System (IMI)</title>
 		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0434(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0434(COD)&amp;l=en</link>
-		<title>Conservation of fish stocks: measures in relation
-to countries allowing non-sustainable fishing</title>
-		<lastpubdate>Thu Jan 12 00:00:00 CET 2012</lastpubdate>
+			<reference>2011/0435(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0435(COD)&amp;l=en</link>
+		<title>Recognition of professional qualifications:
+European Professional Card supported by the Internal Market
+Information System (IMI)</title>
+		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0449(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0449(COD)&amp;l=en</link>
+		<title>Pericles 2020 programme: exchange, assistance and
+training for the protection of the euro against counterfeiting
+(2014-2020)</title>
+		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0437(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0437(COD)&amp;l=en</link>
+		<title>Award of concession contracts</title>
+		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0439(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0439(COD)&amp;l=en</link>
+		<title>Procurement in the water, energy, transport and
+postal services sectors</title>
+		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0438(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0438(COD)&amp;l=en</link>
+		<title>Public procurement</title>
+		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
 			<reference>2011/0430(COD)</reference>
@@ -139,6 +132,13 @@ to countries allowing non-sustainable fishing</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0427(COD)&amp;l=en</link>
 		<title>European Border Surveillance System
 (Eurosur)</title>
+		<lastpubdate>Thu Jan 12 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0434(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0434(COD)&amp;l=en</link>
+		<title>Conservation of fish stocks: measures in relation
+to countries allowing non-sustainable fishing</title>
 		<lastpubdate>Thu Jan 12 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -184,14 +184,15 @@ countries 2014-2020</title>
 	<item>
 			<reference>2011/0412(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0412(COD)&amp;l=en</link>
-		<title>Financing instrument for the promotion of
-democracy and human rights worldwide 2014-2020</title>
+		<title>Financing instrument for democracy and human
+rights worldwide (2014-2020)</title>
 		<lastpubdate>Wed Jan 11 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
 			<reference>2011/0413(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0413(COD)&amp;l=en</link>
-		<title>Instrument for Stability 2014-2020</title>
+		<title>Instrument contributing to stability and peace
+(2014-2020)</title>
 		<lastpubdate>Wed Jan 11 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -204,20 +205,14 @@ amendment of the Regulations</title>
 	<item>
 			<reference>2011/0454(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0454(COD)&amp;l=en</link>
-		<title>Protection of the European Union's financial
-interests: Hercule III programme, 2014-2020</title>
+		<title>Protection of the financial interests of the
+European Union: Hercule III programme (2014-2020)</title>
 		<lastpubdate>Tue Jan 03 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
 			<reference>2011/0421(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0421(COD)&amp;l=en</link>
 		<title>Serious cross-border threats to health</title>
-		<lastpubdate>Wed Dec 14 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0409(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0409(COD)&amp;l=en</link>
-		<title>Sound level of motor vehicles</title>
 		<lastpubdate>Wed Dec 14 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -228,17 +223,10 @@ LIFE 2014-2020</title>
 		<lastpubdate>Wed Dec 14 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0369(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0369(COD)&amp;l=en</link>
-		<title>Justice Programme 2014-2020</title>
-		<lastpubdate>Tue Dec 13 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0344(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0344(COD)&amp;l=en</link>
-		<title>Rights, Equality and Citizenship Programme
-2014-2020</title>
-		<lastpubdate>Tue Dec 13 00:00:00 CET 2011</lastpubdate>
+			<reference>2011/0409(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0409(COD)&amp;l=en</link>
+		<title>Sound level of motor vehicles</title>
+		<lastpubdate>Wed Dec 14 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
 			<reference>2011/0385(COD)</reference>
@@ -256,6 +244,19 @@ in the euro area. 'Two pack'</title>
 monitoring and assessing draft budgetary plans and ensuring the
 correction of excessive deficit in the euro area. 'Two
 pack'</title>
+		<lastpubdate>Tue Dec 13 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0369(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0369(COD)&amp;l=en</link>
+		<title>Justice Programme 2014-2020</title>
+		<lastpubdate>Tue Dec 13 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0344(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0344(COD)&amp;l=en</link>
+		<title>Rights, Equality and Citizenship Programme
+2014-2020</title>
 		<lastpubdate>Tue Dec 13 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -294,20 +295,6 @@ crisis management 2014-2020</title>
 		<lastpubdate>Fri Dec 09 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0371(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0371(COD)&amp;l=en</link>
-		<title>Erasmus+ programme for education, training, youth
-and sport 2014-2020</title>
-		<lastpubdate>Fri Dec 09 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0359(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0359(COD)&amp;l=en</link>
-		<title>Statutory audit of public-interest entities:
-specific requirements</title>
-		<lastpubdate>Fri Dec 09 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0384(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0384(COD)&amp;l=en</link>
 		<title>European Institute of Innovation and Technology
@@ -315,10 +302,24 @@ specific requirements</title>
 		<lastpubdate>Fri Dec 09 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/0371(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0371(COD)&amp;l=en</link>
+		<title>Erasmus+ programme for education, training, youth
+and sport 2014-2020</title>
+		<lastpubdate>Fri Dec 09 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/0387(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0387(COD)&amp;l=en</link>
 		<title>European Institute of Innovation and Technology
 (EIT): strategic innovation agenda 2014-2020</title>
+		<lastpubdate>Fri Dec 09 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0359(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0359(COD)&amp;l=en</link>
+		<title>Statutory audit of public-interest entities:
+specific requirements</title>
 		<lastpubdate>Fri Dec 09 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -330,6 +331,13 @@ Commission delegated and implementing powers</title>
 		<lastpubdate>Thu Dec 08 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/0394(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0394(COD)&amp;l=en</link>
+		<title>Programme for the competitiveness of enterprises
+and SMEs, COSME 2014-2020</title>
+		<lastpubdate>Wed Dec 07 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/0389(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0389(COD)&amp;l=en</link>
 		<title>Statutory audits of annual accounts and
@@ -337,10 +345,17 @@ consolidated accounts</title>
 		<lastpubdate>Wed Dec 07 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0394(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0394(COD)&amp;l=en</link>
-		<title>Programme for the competitiveness of enterprises
-and SMEs, COSME 2014-2020</title>
+			<reference>2011/0380(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0380(COD)&amp;l=en</link>
+		<title>European Maritime and Fisheries Fund (EMFF)
+2014-2020</title>
+		<lastpubdate>Wed Dec 07 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0392(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0392(COD)&amp;l=en</link>
+		<title>European satellite navigation systems:
+implementation and exploitation 2014-2020</title>
 		<lastpubdate>Wed Dec 07 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -359,24 +374,10 @@ dissemination</title>
 		<lastpubdate>Wed Dec 07 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0380(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0380(COD)&amp;l=en</link>
-		<title>European Maritime and Fisheries Fund (EMFF)
-2014-2020</title>
-		<lastpubdate>Wed Dec 07 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0392(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0392(COD)&amp;l=en</link>
-		<title>European satellite navigation systems:
-implementation and exploitation 2014-2020</title>
-		<lastpubdate>Wed Dec 07 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0364(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0364(COD)&amp;l=en</link>
-		<title>Fish stock conservation: removal of fins of sharks
-on board vessels</title>
+			<reference>2011/0327(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0327(COD)&amp;l=en</link>
+		<title>Driving licences with the functionalities of a
+driver card</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -387,17 +388,17 @@ plan for the stock of herring in the west of Scotland</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0327(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0327(COD)&amp;l=en</link>
-		<title>Driving licences with the functionalities of a
-driver card</title>
-		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0397(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0397(COD)&amp;l=en</link>
 		<title>Groundhandling services at Union
 airports</title>
+		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0391(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0391(COD)&amp;l=en</link>
+		<title>Allocation of slots at EU airports: common rules.
+Recast</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -425,10 +426,10 @@ market. Recast. 'Goods package'</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0391(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0391(COD)&amp;l=en</link>
-		<title>Allocation of slots at EU airports: common rules.
-Recast</title>
+			<reference>2011/0364(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0364(COD)&amp;l=en</link>
+		<title>Fish stock conservation: removal of fins of sharks
+on board vessels</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -448,14 +449,8 @@ European Securities and Markets Authority</title>
 	<item>
 			<reference>2011/0339(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0339(COD)&amp;l=en</link>
-		<title>Health for Growth Programme 2014-2020</title>
-		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0353(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0353(COD)&amp;l=en</link>
-		<title>Measuring instruments: making available on the
-market. Recast. 'Goods package'</title>
+		<title>Third programme for the Union's action in the
+field of health (2014-2020)</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -463,6 +458,13 @@ market. Recast. 'Goods package'</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0354(COD)&amp;l=en</link>
 		<title>Lifts and safety components for lifts: making
 available on the market. Recast. 'Goods package'</title>
+		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0353(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0353(COD)&amp;l=en</link>
+		<title>Measuring instruments: making available on the
+market. Recast. 'Goods package'</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -489,17 +491,17 @@ certain voltage limits: making available on the market. Recast.
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0350(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0350(COD)&amp;l=en</link>
-		<title>Simple pressure vessels: making available on the
-market. Recast. 'Goods package'</title>
-		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0351(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0351(COD)&amp;l=en</link>
 		<title>Electromagnetic compatibility. Recast. 'Goods
 package'</title>
+		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0350(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0350(COD)&amp;l=en</link>
+		<title>Simple pressure vessels: making available on the
+market. Recast. 'Goods package'</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -546,17 +548,17 @@ mechanism for monitoring and reporting</title>
 		<lastpubdate>Wed Nov 23 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0315(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0315(COD)&amp;l=en</link>
-		<title>Imports of steel products from Russia:
-administering restrictions</title>
-		<lastpubdate>Tue Nov 22 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0309(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0309(COD)&amp;l=en</link>
 		<title>Safety of offshore oil and gas
 prospection</title>
+		<lastpubdate>Tue Nov 22 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0315(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0315(COD)&amp;l=en</link>
+		<title>Imports of steel products from Russia:
+administering restrictions</title>
 		<lastpubdate>Tue Nov 22 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -589,18 +591,18 @@ control list</title>
 		<lastpubdate>Mon Nov 14 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/0307(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0307(COD)&amp;l=en</link>
+		<title>Securities: issuers trading on a regulated market,
+transparency requirements</title>
+		<lastpubdate>Fri Nov 11 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/0308(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0308(COD)&amp;l=en</link>
 		<title>Company law: annual financial statements,
 consolidated financial statements and related reports of certain
 types of undertakings</title>
-		<lastpubdate>Fri Nov 11 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0307(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0307(COD)&amp;l=en</link>
-		<title>Securities: issuers trading on a regulated market,
-transparency requirements</title>
 		<lastpubdate>Fri Nov 11 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -620,8 +622,8 @@ guidelines</title>
 	<item>
 			<reference>2011/0299(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0299(COD)&amp;l=en</link>
-		<title>Trans-European telecommunications networks:
-guidelines</title>
+		<title>Guidelines for trans-European networks in the area
+of telecommunications infrastructure</title>
 		<lastpubdate>Tue Nov 08 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -632,17 +634,17 @@ guidelines</title>
 		<lastpubdate>Tue Nov 08 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0295(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0295(COD)&amp;l=en</link>
-		<title>Financial supervision: insider dealing and market
-manipulation (market abuse)</title>
-		<lastpubdate>Thu Nov 03 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0297(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0297(COD)&amp;l=en</link>
 		<title>Financial supervision: criminal sanctions for
 insider dealing and market manipulation</title>
+		<lastpubdate>Thu Nov 03 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0295(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0295(COD)&amp;l=en</link>
+		<title>Financial supervision: insider dealing and market
+manipulation (market abuse)</title>
 		<lastpubdate>Thu Nov 03 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -729,9 +731,9 @@ products (Single CMO Regulation) 2014-2020</title>
 		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0268(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0268(COD)&amp;l=en</link>
-		<title>European Social Fund (ESF) 2014-2020</title>
+			<reference>2011/0284(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0284(COD)&amp;l=en</link>
+		<title>Common European Sales Law</title>
 		<lastpubdate>Wed Oct 19 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -742,23 +744,23 @@ products (Single CMO Regulation) 2014-2020</title>
 		<lastpubdate>Wed Oct 19 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0275(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0275(COD)&amp;l=en</link>
-		<title>European Regional Development Fund (ERDF): support
-to the Investment for growth and jobs goal</title>
-		<lastpubdate>Wed Oct 19 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0284(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0284(COD)&amp;l=en</link>
-		<title>Common European Sales Law</title>
-		<lastpubdate>Wed Oct 19 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0270(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0270(COD)&amp;l=en</link>
 		<title>Programme for Employment and Social Innovation
 (EaSI) 2014-2020</title>
+		<lastpubdate>Wed Oct 19 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0268(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0268(COD)&amp;l=en</link>
+		<title>European Social Fund (ESF) 2014-2020</title>
+		<lastpubdate>Wed Oct 19 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0275(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0275(COD)&amp;l=en</link>
+		<title>European Regional Development Fund (ERDF): support
+to the Investment for growth and jobs goal</title>
 		<lastpubdate>Wed Oct 19 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -770,16 +772,16 @@ establishment and functioning of such groupings</title>
 		<lastpubdate>Tue Oct 18 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/0274(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0274(COD)&amp;l=en</link>
+		<title>Cohesion Fund 2014-2020</title>
+		<lastpubdate>Tue Oct 18 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/0273(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0273(COD)&amp;l=en</link>
 		<title>European Regional Development Fund (ERDF): support
 to the European territorial cooperation goal</title>
-		<lastpubdate>Tue Oct 18 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0274(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0274(COD)&amp;l=en</link>
-		<title>Cohesion Fund 2014-2020</title>
 		<lastpubdate>Tue Oct 18 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -791,19 +793,19 @@ delegated powers</title>
 		<lastpubdate>Tue Oct 11 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0263(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0263(COD)&amp;l=en</link>
-		<title>EU/Central America Association Agreement:
-implementation of the bilateral safeguard clause and the
-stabilisation mechanism for bananas</title>
-		<lastpubdate>Tue Oct 11 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0262(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0262(COD)&amp;l=en</link>
 		<title>EU/Colombia/Peru Trade Agreement: implementation
 of the bilateral safeguard clause and the stabilisation mechanism
 for bananas</title>
+		<lastpubdate>Tue Oct 11 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0263(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0263(COD)&amp;l=en</link>
+		<title>EU/Central America Association Agreement:
+implementation of the bilateral safeguard clause and the
+stabilisation mechanism for bananas</title>
 		<lastpubdate>Tue Oct 11 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -874,19 +876,19 @@ Market Information System (IMI)</title>
 		<lastpubdate>Wed Aug 31 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0210(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0210(COD)&amp;l=en</link>
-		<title>Structural Funds: repayable assistance, financial
-engineering and certain provisions related to the statement of
-expenditure</title>
-		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0218(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0218(COD)&amp;l=en</link>
 		<title>Sustainable exploitation of fishery resources in
 the Mediterranean Sea: alignment of the Regulation with the TFEU
 (Commission delegated powers)</title>
+		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0210(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0210(COD)&amp;l=en</link>
+		<title>Structural Funds: repayable assistance, financial
+engineering and certain provisions related to the statement of
+expenditure</title>
 		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -897,10 +899,9 @@ increased contribution rates for certain Member States</title>
 		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0212(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0212(COD)&amp;l=en</link>
-		<title>European Fisheries Fund (EFF): increased payments
-for certain Member States</title>
+			<reference>2011/0217(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0217(COD)&amp;l=en</link>
+		<title>European Year of Citizens (2013)</title>
 		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -911,16 +912,10 @@ Member States</title>
 		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0217(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0217(COD)&amp;l=en</link>
-		<title>European Year of Citizens (2013)</title>
-		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0197(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0197(COD)&amp;l=en</link>
-		<title>Recreational craft and personal
-watercraft</title>
+			<reference>2011/0212(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0212(COD)&amp;l=en</link>
+		<title>European Fisheries Fund (EFF): increased payments
+for certain Member States</title>
 		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -929,6 +924,13 @@ watercraft</title>
 		<title>Local border traffic at external borders:
 inclusion of the Kaliningrad area and certain Polish administrative
 districts in the eligible border area</title>
+		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0197(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0197(COD)&amp;l=en</link>
+		<title>Recreational craft and personal
+watercraft</title>
 		<lastpubdate>Tue Aug 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -955,21 +957,21 @@ firms</title>
 	<item>
 			<reference>2011/0196(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0196(COD)&amp;l=en</link>
-		<title>Road transport: tachograph system</title>
+		<title>Tachographs in road transport</title>
 		<lastpubdate>Wed Aug 17 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0193(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0193(COD)&amp;l=en</link>
-		<title>Instrument for Pre-Accession Assistance
-(IPA)</title>
-		<lastpubdate>Tue Aug 16 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
 			<reference>2011/0190(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0190(COD)&amp;l=en</link>
 		<title>Prevention of pollution from ships: sulphur
 content of marine fuels</title>
+		<lastpubdate>Tue Aug 16 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0193(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0193(COD)&amp;l=en</link>
+		<title>Instrument for Pre-Accession Assistance
+(IPA)</title>
 		<lastpubdate>Tue Aug 16 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -1015,17 +1017,17 @@ quota</title>
 		<lastpubdate>Wed Jun 29 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0172(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0172(COD)&amp;l=en</link>
-		<title>Energy efficiency</title>
-		<lastpubdate>Tue Jun 28 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0156(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0156(COD)&amp;l=en</link>
 		<title>Food intended for infants and young children, food
 for special medical purposes, and total diet replacement for weight
 control</title>
+		<lastpubdate>Tue Jun 28 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0172(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0172(COD)&amp;l=en</link>
+		<title>Energy efficiency</title>
 		<lastpubdate>Tue Jun 28 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -1085,16 +1087,16 @@ intellectual property rights</title>
 		<lastpubdate>Mon May 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0136(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0136(COD)&amp;l=en</link>
-		<title>Orphan works: permitted uses</title>
+			<reference>2011/0137(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0137(COD)&amp;l=en</link>
+		<title>Customs enforcement of intellectual property
+rights</title>
 		<lastpubdate>Mon May 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0137(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0137(COD)&amp;l=en</link>
-		<title>Intellectual property rights: customs
-enforcement</title>
+			<reference>2011/0136(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0136(COD)&amp;l=en</link>
+		<title>Orphan works: permitted uses</title>
 		<lastpubdate>Mon May 30 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -1126,13 +1128,6 @@ Recast</title>
 		<lastpubdate>Mon May 09 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0093(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0093(COD)&amp;l=en</link>
-		<title>Enhanced cooperation in the area of the creation
-of unitary patent protection: implementation</title>
-		<lastpubdate>Tue Apr 26 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0080(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0080(COD)&amp;l=en</link>
 		<title>Assessment of the effects of certain public and
@@ -1140,23 +1135,31 @@ private projects on the environment. Codification</title>
 		<lastpubdate>Tue Apr 26 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0062(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0062(COD)&amp;l=en</link>
-		<title>Credit agreements: residential property</title>
-		<lastpubdate>Thu Apr 14 00:00:00 CEST 2011</lastpubdate>
+			<reference>2011/0093(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0093(COD)&amp;l=en</link>
+		<title>Enhanced cooperation in the area of the creation
+of unitary patent protection: implementation</title>
+		<lastpubdate>Tue Apr 26 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0902(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0902(COD)&amp;l=en</link>
-		<title>EU Civil Service Tribunal: temporary
-judges</title>
-		<lastpubdate>Fri Apr 08 00:00:00 CEST 2011</lastpubdate>
+			<reference>2011/0062(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0062(COD)&amp;l=en</link>
+		<title>Credit agreements: residential immovable
+property</title>
+		<lastpubdate>Thu Apr 14 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
 			<reference>2011/0901A(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0901A(COD)&amp;l=en</link>
 		<title>Court of Justice of the European Union: statute
 (amend. Protocol and Annex I)</title>
+		<lastpubdate>Fri Apr 08 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0902(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0902(COD)&amp;l=en</link>
+		<title>EU Civil Service Tribunal: temporary
+judges</title>
 		<lastpubdate>Fri Apr 08 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -1197,18 +1200,18 @@ registers</title>
 		<lastpubdate>Mon Feb 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0023(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0023(COD)&amp;l=en</link>
-		<title>Fight against terrorism and serious crime: use of
-passenger name record (PNR) data</title>
-		<lastpubdate>Wed Feb 09 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0014(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0014(COD)&amp;l=en</link>
 		<title>European Bank for Reconstruction and Development
 (EBRD): subscription by the EU to additional shares in the
 capital</title>
+		<lastpubdate>Wed Feb 09 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0023(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0023(COD)&amp;l=en</link>
+		<title>Fight against terrorism and serious crime: use of
+passenger name record (PNR) data</title>
 		<lastpubdate>Wed Feb 09 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>

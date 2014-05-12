@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:16:24 CET 2014</generatedOn>
-	<items count="22">
+	<generatedOn>Mon May 12 14:23:20 CEST 2014</generatedOn>
+	<items count="21">
 	<item>
 			<reference>2013/2259(REG)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2259(REG)&amp;l=en</link>
 		<title>EP Rules of Procedure, Rule 90: international
 agreements</title>
 		<lastpubdate>Mon Mar 17 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2996(RSO)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2996(RSO)&amp;l=en</link>
+		<title>Decision on the powers and responsibilities of the
+standing committees</title>
+		<lastpubdate>Fri Dec 13 00:00:00 CET 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2886(RSO)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2886(RSO)&amp;l=en</link>
+		<title>Parliament's calendar of part-sessions -
+2015</title>
+		<lastpubdate>Fri Dec 13 00:00:00 CET 2013</lastpubdate>
 	</item>
 	<item>
 			<reference>2013/2033(REG)</reference>
@@ -24,32 +38,11 @@ Question Time</title>
 		<lastpubdate>Fri Dec 13 00:00:00 CET 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2886(RSO)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2886(RSO)&amp;l=en</link>
-		<title>Parliament's calendar of part-sessions
-– 2015</title>
-		<lastpubdate>Fri Dec 13 00:00:00 CET 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2996(RSO)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2996(RSO)&amp;l=en</link>
-		<title>Decision on the powers and responsibilities of the
-standing committees</title>
-		<lastpubdate>Fri Dec 13 00:00:00 CET 2013</lastpubdate>
-	</item>
-	<item>
 			<reference>2013/2258(REG)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2258(REG)&amp;l=en</link>
 		<title>EP Rules of Procedure, Rule 202(5): fact-finding
 visits; interpretation</title>
 		<lastpubdate>Tue Dec 10 00:00:00 CET 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2280(IMM)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2280(IMM)&amp;l=en</link>
-		<title>Request for the waiver of parliamentary immunity
-of Richard Seeber</title>
-		<lastpubdate>Tue Nov 26 00:00:00 CET 2013</lastpubdate>
 	</item>
 	<item>
 			<reference>2013/2279(IMM)</reference>
@@ -83,17 +76,17 @@ assemblies</title>
 		<lastpubdate>Thu Oct 03 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2190(IMM)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2190(IMM)&amp;l=en</link>
-		<title>Request for the defence of parliamentary immunity
-of Lara Comi</title>
-		<lastpubdate>Fri Sep 13 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
 			<reference>2013/2189(IMM)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2189(IMM)&amp;l=en</link>
 		<title>Request for the waiver of parliamentary immunity
 of Zbigniew Ziobro</title>
+		<lastpubdate>Fri Sep 13 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2190(IMM)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2190(IMM)&amp;l=en</link>
+		<title>Request for the defence of parliamentary immunity
+of Lara Comi</title>
 		<lastpubdate>Fri Sep 13 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>

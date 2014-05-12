@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:47:36 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:05:45 CEST 2014</generatedOn>
 	<items count="9">
 	<item>
 			<reference>2009/0085(NLE)</reference>
@@ -40,17 +40,17 @@ cooperation, renewal</title>
 		<lastpubdate>Thu Apr 23 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/0036(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0036(NLE)&amp;l=en</link>
-		<title>EC/Pakistan agreement: readmission
-agreement</title>
-		<lastpubdate>Mon Mar 09 00:00:00 CET 2009</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/0033(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0033(NLE)&amp;l=en</link>
 		<title>Schengen: evaluation mechanism to verify the
 application of the Schengen acquis. Regulation</title>
+		<lastpubdate>Mon Mar 09 00:00:00 CET 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/0036(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0036(NLE)&amp;l=en</link>
+		<title>EC/Pakistan agreement: readmission
+agreement</title>
 		<lastpubdate>Mon Mar 09 00:00:00 CET 2009</lastpubdate>
 	</item>
 	<item>

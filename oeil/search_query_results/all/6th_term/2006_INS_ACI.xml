@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:39:03 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 13:56:41 CEST 2014</generatedOn>
 	<items count="5">
-	<item>
-			<reference>2006/0810(INS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0810(INS)&amp;l=en</link>
-		<title>Decision approving the appointment of Leonard
-Orban, the new Member of the Commission nominated by
-Romania</title>
-		<lastpubdate>Mon Nov 06 00:00:00 CET 2006</lastpubdate>
-	</item>
 	<item>
 			<reference>2006/0809(INS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0809(INS)&amp;l=en</link>
 		<title>Decision approving the appointment of Meglena
 Kuneva, the new Member of the Commission nominated by the Republic
 of Bulgaria</title>
+		<lastpubdate>Mon Nov 06 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0810(INS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0810(INS)&amp;l=en</link>
+		<title>Decision approving the appointment of Leonard
+Orban, the new Member of the Commission nominated by
+Romania</title>
 		<lastpubdate>Mon Nov 06 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>

@@ -1,7 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:19:13 CET 2014</generatedOn>
-	<items count="35">
+	<generatedOn>Mon May 12 14:29:43 CEST 2014</generatedOn>
+	<items count="60">
+	<item>
+			<reference>2014/2674(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2674(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards for determining
+proxy spread and limited smaller portfolios for credit valuation
+adjustment risk</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2675(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2675(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards specifying the
+requirements for investor, sponsor, original lenders and originator
+institutions relating to exposures to transferred credit
+risk</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2676(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2676(DEA)&amp;l=en</link>
+		<title>Fund for European aid to the most deprived:
+detailed rules</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2677(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2677(DEA)&amp;l=en</link>
+		<title>Exemption for lead in platinized platinum
+electrodes used for conductivity measurements</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2678(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2678(DEA)&amp;l=en</link>
+		<title>Exemption for lead in solders and termination
+finishes of electrical and electronic components and finishes of
+printed circuit boards used in ignition modules and other
+electrical and electronic engine control systems</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2683(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2683(DEA)&amp;l=en</link>
+		<title>Exemption for lead in solder in one interface of
+large area stacked die elements</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2682(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2682(DEA)&amp;l=en</link>
+		<title>Rules of procedure for penalties imposed on trade
+repositories by the European Securities and Markets Authority
+including rules on the right of defence and temporal
+provisions</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2684(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2684(DEA)&amp;l=en</link>
+		<title>Exemption for lead used in other than C-press
+compliant pin connector systems for industrial monitoring and
+control instruments</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2685(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2685(DEA)&amp;l=en</link>
+		<title>Exemption for lead in dielectric ceramic in
+capacitors for a rated voltage of less than 125 V AC or 250V DC for
+industrial monitoring and control instruments</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2686(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2686(DEA)&amp;l=en</link>
+		<title>Exemption for mercury in hand crafted luminous
+discharge tubes (HLDTs) used for signs, decorative or architectural
+and specialist lighting and light-artwork</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2687(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2687(DEA)&amp;l=en</link>
+		<title>Exemption for mercury in cold cathode fluorescent
+lamps (CCFLs) for back-lighting liquid crystal displays, not
+exceeding 5 mg per lamp, used in industrial monitoring and control
+instruments placed on the market before 22 July 2017</title>
+		<lastpubdate>Mon Mar 24 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2662(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2662(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards for non-delta risk
+of options in the standardised market risk approach</title>
+		<lastpubdate>Thu Mar 20 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2664(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2664(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards further defining
+material exposures and thresholds for internal approaches to
+specific risk in the trading book</title>
+		<lastpubdate>Thu Mar 20 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2663(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2663(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards for assessing the
+materiality of extensions and changes of the internal ratings based
+approach and the advanced measurement approach</title>
+		<lastpubdate>Thu Mar 20 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2665(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2665(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards for determining
+what constitutes the close correspondence between the value of an
+institution's covered bonds and the value of the institution's
+assets</title>
+		<lastpubdate>Thu Mar 20 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2666(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2666(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards specifying the
+classes of instruments that adequately reflect the credit quality
+of an institution as a going concern and are appropriate to be used
+for the purposes of variable remuneration</title>
+		<lastpubdate>Thu Mar 20 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2671(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2671(DEA)&amp;l=en</link>
+		<title>Exemption for lead in micro-channel plates
+(MCPs)</title>
+		<lastpubdate>Thu Mar 20 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2673(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2673(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards for the definition
+of market</title>
+		<lastpubdate>Thu Mar 20 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2659(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2659(DEA)&amp;l=en</link>
+		<title>Requirements for a Union inventory system, changes
+in the global warming potentials and internationally agreed
+inventory guidelines</title>
+		<lastpubdate>Wed Mar 19 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2660(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2660(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards specifying the
+information that competent authorities of home and host Member
+States supply to one another</title>
+		<lastpubdate>Wed Mar 19 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2661(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2661(DEA)&amp;l=en</link>
+		<title>Citizens' initiative: Annex I</title>
+		<lastpubdate>Wed Mar 19 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2656(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2656(DEA)&amp;l=en</link>
+		<title>Integrated administration and control system and
+conditions for refusal or withdrawal of payments and administrative
+penalties applicable to direct payments, rural development support
+and cross compliance</title>
+		<lastpubdate>Mon Mar 17 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2653(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2653(DEA)&amp;l=en</link>
+		<title>Basis of calculation for reductions to be applied
+to farmers by Member States due to the linear reduction of payments
+in 2014 and financial discipline for calendar year 2014</title>
+		<lastpubdate>Mon Mar 17 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2658(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2658(DEA)&amp;l=en</link>
+		<title>Rules for direct payments to farmers under support
+schemes within the framework of the common agricultural policy and
+amending Annex X</title>
+		<lastpubdate>Mon Mar 17 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2657(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2657(DEA)&amp;l=en</link>
+		<title>Support for rural development by the European
+Agricultural Fund for Rural Development (EAFRD) and introducing
+transitional provisions</title>
+		<lastpubdate>Mon Mar 17 00:00:00 CET 2014</lastpubdate>
+	</item>
 	<item>
 			<reference>2014/2644(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2644(DEA)&amp;l=en</link>
@@ -10,11 +209,17 @@ vegetables sectors</title>
 		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/2648(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2648(DEA)&amp;l=en</link>
-		<title>Paying agencies and other bodies, financial
-management, clearance of accounts, securities and use of the
-euro</title>
+			<reference>2014/2645(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2645(DEA)&amp;l=en</link>
+		<title>Granting of aid for accompanying measures in the
+framework of a School Fruit and Vegetables Scheme</title>
+		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2646(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2646(DEA)&amp;l=en</link>
+		<title>Support programmes for the olive-oil and
+table-olives sector</title>
 		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
@@ -27,17 +232,11 @@ Regional Development Fund</title>
 		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/2646(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2646(DEA)&amp;l=en</link>
-		<title>Support programmes for the olive-oil and
-table-olives sector</title>
-		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
-	</item>
-	<item>
-			<reference>2014/2645(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2645(DEA)&amp;l=en</link>
-		<title>Granting of aid for accompanying measures in the
-framework of a School Fruit and Vegetables Scheme</title>
+			<reference>2014/2648(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2648(DEA)&amp;l=en</link>
+		<title>Paying agencies and other bodies, financial
+management, clearance of accounts, securities and use of the
+euro</title>
 		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
@@ -48,10 +247,10 @@ benefiting from private storage aid</title>
 		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/2652(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2652(DEA)&amp;l=en</link>
-		<title>New measures under the national support programmes
-in the wine sector</title>
+			<reference>2014/2650(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2650(DEA)&amp;l=en</link>
+		<title>Conditions of use of the optional quality term
+‘mountain product'</title>
 		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
@@ -61,10 +260,10 @@ in the wine sector</title>
 		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/2650(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2650(DEA)&amp;l=en</link>
-		<title>Conditions of use of the optional quality term
-‘mountain product'</title>
+			<reference>2014/2652(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2652(DEA)&amp;l=en</link>
+		<title>New measures under the national support programmes
+in the wine sector</title>
 		<lastpubdate>Thu Mar 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
@@ -90,13 +289,6 @@ Reference Network must fulfil</title>
 		<lastpubdate>Wed Mar 12 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/2622(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2622(DEA)&amp;l=en</link>
-		<title>2010 average specific CO2 emissions specified for
-the manufacturer Great Wall Motor Company Limited</title>
-		<lastpubdate>Mon Mar 10 00:00:00 CET 2014</lastpubdate>
-	</item>
-	<item>
 			<reference>2014/2621(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2621(DEA)&amp;l=en</link>
 		<title>Regulatory technical standards with respect to
@@ -110,6 +302,13 @@ impact on an institution's risk profile</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2623(DEA)&amp;l=en</link>
 		<title>Specific rules on eligibility of expenditure for
 cooperation programmes</title>
+		<lastpubdate>Mon Mar 10 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2622(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2622(DEA)&amp;l=en</link>
+		<title>2010 average specific CO2 emissions specified for
+the manufacturer Great Wall Motor Company Limited</title>
 		<lastpubdate>Mon Mar 10 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
@@ -166,18 +365,18 @@ regard to the ECSEL Joint Undertaking</title>
 		<lastpubdate>Wed Feb 19 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/2589(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2589(DEA)&amp;l=en</link>
-		<title>Derogation from Regulation (EU) No 1290/2013 with
-regard to the Bio-based Industries Joint Undertaking</title>
-		<lastpubdate>Wed Feb 19 00:00:00 CET 2014</lastpubdate>
-	</item>
-	<item>
 			<reference>2014/2590(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2590(DEA)&amp;l=en</link>
 		<title>Monitoring of CO2 emissions from new light
 commercial vehicles type-approved in a multi-stage
 process</title>
+		<lastpubdate>Wed Feb 19 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2589(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2589(DEA)&amp;l=en</link>
+		<title>Derogation from Regulation (EU) No 1290/2013 with
+regard to the Bio-based Industries Joint Undertaking</title>
 		<lastpubdate>Wed Feb 19 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
@@ -196,15 +395,6 @@ financial conglomerates</title>
 		<lastpubdate>Thu Feb 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/2500(RPS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2500(RPS)&amp;l=en</link>
-		<title>Draft Regulation amending Commission Regulation
-(EU) No 1178/2011 laying down technical requirements and
-administrative procedures related to civil aviation
-aircrew</title>
-		<lastpubdate>Mon Feb 10 00:00:00 CET 2014</lastpubdate>
-	</item>
-	<item>
 			<reference>2014/2523(RPS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2523(RPS)&amp;l=en</link>
 		<title>Draft Regulation amending Commission Regulation
@@ -214,10 +404,19 @@ greenhouse gas emission allowances to be auctioned in
 		<lastpubdate>Mon Feb 10 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
+			<reference>2014/2500(RPS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2500(RPS)&amp;l=en</link>
+		<title>Draft Regulation amending Commission Regulation
+(EU) No 1178/2011 laying down technical requirements and
+administrative procedures related to civil aviation
+aircrew</title>
+		<lastpubdate>Mon Feb 10 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
 			<reference>2014/2010(ACI)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2010(ACI)&amp;l=en</link>
-		<title>Modification of the Inter-Institutional Agreement
-on the Transparency Register</title>
+		<title>Inter-Institutional Agreement on the Transparency
+Register</title>
 		<lastpubdate>Fri Feb 07 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
@@ -249,17 +448,17 @@ adjustments</title>
 		<lastpubdate>Tue Jan 14 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/2510(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2510(DEA)&amp;l=en</link>
-		<title>Regulatory technical standards for own funds
-requirements for institutions</title>
-		<lastpubdate>Tue Jan 14 00:00:00 CET 2014</lastpubdate>
-	</item>
-	<item>
 			<reference>2014/2509(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2509(DEA)&amp;l=en</link>
 		<title>Connecting Europe Facility: amending Annex
 I</title>
+		<lastpubdate>Tue Jan 14 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/2510(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/2510(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards for own funds
+requirements for institutions</title>
 		<lastpubdate>Tue Jan 14 00:00:00 CET 2014</lastpubdate>
 	</item>
 	</items>

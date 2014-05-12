@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:57:14 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:13:28 CEST 2014</generatedOn>
 	<items count="27">
 	<item>
 			<reference>2011/0446(APP)</reference>
@@ -12,10 +12,10 @@ States</title>
 		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0436(APP)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0436(APP)&amp;l=en</link>
-		<title>Programme 'Europe for Citizens'
-2014-2020</title>
+			<reference>2011/0432(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0432(CNS)&amp;l=en</link>
+		<title>Consular protection for citizens of the Union
+abroad</title>
 		<lastpubdate>Thu Jan 12 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -26,10 +26,10 @@ framework for 2013-2017</title>
 		<lastpubdate>Thu Jan 12 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0432(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0432(CNS)&amp;l=en</link>
-		<title>Consular protection for citizens of the Union
-abroad</title>
+			<reference>2011/0436(APP)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0436(APP)&amp;l=en</link>
+		<title>Programme 'Europe for Citizens'
+2014-2020</title>
 		<lastpubdate>Thu Jan 12 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -61,14 +61,6 @@ Framework Programme for Research and Innovation 2014-2020</title>
 		<lastpubdate>Wed Dec 07 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0334(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0334(CNS)&amp;l=en</link>
-		<title>Own resources: methods and procedure for making
-available the financial transaction tax (FTT) based own
-resource</title>
-		<lastpubdate>Wed Nov 23 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0314(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0314(CNS)&amp;l=en</link>
 		<title>Corporate taxation: common system of taxation
@@ -80,6 +72,14 @@ applicable to interest and royalty payments. Recast</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0330(CNS)&amp;l=en</link>
 		<title>Excise duties: administrative
 cooperation</title>
+		<lastpubdate>Wed Nov 23 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0334(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0334(CNS)&amp;l=en</link>
+		<title>Own resources: methods and procedure for making
+available the financial transaction tax (FTT) based own
+resource</title>
 		<lastpubdate>Wed Nov 23 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -134,9 +134,8 @@ measures</title>
 	<item>
 			<reference>2011/0185(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0185(CNS)&amp;l=en</link>
-		<title>Methods and procedure for making available the
-traditional and GNI-based own resources and measures to meet cash
-requirements. Recast</title>
+		<title>Traditional, VAT and GNI-based own-resources and
+measures to meet cash requirements. Recast</title>
 		<lastpubdate>Tue Jul 05 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:42:42 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:00:52 CEST 2014</generatedOn>
 	<items count="40">
 	<item>
 			<reference>2007/2237(BUD)</reference>
@@ -18,6 +18,48 @@ Ombudsman</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/2042(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2042(DEC)&amp;l=en</link>
+		<title>2006 discharge: EC general budget, Economic and
+Social Committee</title>
+		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2039(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2039(DEC)&amp;l=en</link>
+		<title>2006 discharge: EC general budget,
+Council</title>
+		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2038(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2038(DEC)&amp;l=en</link>
+		<title>2006 discharge: EC general budget, European
+Parliament</title>
+		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2040(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2040(DEC)&amp;l=en</link>
+		<title>2006 discharge: EC general budget, Court of
+Justice</title>
+		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2041(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2041(DEC)&amp;l=en</link>
+		<title>2006 discharge: EC general budget, Court of
+Auditors</title>
+		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2044(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2044(DEC)&amp;l=en</link>
+		<title>2006 discharge: EC general budget, European Data
+Protection Supervisor</title>
+		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/2043(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2043(DEC)&amp;l=en</link>
 		<title>2006 discharge: EC general budget, Committee of
@@ -32,45 +74,17 @@ Commission</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2038(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2038(DEC)&amp;l=en</link>
-		<title>2006 discharge: EC general budget, European
-Parliament</title>
+			<reference>2007/2047(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2047(DEC)&amp;l=en</link>
+		<title>2006 discharge: European Foundation for the
+Improvement of Living and Working Conditions Eurofound</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2039(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2039(DEC)&amp;l=en</link>
-		<title>2006 discharge: EC general budget,
-Council</title>
-		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2041(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2041(DEC)&amp;l=en</link>
-		<title>2006 discharge: EC general budget, Court of
-Auditors</title>
-		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2042(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2042(DEC)&amp;l=en</link>
-		<title>2006 discharge: EC general budget, Economic and
-Social Committee</title>
-		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2044(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2044(DEC)&amp;l=en</link>
-		<title>2006 discharge: EC general budget, European Data
-Protection Supervisor</title>
-		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2040(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2040(DEC)&amp;l=en</link>
-		<title>2006 discharge: EC general budget, Court of
-Justice</title>
+			<reference>2007/2046(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2046(DEC)&amp;l=en</link>
+		<title>2006 discharge: European Centre for the
+Development of Vocational Training Cedefop</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -89,31 +103,10 @@ and Xenophobia)</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2046(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2046(DEC)&amp;l=en</link>
-		<title>2006 discharge: European Centre for the
-Development of Vocational Training Cedefop</title>
-		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2047(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2047(DEC)&amp;l=en</link>
-		<title>2006 discharge: European Foundation for the
-Improvement of Living and Working Conditions Eurofound</title>
-		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2050(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2050(DEC)&amp;l=en</link>
 		<title>2006 discharge: European Monitoring Centre for
 Drugs and Drug Addiction EMCDDA</title>
-		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/2051(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2051(DEC)&amp;l=en</link>
-		<title>2006 discharge: European Environment Agency
-EEA</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -124,10 +117,10 @@ Health at Work OSHA</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2055(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2055(DEC)&amp;l=en</link>
-		<title>2006 discharge: European Judicial Cooperation Unit
-Eurojust</title>
+			<reference>2007/2051(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2051(DEC)&amp;l=en</link>
+		<title>2006 discharge: European Environment Agency
+EEA</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -145,10 +138,17 @@ of the European Union CdT</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2059(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2059(DEC)&amp;l=en</link>
-		<title>2006 discharge: European Food Safety Authority
-EFSA</title>
+			<reference>2007/2056(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2056(DEC)&amp;l=en</link>
+		<title>2006 discharge: European Training Foundation
+ETF</title>
+		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2055(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2055(DEC)&amp;l=en</link>
+		<title>2006 discharge: European Judicial Cooperation Unit
+Eurojust</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -166,13 +166,6 @@ EMSA</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2056(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2056(DEC)&amp;l=en</link>
-		<title>2006 discharge: European Training Foundation
-ETF</title>
-		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2060(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2060(DEC)&amp;l=en</link>
 		<title>2006 discharge: European Centre for Disease
@@ -180,16 +173,23 @@ Prevention and Control ECDC</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2061(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2061(DEC)&amp;l=en</link>
-		<title>2006 discharge: European Network and Information
-Security Agency ENISA</title>
+			<reference>2007/2059(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2059(DEC)&amp;l=en</link>
+		<title>2006 discharge: European Food Safety Authority
+EFSA</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
 			<reference>2007/2062(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2062(DEC)&amp;l=en</link>
 		<title>2006 discharge: European Railway Agency</title>
+		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2061(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2061(DEC)&amp;l=en</link>
+		<title>2006 discharge: European Network and Information
+Security Agency ENISA</title>
 		<lastpubdate>Wed Oct 31 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -233,13 +233,6 @@ Development Funds (EDF)</title>
 		<lastpubdate>Fri May 11 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2073(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2073(BUD)&amp;l=en</link>
-		<title>Amending budget 3/2007: budgetisation of the
-surplus from the 2006 financial year</title>
-		<lastpubdate>Thu Apr 19 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2072(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2072(BUD)&amp;l=en</link>
 		<title>Amending budget 4/2007: financing of the Executive
@@ -248,6 +241,13 @@ the budget of the Executive Agency for Education, Audiovisual and
 Culture; modification of the establishment plans
 of Eurojust, the European Agency for Fundamental Rights
 and Frontex</title>
+		<lastpubdate>Thu Apr 19 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2073(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2073(BUD)&amp;l=en</link>
+		<title>Amending budget 3/2007: surplus from the 2006
+financial year</title>
 		<lastpubdate>Thu Apr 19 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -273,15 +273,15 @@ estimates</title>
 		<lastpubdate>Thu Feb 01 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/2019B(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2019B(BUD)&amp;l=en</link>
-		<title>2008 budget: other sections</title>
-		<lastpubdate>Thu Feb 01 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/2019(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2019(BUD)&amp;l=en</link>
 		<title>2008 budget: section III, Commission</title>
+		<lastpubdate>Thu Feb 01 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/2019B(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/2019B(BUD)&amp;l=en</link>
+		<title>2008 budget: other sections</title>
 		<lastpubdate>Thu Feb 01 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>

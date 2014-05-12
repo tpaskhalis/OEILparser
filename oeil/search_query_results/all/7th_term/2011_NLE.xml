@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:57:31 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:13:57 CEST 2014</generatedOn>
 	<items count="74">
 	<item>
 			<reference>2011/0457(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0457(NLE)&amp;l=en</link>
-		<title>EC/Israel Association Agreement: technical
-adaptations and a new EU/Israel agreement</title>
+		<title>EC/Israel Euro-Mediterranean Association
+Agreement: technical adaptations. EU/Israel Protocol</title>
 		<lastpubdate>Wed Jan 18 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -32,27 +32,6 @@ International Child Abduction: accession of Russia</title>
 		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0451(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0451(NLE)&amp;l=en</link>
-		<title>Hague Convention 1980 on the Civil Aspects of
-International Child Abduction: accession of Morocco</title>
-		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0452(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0452(NLE)&amp;l=en</link>
-		<title>Hague Convention 1980 on the Civil Aspects of
-International Child Abduction: accession of Armenia</title>
-		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0450(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0450(NLE)&amp;l=en</link>
-		<title>Hague Convention 1980 on the Civil Aspects of
-International Child Abduction: accession of Singapore</title>
-		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0443(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0443(NLE)&amp;l=en</link>
 		<title>Hague Convention 1980 on the Civil Aspects of
@@ -64,6 +43,27 @@ International Child Abduction: accession of Andorra</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0448(NLE)&amp;l=en</link>
 		<title>Hague Convention 1980 on the Civil Aspects of
 International Child Abduction: accession of Albania</title>
+		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0451(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0451(NLE)&amp;l=en</link>
+		<title>Hague Convention 1980 on the Civil Aspects of
+International Child Abduction: accession of Morocco</title>
+		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0450(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0450(NLE)&amp;l=en</link>
+		<title>Hague Convention 1980 on the Civil Aspects of
+International Child Abduction: accession of Singapore</title>
+		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0452(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0452(NLE)&amp;l=en</link>
+		<title>Hague Convention 1980 on the Civil Aspects of
+International Child Abduction: accession of Armenia</title>
 		<lastpubdate>Fri Jan 13 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -165,11 +165,11 @@ Security</title>
 		<lastpubdate>Tue Nov 22 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0815(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0815(NLE)&amp;l=en</link>
-		<title>Treaty of Lisbon: concerns of the Irish people in
-the areas of right to life, family, education, taxation and
-military neutrality. Protocol</title>
+			<reference>2011/0817(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0817(NLE)&amp;l=en</link>
+		<title>Application of the Charter of Fundamental Rights
+of the European Union to the Czech Republic. Protocol
+(amend.)</title>
 		<lastpubdate>Mon Oct 31 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -190,11 +190,11 @@ Convention</title>
 		<lastpubdate>Mon Oct 31 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0817(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0817(NLE)&amp;l=en</link>
-		<title>Application of the Charter of Fundamental Rights
-of the European Union to the Czech Republic. Protocol
-(amend.)</title>
+			<reference>2011/0815(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0815(NLE)&amp;l=en</link>
+		<title>Treaty of Lisbon: concerns of the Irish people in
+the areas of right to life, family, education, taxation and
+military neutrality. Protocol</title>
 		<lastpubdate>Mon Oct 31 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -202,6 +202,34 @@ of the European Union to the Czech Republic. Protocol
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0808(NLE)&amp;l=en</link>
 		<title>Court of Auditors: appointment of a member,
 Juan-Francisco Corona Ramón - ES</title>
+		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0807(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0807(NLE)&amp;l=en</link>
+		<title>Court of Auditors: appointment of a member, H.G.
+Wessberg - SE</title>
+		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0809(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0809(NLE)&amp;l=en</link>
+		<title>Court of Auditors: appointment of a member,
+Vítor Caldeira - PT</title>
+		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0810(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0810(NLE)&amp;l=en</link>
+		<title>Court of Auditors: appointment of a member, Henrik
+Otbo - DK</title>
+		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0811(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0811(NLE)&amp;l=en</link>
+		<title>Court of Auditors: appointment of a member, Ville
+ltälä - FI</title>
 		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -216,34 +244,6 @@ Russo - IT</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0812(NLE)&amp;l=en</link>
 		<title>Court of Auditors: appointment of a member, Kevin
 Cardiff - IE</title>
-		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0809(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0809(NLE)&amp;l=en</link>
-		<title>Court of Auditors: appointment of a member,
-Vítor Caldeira - PT</title>
-		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0807(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0807(NLE)&amp;l=en</link>
-		<title>Court of Auditors: appointment of a member, H.G.
-Wessberg - SE</title>
-		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0811(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0811(NLE)&amp;l=en</link>
-		<title>Court of Auditors: appointment of a member, Ville
-ltälä - FI</title>
-		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0810(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0810(NLE)&amp;l=en</link>
-		<title>Court of Auditors: appointment of a member, Henrik
-Otbo - DK</title>
 		<lastpubdate>Fri Oct 21 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -277,7 +277,7 @@ dangers arising from exposure to ionising radiation</title>
 	<item>
 			<reference>2011/0249(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0249(NLE)&amp;l=en</link>
-		<title>EU/Colombia/Peru trade agreement</title>
+		<title>EU/Colombia and Peru Trade Agreement</title>
 		<lastpubdate>Wed Sep 28 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -378,18 +378,18 @@ and derived products to the EU (FLEGT)</title>
 		<lastpubdate>Thu May 26 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/0116(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0116(NLE)&amp;l=en</link>
+		<title>International Rubber Study Group: amended
+Constitution and Rules of Procedure</title>
+		<lastpubdate>Tue May 24 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/0126(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0126(NLE)&amp;l=en</link>
 		<title>EU/Australia agreement: processing and transfer of
 passenger name record (PNR) data by air carriers to the Australian
 Customs and Border Protection Service</title>
-		<lastpubdate>Tue May 24 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/0116(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0116(NLE)&amp;l=en</link>
-		<title>International Rubber Study Group: amended
-Constitution and Rules of Procedure</title>
 		<lastpubdate>Tue May 24 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -415,17 +415,17 @@ Protocol from 1 September 2011 to 31 August 2014</title>
 		<lastpubdate>Wed May 04 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/0091(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0091(NLE)&amp;l=en</link>
-		<title>Fuel Cells and Hydrogen Joint Undertaking:
-funding</title>
-		<lastpubdate>Mon May 02 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/0090(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0090(NLE)&amp;l=en</link>
 		<title>EU/Georgia Agreement: protection of geographical
 indications of agricultural products and foodstuffs</title>
+		<lastpubdate>Mon May 02 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/0091(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/0091(NLE)&amp;l=en</link>
+		<title>Fuel Cells and Hydrogen Joint Undertaking:
+funding</title>
 		<lastpubdate>Mon May 02 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:38:00 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 13:55:42 CEST 2014</generatedOn>
 	<items count="121">
 	<item>
 			<reference>2006/0310(CNS)</reference>
@@ -10,19 +10,19 @@ Office</title>
 		<lastpubdate>Mon Jan 22 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0309(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0309(CNS)&amp;l=en</link>
-		<title>Agreement EC/Russia: cooperation in fisheries and
-the conservation of the living marine resources in the Baltic
-Sea</title>
-		<lastpubdate>Wed Jan 10 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0277(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0277(CNS)&amp;l=en</link>
 		<title>European elections: exercise of the right to vote
 and stand as a candidate in elections to the European Parliament,
 preventing citizens from voting or standing twice</title>
+		<lastpubdate>Wed Jan 10 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0309(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0309(CNS)&amp;l=en</link>
+		<title>Agreement EC/Russia: cooperation in fisheries and
+the conservation of the living marine resources in the Baltic
+Sea</title>
 		<lastpubdate>Wed Jan 10 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -71,17 +71,17 @@ their protection</title>
 		<lastpubdate>Mon Dec 18 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0262(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0262(CNS)&amp;l=en</link>
-		<title>EC/Denmark/Greenland fisheries agreement:
-fisheries partnership agreement 2006-2012</title>
-		<lastpubdate>Fri Dec 15 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0271(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0271(CNS)&amp;l=en</link>
 		<title>Employment policy: guidelines for 2007 (Decision
 2005/600/EC)</title>
+		<lastpubdate>Fri Dec 15 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0262(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0262(CNS)&amp;l=en</link>
+		<title>EC/Denmark/Greenland fisheries agreement:
+fisheries partnership agreement 2006-2012</title>
 		<lastpubdate>Fri Dec 15 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -101,12 +101,11 @@ Codification</title>
 		<lastpubdate>Thu Dec 07 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0240(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0240(CNS)&amp;l=en</link>
-		<title>Common Fisheries Policy CFP: defining
-Regional Advisory Councils as bodies pursuing an aim of European
-general interest, grant of Community financial aid
-(amend. Decision 2004/585/EC)</title>
+			<reference>2006/0259(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0259(CNS)&amp;l=en</link>
+		<title>EC/Mexico Economic Partnership, Political
+Coordination and Cooperation Agreement: accession of Bulgaria and
+Romania. Second Additional Protocol</title>
 		<lastpubdate>Wed Dec 06 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -119,11 +118,12 @@ participation of Denmark. Dublin Convention on Eurodac</title>
 		<lastpubdate>Wed Dec 06 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0259(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0259(CNS)&amp;l=en</link>
-		<title>EC/Mexico Economic Partnership, Political
-Coordination and Cooperation Agreement: accession of Bulgaria and
-Romania. Second Additional Protocol</title>
+			<reference>2006/0240(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0240(CNS)&amp;l=en</link>
+		<title>Common Fisheries Policy CFP: defining
+Regional Advisory Councils as bodies pursuing an aim of European
+general interest, grant of Community financial aid
+(amend. Decision 2004/585/EC)</title>
 		<lastpubdate>Wed Dec 06 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -143,13 +143,6 @@ compensation scheme for 2007-2013</title>
 		<lastpubdate>Tue Dec 05 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0813(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0813(CNS)&amp;l=en</link>
-		<title>Court of Justice, Rules of procedure: include
-Bulgarian and Romanian among the languages of cases</title>
-		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0814(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0814(CNS)&amp;l=en</link>
 		<title>Court of First
@@ -157,6 +150,21 @@ Instance, Art. 35 Rules of Procedure: inclusion
 of Bulgarian and Romanian among the languages of
 cases</title>
 		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0813(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0813(CNS)&amp;l=en</link>
+		<title>Court of Justice, Rules of procedure: include
+Bulgarian and Romanian among the languages of cases</title>
+		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0245(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0245(CNS)&amp;l=en</link>
+		<title>Value added tax VAT: radio and television
+broadcasting services and electronically supplied services (amend.
+Directive 2006/112/EC)</title>
+		<lastpubdate>Tue Nov 28 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
 			<reference>2006/0241(CNS)</reference>
@@ -168,27 +176,12 @@ Codification</title>
 		<lastpubdate>Tue Nov 28 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0245(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0245(CNS)&amp;l=en</link>
-		<title>Value added tax VAT: radio and television
-broadcasting services and electronically supplied services (amend.
-Directive 2006/112/EC)</title>
-		<lastpubdate>Tue Nov 28 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0231(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0231(CNS)&amp;l=en</link>
 		<title>Poultry: production and marketing of eggs for
 hatching and of farmyard poultry chicks (repeal. Regulation (EEC)
 No 2782/75). Codification</title>
 		<lastpubdate>Wed Nov 22 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2006/0811(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0811(CNS)&amp;l=en</link>
-		<title>Court of Auditors: appointment of the Bulgarian
-member</title>
-		<lastpubdate>Mon Nov 13 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
 			<reference>2006/0224(CNS)</reference>
@@ -206,13 +199,11 @@ member</title>
 		<lastpubdate>Mon Nov 13 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0227(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0227(CNS)&amp;l=en</link>
-		<title>EC/Russia agreement: multilateral nuclear
-environmental programme, treatment and storage of
-radioactive waste and spent nuclear fuel. Framework
-agreement</title>
-		<lastpubdate>Fri Nov 10 00:00:00 CET 2006</lastpubdate>
+			<reference>2006/0811(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0811(CNS)&amp;l=en</link>
+		<title>Court of Auditors: appointment of the Bulgarian
+member</title>
+		<lastpubdate>Mon Nov 13 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
 			<reference>2006/0226(CNS)</reference>
@@ -222,6 +213,24 @@ organisation of the markets CMO in sugar and seeds (amend.
 Regulations (EC) No 1782/2003, (EC) No 318/2006 and (EC) No
 320/2006)</title>
 		<lastpubdate>Fri Nov 10 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0227(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0227(CNS)&amp;l=en</link>
+		<title>EC/Russia agreement: multilateral nuclear
+environmental programme, treatment and storage of
+radioactive waste and spent nuclear fuel. Framework
+agreement</title>
+		<lastpubdate>Fri Nov 10 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0200(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0200(CNS)&amp;l=en</link>
+		<title>Fishery resources: transposal into Community law
+of control and technical measures adopted by
+the Northwest Atlantic Fisheries Organisation
+NAFO</title>
+		<lastpubdate>Mon Oct 30 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
 			<reference>2006/0203(CNS)</reference>
@@ -235,15 +244,6 @@ capital</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0202(CNS)&amp;l=en</link>
 		<title>EC/Malaysia agreement: air services, replacing the
 bilateral agreements by a Community agreement</title>
-		<lastpubdate>Mon Oct 30 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2006/0200(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0200(CNS)&amp;l=en</link>
-		<title>Fishery resources: transposal into Community law
-of control and technical measures adopted by
-the Northwest Atlantic Fisheries Organisation
-NAFO</title>
 		<lastpubdate>Mon Oct 30 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -317,17 +317,17 @@ agreement</title>
 		<lastpubdate>Tue Sep 19 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0162(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0162(CNS)&amp;l=en</link>
-		<title>Beef and veal: marketing of the meat of animals
-aged twelve months or less</title>
-		<lastpubdate>Tue Sep 12 00:00:00 CEST 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0165(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0165(CNS)&amp;l=en</link>
 		<title>Alcohol and alcoholic beverages: adjust the
 minimum rates of excise duty (amend. Directive 92/84/EEC)</title>
+		<lastpubdate>Tue Sep 12 00:00:00 CEST 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0162(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0162(CNS)&amp;l=en</link>
+		<title>Beef and veal: marketing of the meat of animals
+aged twelve months or less</title>
 		<lastpubdate>Tue Sep 12 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
@@ -348,6 +348,13 @@ territories</title>
 		<lastpubdate>Thu Aug 24 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
+			<reference>2006/0151(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0151(CNS)&amp;l=en</link>
+		<title>Budgetary discipline (repeal. Regulation (EC) No
+2040/2000)</title>
+		<lastpubdate>Thu Aug 17 00:00:00 CEST 2006</lastpubdate>
+	</item>
+	<item>
 			<reference>2006/0806(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0806(CNS)&amp;l=en</link>
 		<title>Security in connection with football matches with
@@ -360,13 +367,6 @@ Initiative Austria</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0148(CNS)&amp;l=en</link>
 		<title>Outermost regions: management of registered
 fishing fleets (amend. Regulation (EC) No 639/2004)</title>
-		<lastpubdate>Thu Aug 17 00:00:00 CEST 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2006/0151(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0151(CNS)&amp;l=en</link>
-		<title>Budgetary discipline (repeal. Regulation (EC) No
-2040/2000)</title>
 		<lastpubdate>Thu Aug 17 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
@@ -383,7 +383,7 @@ agreement for the period from 3rd December 2005 to 2nd December
 		<title>Visas: listing of the third countries whose
 nationals must be in possession of visas when crossing the external
 borders of Member States and those whose nationals are exempt from
-that requirement (amend. Regulation (EC) No 539/2001)</title>
+that requirement</title>
 		<lastpubdate>Mon Aug 14 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
@@ -396,18 +396,18 @@ systems</title>
 		<lastpubdate>Mon Aug 14 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
+			<reference>2006/0141(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0141(CNS)&amp;l=en</link>
+		<title>EC/Republic of Korea agreement: agreement for
+scientific and technological cooperation</title>
+		<lastpubdate>Mon Aug 14 00:00:00 CEST 2006</lastpubdate>
+	</item>
+	<item>
 			<reference>2006/0139(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0139(CNS)&amp;l=en</link>
 		<title>EIB loans to PECOs, Western Balkans, Mediterranean
 countries, Latin America, Asia and South Africa: EC guarantee
 (repeal. Decision 2000/24/EC). Codification</title>
-		<lastpubdate>Mon Aug 14 00:00:00 CEST 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2006/0141(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0141(CNS)&amp;l=en</link>
-		<title>EC/Republic of Korea agreement: agreement for
-scientific and technological cooperation</title>
 		<lastpubdate>Mon Aug 14 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
@@ -548,18 +548,18 @@ the fields of higher education, training and youth</title>
 		<lastpubdate>Fri Jun 09 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0090(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0090(CNS)&amp;l=en</link>
-		<title>Satellite radio-navigation: structures for the
-management of the European programmes</title>
-		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0095(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0095(CNS)&amp;l=en</link>
 		<title>Agreement EC/Bulgaria: participation in the work
 of the European Monitoring Centre for Drugs and Drug Addiction
 EMCDDA</title>
+		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0091(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0091(CNS)&amp;l=en</link>
+		<title>Enlargement, Bulgaria and Romania: recruitment of
+officials</title>
 		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
@@ -571,18 +571,17 @@ Codification</title>
 		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0089(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0089(CNS)&amp;l=en</link>
-		<title>Agreement EC/Turkey: participation in the work of
-the European Monitoring Centre for Drugs and Drug Addiction
-EMCDDA</title>
-		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0094(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0094(CNS)&amp;l=en</link>
 		<title>EC/Paraguay agreement: air services, replacing the
 bilateral agreements by a Community agreement</title>
+		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0090(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0090(CNS)&amp;l=en</link>
+		<title>Satellite radio-navigation: structures for the
+management of the European programmes</title>
 		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
@@ -596,13 +595,6 @@ ANIMO, information policy for food safety (amend. Decision
 		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0091(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0091(CNS)&amp;l=en</link>
-		<title>Enlargement, Bulgaria and Romania: recruitment of
-officials</title>
-		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0093(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0093(CNS)&amp;l=en</link>
 		<title>Outlying and remote regions: specific measures for
@@ -611,12 +603,12 @@ Regulation (EC) No 1782/2003)</title>
 		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0082(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0082(CNS)&amp;l=en</link>
-		<title>Rural development: support by the European
-Agricultural Fund for Rural Development EAFRD (amend. Regulation
-(EC) No 1698/2005)</title>
-		<lastpubdate>Tue Jun 06 00:00:00 CEST 2006</lastpubdate>
+			<reference>2006/0089(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0089(CNS)&amp;l=en</link>
+		<title>Agreement EC/Turkey: participation in the work of
+the European Monitoring Centre for Drugs and Drug Addiction
+EMCDDA</title>
+		<lastpubdate>Thu Jun 08 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
 			<reference>2006/0087(CNS)</reference>
@@ -624,6 +616,14 @@ Agricultural Fund for Rural Development EAFRD (amend. Regulation
 		<title>EC/Romania agreement: participation in the work of
 the European Monitoring Centre for Drugs and Drug Addiction
 EMCDDA</title>
+		<lastpubdate>Tue Jun 06 00:00:00 CEST 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0082(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0082(CNS)&amp;l=en</link>
+		<title>Rural development: support by the European
+Agricultural Fund for Rural Development EAFRD (amend. Regulation
+(EC) No 1698/2005)</title>
 		<lastpubdate>Tue Jun 06 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
@@ -728,14 +728,6 @@ attached to the Alpine Convention</title>
 		<lastpubdate>Tue Apr 25 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0054(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0054(CNS)&amp;l=en</link>
-		<title>Rural development: adapting Annex VIII to the Act
-of Accession of Bulgaria and Romania (Regulation (EC) No
-1698/2005)</title>
-		<lastpubdate>Tue Apr 18 00:00:00 CEST 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0053(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0053(CNS)&amp;l=en</link>
 		<title>Rural development: adaptation of the Act of
@@ -744,12 +736,12 @@ Regulation (EC) No 1698/2005</title>
 		<lastpubdate>Tue Apr 18 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0057(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0057(CNS)&amp;l=en</link>
-		<title>European Agency for Reconstruction: extension of
-mandate and status until 31 December 2008 (amend. Regulation (EC)
-No 2667/2000)</title>
-		<lastpubdate>Fri Apr 07 00:00:00 CEST 2006</lastpubdate>
+			<reference>2006/0054(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0054(CNS)&amp;l=en</link>
+		<title>Rural development: adapting Annex VIII to the Act
+of Accession of Bulgaria and Romania (Regulation (EC) No
+1698/2005)</title>
+		<lastpubdate>Tue Apr 18 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
 			<reference>2006/0805(CNS)</reference>
@@ -757,6 +749,14 @@ No 2667/2000)</title>
 		<title>Fight against cross border organised crime:
 national Asset Recovery Office, tracing and identification of
 proceeds of crime. Initiative Austria, Belgium, Finland</title>
+		<lastpubdate>Fri Apr 07 00:00:00 CEST 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0057(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0057(CNS)&amp;l=en</link>
+		<title>European Agency for Reconstruction: extension of
+mandate and status until 31 December 2008 (amend. Regulation (EC)
+No 2667/2000)</title>
 		<lastpubdate>Fri Apr 07 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
@@ -777,20 +777,20 @@ Regulations (EEC) No 2771/75 and (EEC) No 2777/75)</title>
 		<lastpubdate>Thu Mar 30 00:00:00 CEST 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0040(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0040(CNS)&amp;l=en</link>
-		<title>Community plant health regime: control of San
-José Scale (repeal. Directive 69/466/EEC). Codified
-version</title>
-		<lastpubdate>Mon Mar 20 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0043(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0043(CNS)&amp;l=en</link>
 		<title>Flax and hemp sector: processing aid for flax and
 hemp grown for fibre, hemp eligible for the Single Payment Scheme
 (amend. Regulations (EC) No 1673/2000 and (EC) No
 1782/2003)</title>
+		<lastpubdate>Mon Mar 20 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0040(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0040(CNS)&amp;l=en</link>
+		<title>Community plant health regime: control of San
+José Scale (repeal. Directive 69/466/EEC). Codified
+version</title>
 		<lastpubdate>Mon Mar 20 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -868,18 +868,18 @@ Nations Convention against Corruption UNCAC, October 2003</title>
 		<lastpubdate>Fri Mar 03 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/0804(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0804(CNS)&amp;l=en</link>
-		<title>Europol: staff regulations, amendments. Initiative
-Austria</title>
-		<lastpubdate>Thu Mar 02 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/0803(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0803(CNS)&amp;l=en</link>
 		<title>Europol: adjusting the basic salaries and
 allowances applicable to staff for the period between 1 July 2005
 and 1 July 2006. Initiative Austria</title>
+		<lastpubdate>Thu Mar 02 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/0804(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/0804(CNS)&amp;l=en</link>
+		<title>Europol: staff regulations, amendments. Initiative
+Austria</title>
 		<lastpubdate>Thu Mar 02 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>

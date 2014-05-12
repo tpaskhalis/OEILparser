@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:15:17 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:22:03 CEST 2014</generatedOn>
 	<items count="112">
-	<item>
-			<reference>2013/2997(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2997(DEA)&amp;l=en</link>
-		<title>Provision of food information to consumers as
-regards the definition of 'engineered nanomaterials'</title>
-		<lastpubdate>Thu Dec 19 00:00:00 CET 2013</lastpubdate>
-	</item>
 	<item>
 			<reference>2013/2999(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2999(DEA)&amp;l=en</link>
 		<title>Environmental and propulsion unit performance
 requirements</title>
-		<lastpubdate>Thu Dec 19 00:00:00 CET 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/3001(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/3001(DEA)&amp;l=en</link>
-		<title>Regulatory technical standards determining types
-of alternative investment fund managers</title>
-		<lastpubdate>Thu Dec 19 00:00:00 CET 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/3000(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/3000(DEA)&amp;l=en</link>
-		<title>Scheme of generalised tariff preferences: amending
-Annex III to Regulation (EU) No 978/2012</title>
 		<lastpubdate>Thu Dec 19 00:00:00 CET 2013</lastpubdate>
 	</item>
 	<item>
@@ -38,6 +17,27 @@ designations of origin, protected geographical indications and
 traditional specialities guaranteed and certain rules on sourcing,
 certain procedural rules and certain additional transitional
 rules</title>
+		<lastpubdate>Thu Dec 19 00:00:00 CET 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/3000(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/3000(DEA)&amp;l=en</link>
+		<title>Scheme of generalised tariff preferences: amending
+Annex III to Regulation (EU) No 978/2012</title>
+		<lastpubdate>Thu Dec 19 00:00:00 CET 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2997(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2997(DEA)&amp;l=en</link>
+		<title>Provision of food information to consumers as
+regards the definition of 'engineered nanomaterials'</title>
+		<lastpubdate>Thu Dec 19 00:00:00 CET 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/3001(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/3001(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards determining types
+of alternative investment fund managers</title>
 		<lastpubdate>Thu Dec 19 00:00:00 CET 2013</lastpubdate>
 	</item>
 	<item>
@@ -75,17 +75,17 @@ outermost regions of the Union</title>
 		<lastpubdate>Mon Nov 11 00:00:00 CET 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2929(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2929(DEA)&amp;l=en</link>
-		<title>Scheme of generalised tariff preferences: amending
-Annexes I, II and IV</title>
-		<lastpubdate>Tue Nov 05 00:00:00 CET 2013</lastpubdate>
-	</item>
-	<item>
 			<reference>2013/2926(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2926(DEA)&amp;l=en</link>
 		<title>Vehicle functional safety requirements for the
 approval of two- or three-wheel vehicles and quadricycles</title>
+		<lastpubdate>Tue Nov 05 00:00:00 CET 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2929(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2929(DEA)&amp;l=en</link>
+		<title>Scheme of generalised tariff preferences: amending
+Annexes I, II and IV</title>
 		<lastpubdate>Tue Nov 05 00:00:00 CET 2013</lastpubdate>
 	</item>
 	<item>
@@ -94,14 +94,6 @@ approval of two- or three-wheel vehicles and quadricycles</title>
 		<title>Conditions for making a declaration of performance
 on construction products available on a website</title>
 		<lastpubdate>Tue Nov 05 00:00:00 CET 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2857(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2857(DEA)&amp;l=en</link>
-		<title>Scheme of control and enforcement applicable in
-the area covered by the Convention on future multilateral
-cooperation in the North-East Atlantic fisheries</title>
-		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
 			<reference>2013/2803(DEA)</reference>
@@ -113,28 +105,19 @@ auditors</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
+			<reference>2013/2857(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2857(DEA)&amp;l=en</link>
+		<title>Scheme of control and enforcement applicable in
+the area covered by the Convention on future multilateral
+cooperation in the North-East Atlantic fisheries</title>
+		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
 			<reference>2013/2889(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2889(DEA)&amp;l=en</link>
 		<title>Guidelines for trans-European energy
 infrastructure as regards the Union list of projects of common
 interest</title>
-		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2901(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2901(DEA)&amp;l=en</link>
-		<title>Exemption for cadmium in phosphor coatings in
-image intensifiers for X-ray images and in spare parts for X-ray
-systems</title>
-		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2903(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2903(DEA)&amp;l=en</link>
-		<title>Exemption for lead acetate markers for use in
-stereotactic head frames for use with CT (Computed Tomography) and
-MRI and in positioning systems for gamma beam and particle therapy
-equipment</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -146,11 +129,28 @@ printed circuit boards</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
+			<reference>2013/2901(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2901(DEA)&amp;l=en</link>
+		<title>Exemption for cadmium in phosphor coatings in
+image intensifiers for X-ray images and in spare parts for X-ray
+systems</title>
+		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
 			<reference>2013/2904(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2904(DEA)&amp;l=en</link>
 		<title>Exemption for lead as an alloying element for
 bearings and wear surfaces in medical equipment exposed to ionising
 radiation</title>
+		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2903(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2903(DEA)&amp;l=en</link>
+		<title>Exemption for lead acetate markers for use in
+stereotactic head frames for use with CT (Computed Tomography) and
+MRI and in positioning systems for gamma beam and particle therapy
+equipment</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -165,18 +165,25 @@ sensors that are used durably at a temperature below
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2907(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2907(DEA)&amp;l=en</link>
-		<title>Exemption for lead in the surface coatings of pin
-connector systems requiring nonmagnetic connectors</title>
-		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
 			<reference>2013/2906(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2906(DEA)&amp;l=en</link>
 		<title>Exemption for hexavalent chromium in alkali
 dispensers used to create photocathodes in X-ray image
 intensifiers</title>
+		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2908(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2908(DEA)&amp;l=en</link>
+		<title>Exemption for lead in alloys, as a superconductor
+or thermal conductor</title>
+		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2907(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2907(DEA)&amp;l=en</link>
+		<title>Exemption for lead in the surface coatings of pin
+connector systems requiring nonmagnetic connectors</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -188,20 +195,6 @@ emission tomographs</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2908(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2908(DEA)&amp;l=en</link>
-		<title>Exemption for lead in alloys, as a superconductor
-or thermal conductor</title>
-		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2911(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2911(DEA)&amp;l=en</link>
-		<title>Exemption for mercury in single capped compact
-fluorescent lamps</title>
-		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
 			<reference>2013/2910(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2910(DEA)&amp;l=en</link>
 		<title>Exemption for lead in solders on populated printed
@@ -209,11 +202,10 @@ circuit boards</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2913(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2913(DEA)&amp;l=en</link>
-		<title>Exemption for lead, cadmium and hexavalent
-chromium in reused spare parts recovered from medical
-devices</title>
+			<reference>2013/2911(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2911(DEA)&amp;l=en</link>
+		<title>Exemption for mercury in single capped compact
+fluorescent lamps</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -231,6 +223,14 @@ Spectrometer) detectors</title>
 		<title>Exemption for lead as an activator in the
 fluorescent powder of discharge lamps when used for extracorporeal
 photopheresis lamps containing BSP (BaSi2O5:Pb) phosphors</title>
+		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2913(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2913(DEA)&amp;l=en</link>
+		<title>Exemption for lead, cadmium and hexavalent
+chromium in reused spare parts recovered from medical
+devices</title>
 		<lastpubdate>Thu Oct 24 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -258,23 +258,18 @@ procedures related to air operations</title>
 		<lastpubdate>Wed Oct 16 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2800(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2800(DEA)&amp;l=en</link>
-		<title>Decision No 1080/2011/EU - Amendment of Annex III
-as regards Syria</title>
+			<reference>2013/2793(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2793(DEA)&amp;l=en</link>
+		<title>Mechanism for the determination of equivalence of
+accounting standards applied by third country issuers of
+securities</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2799(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2799(DEA)&amp;l=en</link>
-		<title>Fees charged by the European Securities and
-Markets Authority to credit rating agencies</title>
-		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2797(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2797(DEA)&amp;l=en</link>
-		<title>Citizens' initiative - Annex I</title>
+			<reference>2013/2792(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2792(DEA)&amp;l=en</link>
+		<title>Technical requirements for the anti-rabies
+vaccination - Annex Ib to Regulation (EC) No 998/2003</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -300,38 +295,55 @@ advertisements</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2793(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2793(DEA)&amp;l=en</link>
-		<title>Mechanism for the determination of equivalence of
-accounting standards applied by third country issuers of
-securities</title>
+			<reference>2013/2797(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2797(DEA)&amp;l=en</link>
+		<title>Citizens' initiative - Annex I</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2792(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2792(DEA)&amp;l=en</link>
-		<title>Technical requirements for the anti-rabies
-vaccination - Annex Ib to Regulation (EC) No 998/2003</title>
+			<reference>2013/2799(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2799(DEA)&amp;l=en</link>
+		<title>Fees charged by the European Securities and
+Markets Authority to credit rating agencies</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2812(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2812(DEA)&amp;l=en</link>
-		<title>Financial rules applicable to the general budget
-of the Union. Rules of application</title>
+			<reference>2013/2801(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2801(DEA)&amp;l=en</link>
+		<title>Procedural rules for the recognition and
+withdrawal of recognition of monitoring organisations</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2811(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2811(DEA)&amp;l=en</link>
-		<title>Energy labelling of household tumble
-driers</title>
+			<reference>2013/2800(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2800(DEA)&amp;l=en</link>
+		<title>Decision No 1080/2011/EU - Amendment of Annex III
+as regards Syria</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2885(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2885(DEA)&amp;l=en</link>
-		<title>Energy labelling of air conditioners</title>
+			<reference>2013/2802(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2802(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards for the assessment
+of compliance of credit rating methodologies</title>
+		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2804(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2804(DEA)&amp;l=en</link>
+		<title>Investigations and fines related to the
+manipulation of statistics</title>
+		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2805(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2805(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards on notification and
+disclosure requirements with regard to net short positions, the
+details of the information to be provided to the European
+Securities and Markets Authority in relation to net short positions
+and the method for calculating turnover to determine exempted
+shares</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -351,35 +363,10 @@ development and good governance</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2805(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2805(DEA)&amp;l=en</link>
-		<title>Regulatory technical standards on notification and
-disclosure requirements with regard to net short positions, the
-details of the information to be provided to the European
-Securities and Markets Authority in relation to net short positions
-and the method for calculating turnover to determine exempted
-shares</title>
-		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2804(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2804(DEA)&amp;l=en</link>
-		<title>Investigations and fines related to the
-manipulation of statistics</title>
-		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2802(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2802(DEA)&amp;l=en</link>
-		<title>Regulatory technical standards for the assessment
-of compliance of credit rating methodologies</title>
-		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2801(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2801(DEA)&amp;l=en</link>
-		<title>Procedural rules for the recognition and
-withdrawal of recognition of monitoring organisations</title>
+			<reference>2013/2811(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2811(DEA)&amp;l=en</link>
+		<title>Energy labelling of household tumble
+driers</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -390,23 +377,23 @@ central counterparties</title>
 		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2861(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2861(DEA)&amp;l=en</link>
-		<title>Preventive health measures for the control of
-Echinococcus multilocularis infection in dogs</title>
-		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
+			<reference>2013/2812(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2812(DEA)&amp;l=en</link>
+		<title>Financial rules applicable to the general budget
+of the Union. Rules of application</title>
+		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2858(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2858(DEA)&amp;l=en</link>
-		<title>Energy labelling of household refrigerating
-appliances</title>
-		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
+			<reference>2013/2885(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2885(DEA)&amp;l=en</link>
+		<title>Energy labelling of air conditioners</title>
+		<lastpubdate>Wed Oct 09 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2856(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2856(DEA)&amp;l=en</link>
-		<title>Energy labelling of televisions</title>
+			<reference>2013/2854(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2854(DEA)&amp;l=en</link>
+		<title>Energy labelling of household
+dishwashers</title>
 		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -417,17 +404,23 @@ machines</title>
 		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2854(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2854(DEA)&amp;l=en</link>
-		<title>Energy labelling of household
-dishwashers</title>
+			<reference>2013/2856(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2856(DEA)&amp;l=en</link>
+		<title>Energy labelling of televisions</title>
 		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2869(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2869(DEA)&amp;l=en</link>
-		<title>Technical requirements for the anti-rabies
-vaccination</title>
+			<reference>2013/2858(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2858(DEA)&amp;l=en</link>
+		<title>Energy labelling of household refrigerating
+appliances</title>
+		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2861(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2861(DEA)&amp;l=en</link>
+		<title>Preventive health measures for the control of
+Echinococcus multilocularis infection in dogs</title>
 		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -442,6 +435,13 @@ hoods</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2864(DEA)&amp;l=en</link>
 		<title>Framework financial regulation for bodies set up
 under the TFEU and the Euratom Treaty</title>
+		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2869(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2869(DEA)&amp;l=en</link>
+		<title>Technical requirements for the anti-rabies
+vaccination</title>
 		<lastpubdate>Mon Oct 07 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -474,18 +474,18 @@ Supervisory Mechanism</title>
 		<lastpubdate>Fri Sep 20 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2790(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2790(DEA)&amp;l=en</link>
-		<title>Correction of the 2010 average specific CO2
-emissions specified for the manufacturer Piaggio</title>
-		<lastpubdate>Fri Sep 06 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
 			<reference>2013/2789(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2789(DEA)&amp;l=en</link>
 		<title>Provision of food information to consumers as
 regards information on the absence or reduced presence of gluten in
 food</title>
+		<lastpubdate>Fri Sep 06 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2790(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2790(DEA)&amp;l=en</link>
+		<title>Correction of the 2010 average specific CO2
+emissions specified for the manufacturer Piaggio</title>
 		<lastpubdate>Fri Sep 06 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -529,39 +529,78 @@ the Functioning of the European Union</title>
 		<lastpubdate>Thu Sep 05 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2784(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2784(DEA)&amp;l=en</link>
-		<title>Regulatory technical standards on the minimum
-details of the data to be reported to trade repositories</title>
+			<reference>2013/2761(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2761(DEA)&amp;l=en</link>
+		<title>Provision of information services for safe and
+secure parking places for trucks and commercial vehicles;
+corrigendum to delegated Regulation</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2783(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2783(DEA)&amp;l=en</link>
-		<title>Applying a scheme of generalised tariff
-preferences</title>
+			<reference>2013/2768(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2768(DEA)&amp;l=en</link>
+		<title>Energy labelling of electrical lamps and
+luminaires</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2782(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2782(DEA)&amp;l=en</link>
-		<title>Adaptations following the revision of the
-International Standard Classification of Education (ISCED) in
-relation to the variables and breakdowns to be submitted</title>
+			<reference>2013/2769(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2769(DEA)&amp;l=en</link>
+		<title>Exemption for applications containing
+lead</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2781(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2781(DEA)&amp;l=en</link>
-		<title>Exemptions, general operating conditions,
-depositaries, leverage, transparency and supervision</title>
+			<reference>2013/2770(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2770(DEA)&amp;l=en</link>
+		<title>Exemption for applications containing
+cadmium</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2780(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2780(DEA)&amp;l=en</link>
-		<title>Regulatory technical standards on information for
-registration and certification of credit rating agencies</title>
+			<reference>2013/2771(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2771(DEA)&amp;l=en</link>
+		<title>Rules for the application for a derogation from
+the specific CO2 emissions targets for new light commercial
+vehicles</title>
+		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2773(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2773(DEA)&amp;l=en</link>
+		<title>Content and format of periodic reporting on
+ratings data that credit rating agencies must submit to the
+European Securities and Markets Authority</title>
+		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2772(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2772(DEA)&amp;l=en</link>
+		<title>Harmonised provision for an interoperable EU-wide
+eCall service</title>
+		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2774(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2774(DEA)&amp;l=en</link>
+		<title>Presentation of information provided by credit
+rating agencies to a central repository established by the European
+Securities and Markets Authority</title>
+		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2775(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2775(DEA)&amp;l=en</link>
+		<title>Format, content of the prospectus, base
+prospectus, summary, final terms and disclosure
+requirements</title>
+		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2777(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2777(DEA)&amp;l=en</link>
+		<title>Application of certain guidelines in the field of
+officially supported export credits</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -581,85 +620,39 @@ solar device</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2798(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2798(DEA)&amp;l=en</link>
-		<title>Statistical returns in respect of carriage of
-goods and passengers by sea</title>
+			<reference>2013/2781(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2781(DEA)&amp;l=en</link>
+		<title>Exemptions, general operating conditions,
+depositaries, leverage, transparency and supervision</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2769(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2769(DEA)&amp;l=en</link>
-		<title>Exemption for applications containing
-lead</title>
+			<reference>2013/2780(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2780(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards on information for
+registration and certification of credit rating agencies</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2768(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2768(DEA)&amp;l=en</link>
-		<title>Energy labelling of electrical lamps and
-luminaires</title>
+			<reference>2013/2783(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2783(DEA)&amp;l=en</link>
+		<title>Applying a scheme of generalised tariff
+preferences</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2775(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2775(DEA)&amp;l=en</link>
-		<title>Format, content of the prospectus, base
-prospectus, summary, final terms and disclosure
-requirements</title>
+			<reference>2013/2782(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2782(DEA)&amp;l=en</link>
+		<title>Adaptations following the revision of the
+International Standard Classification of Education (ISCED) in
+relation to the variables and breakdowns to be submitted</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2774(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2774(DEA)&amp;l=en</link>
-		<title>Presentation of information provided by credit
-rating agencies to a central repository established by the European
-Securities and Markets Authority</title>
-		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2773(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2773(DEA)&amp;l=en</link>
-		<title>Content and format of periodic reporting on
-ratings data that credit rating agencies must submit to the
-European Securities and Markets Authority</title>
-		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2772(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2772(DEA)&amp;l=en</link>
-		<title>Harmonised provision for an interoperable EU-wide
-eCall service</title>
-		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2771(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2771(DEA)&amp;l=en</link>
-		<title>Rules for the application for a derogation from
-the specific CO2 emissions targets for new light commercial
-vehicles</title>
-		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2770(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2770(DEA)&amp;l=en</link>
-		<title>Exemption for applications containing
-cadmium</title>
-		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2777(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2777(DEA)&amp;l=en</link>
-		<title>Application of certain guidelines in the field of
-officially supported export credits</title>
-		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2761(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2761(DEA)&amp;l=en</link>
-		<title>Provision of information services for safe and
-secure parking places for trucks and commercial vehicles;
-corrigendum to delegated Regulation</title>
+			<reference>2013/2784(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2784(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards on the minimum
+details of the data to be reported to trade repositories</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -679,20 +672,69 @@ of Polish version of Regulation</title>
 		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2767(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2767(DEA)&amp;l=en</link>
-		<title>Rules of procedure on fines imposed to credit
-rating agencies by the European Securities and Markets Authority,
-including rules on the right of defence and temporal
-provisions</title>
+			<reference>2013/2798(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2798(DEA)&amp;l=en</link>
+		<title>Statistical returns in respect of carriage of
+goods and passengers by sea</title>
+		<lastpubdate>Mon Sep 02 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2729(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2729(DEA)&amp;l=en</link>
+		<title>Fees charged by the European Securities and
+Markets Authority to trade repositories</title>
 		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2766(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2766(DEA)&amp;l=en</link>
-		<title>Regulatory technical standards for the method of
-calculation of the fall in value for liquid shares and other
-financial instruments</title>
+			<reference>2013/2730(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2730(DEA)&amp;l=en</link>
+		<title>OTC derivatives, central counterparties and trade
+repositories with regard to the list of exempted entities</title>
+		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2731(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2731(DEA)&amp;l=en</link>
+		<title>Establishing registration and licensing conditions
+for GMES users and defining criteria for restricting access to GMES
+dedicated data and GMES service information</title>
+		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2741(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2741(DEA)&amp;l=en</link>
+		<title>Transnational cooperation and contractual
+negotiations of producer organisations in the milk and milk
+products sector</title>
+		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2745(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2745(DEA)&amp;l=en</link>
+		<title>Energy labelling of vacuum cleaners</title>
+		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2752(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2752(DEA)&amp;l=en</link>
+		<title>Establishing a comparative methodology framework
+for calculating cost-optimal levels of minimum energy performance
+requirements for buildings and building elements</title>
+		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2763(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2763(DEA)&amp;l=en</link>
+		<title>Disclosure requirements for convertible and
+exchangeable debt securities</title>
+		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2764(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2764(DEA)&amp;l=en</link>
+		<title>Establishing a monitoring and enforcement scheme
+in the area covered by the Convention on future multilateral
+cooperation in the North-East Atlantic fisheries</title>
 		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -705,62 +747,20 @@ in the value of financial instruments and adverse events</title>
 		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2764(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2764(DEA)&amp;l=en</link>
-		<title>Establishing a monitoring and enforcement scheme
-in the area covered by the Convention on future multilateral
-cooperation in the North-East Atlantic fisheries</title>
+			<reference>2013/2766(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2766(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards for the method of
+calculation of the fall in value for liquid shares and other
+financial instruments</title>
 		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2730(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2730(DEA)&amp;l=en</link>
-		<title>OTC derivatives, central counterparties and trade
-repositories with regard to the list of exempted entities</title>
-		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2729(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2729(DEA)&amp;l=en</link>
-		<title>Fees charged by the European Securities and
-Markets Authority to trade repositories</title>
-		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2752(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2752(DEA)&amp;l=en</link>
-		<title>Establishing a comparative methodology framework
-for calculating cost-optimal levels of minimum energy performance
-requirements for buildings and building elements</title>
-		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2745(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2745(DEA)&amp;l=en</link>
-		<title>Energy labelling of vacuum cleaners</title>
-		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2763(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2763(DEA)&amp;l=en</link>
-		<title>Disclosure requirements for convertible and
-exchangeable debt securities</title>
-		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2741(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2741(DEA)&amp;l=en</link>
-		<title>Transnational cooperation and contractual
-negotiations of producer organisations in the milk and milk
-products sector</title>
-		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
-			<reference>2013/2731(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2731(DEA)&amp;l=en</link>
-		<title>Establishing registration and licensing conditions
-for GMES users and defining criteria for restricting access to GMES
-dedicated data and GMES service information</title>
+			<reference>2013/2767(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2767(DEA)&amp;l=en</link>
+		<title>Rules of procedure on fines imposed to credit
+rating agencies by the European Securities and Markets Authority,
+including rules on the right of defence and temporal
+provisions</title>
 		<lastpubdate>Fri Aug 30 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -782,18 +782,18 @@ CCP</title>
 		<lastpubdate>Thu Aug 08 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2716(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2716(DEA)&amp;l=en</link>
-		<title>Replacing Annexes II and III of Regulation (EU) No
-211/2011 on the citizens' initiative</title>
-		<lastpubdate>Fri Jul 12 00:00:00 CEST 2013</lastpubdate>
-	</item>
-	<item>
 			<reference>2013/2712(DEA)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2712(DEA)&amp;l=en</link>
 		<title>Data and procedures for the provision, where
 possible, of road safety related minimum universal traffic
 information free of charge to users</title>
+		<lastpubdate>Fri Jul 12 00:00:00 CEST 2013</lastpubdate>
+	</item>
+	<item>
+			<reference>2013/2716(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2716(DEA)&amp;l=en</link>
+		<title>Replacing Annexes II and III of Regulation (EU) No
+211/2011 on the citizens' initiative</title>
 		<lastpubdate>Fri Jul 12 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -811,10 +811,10 @@ secure parking places for trucks and commercial vehicles</title>
 		<lastpubdate>Thu Jul 11 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2688(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2688(DEA)&amp;l=en</link>
-		<title>Duration of the work programme for examination of
-existing biocidal active substances</title>
+			<reference>2013/2686(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2686(DEA)&amp;l=en</link>
+		<title>Regulatory technical standards on colleges for
+central counterparties</title>
 		<lastpubdate>Tue Jun 25 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
@@ -826,10 +826,10 @@ to farmers by Member States due to the adjustment of payments in
 		<lastpubdate>Tue Jun 25 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>
-			<reference>2013/2686(DEA)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2686(DEA)&amp;l=en</link>
-		<title>Regulatory technical standards on colleges for
-central counterparties</title>
+			<reference>2013/2688(DEA)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2013/2688(DEA)&amp;l=en</link>
+		<title>Duration of the work programme for examination of
+existing biocidal active substances</title>
 		<lastpubdate>Tue Jun 25 00:00:00 CEST 2013</lastpubdate>
 	</item>
 	<item>

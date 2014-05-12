@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:43:22 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:01:50 CEST 2014</generatedOn>
 	<items count="124">
 	<item>
 			<reference>2008/0268(COD)</reference>
@@ -71,13 +71,6 @@ products</title>
 		<lastpubdate>Thu Dec 18 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0256(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0256(COD)&amp;l=en</link>
-		<title>Medicinal products for human use: information on
-products subject to medical prescription</title>
-		<lastpubdate>Thu Dec 18 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0257(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0257(COD)&amp;l=en</link>
 		<title>Medicinal products for human use:
@@ -89,6 +82,13 @@ pharmacovigilance of products</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0260(COD)&amp;l=en</link>
 		<title>Medicinal products for human use:
 pharmacovigilance of products</title>
+		<lastpubdate>Thu Dec 18 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0256(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0256(COD)&amp;l=en</link>
+		<title>Medicinal products for human use: information on
+products subject to medical prescription</title>
 		<lastpubdate>Thu Dec 18 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -114,6 +114,13 @@ system</title>
 		<lastpubdate>Tue Dec 16 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
+			<reference>2008/0244(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0244(COD)&amp;l=en</link>
+		<title>Standards for the reception of applicants for
+international protection. Recast</title>
+		<lastpubdate>Wed Dec 10 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
 			<reference>2008/0245(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0245(COD)&amp;l=en</link>
 		<title>European Regional Development Fund ERDF:
@@ -122,17 +129,10 @@ in housing</title>
 		<lastpubdate>Wed Dec 10 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0244(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0244(COD)&amp;l=en</link>
-		<title>Standards for the reception of applicants for
-international protection. Recast</title>
-		<lastpubdate>Wed Dec 10 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0238(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0238(COD)&amp;l=en</link>
-		<title>Organ transplantation: standards of quality and
-safety of human organs intended for transplantation</title>
+		<title>Standards of quality and safety of human organs
+intended for transplantation</title>
 		<lastpubdate>Wed Dec 10 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -151,17 +151,17 @@ cooperation between national authorities</title>
 		<lastpubdate>Wed Dec 10 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0241(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0241(COD)&amp;l=en</link>
-		<title>Waste electrical and electronic equipment (WEEE).
-Recast</title>
-		<lastpubdate>Tue Dec 09 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0204(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0204(COD)&amp;l=en</link>
 		<title>Control rules and measures to combat African horse
 sickness. Codification</title>
+		<lastpubdate>Tue Dec 09 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0241(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0241(COD)&amp;l=en</link>
+		<title>Waste electrical and electronic equipment (WEEE).
+Recast</title>
 		<lastpubdate>Tue Dec 09 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -187,16 +187,16 @@ passenger cars at service stations, Stage II </title>
 		<lastpubdate>Mon Dec 08 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
+			<reference>2008/0227(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0227(COD)&amp;l=en</link>
+		<title>Metrology</title>
+		<lastpubdate>Fri Dec 05 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
 			<reference>2008/0230(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0230(COD)&amp;l=en</link>
 		<title>European metrology research and development
 programme 2009-2017</title>
-		<lastpubdate>Fri Dec 05 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
-			<reference>2008/0227(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0227(COD)&amp;l=en</link>
-		<title>Metrology</title>
 		<lastpubdate>Fri Dec 05 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -261,13 +261,6 @@ consumption of energy. Recast</title>
 		<lastpubdate>Mon Nov 17 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0201(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0201(COD)&amp;l=en</link>
-		<title>Community statistics on the information
-society</title>
-		<lastpubdate>Thu Nov 06 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0200(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0200(COD)&amp;l=en</link>
 		<title>Fight against terrorism: Critical Infrastructure
@@ -282,11 +275,11 @@ timber products on the market</title>
 		<lastpubdate>Thu Nov 06 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0199(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0199(COD)&amp;l=en</link>
-		<title>Deposit guarantee schemes: coverage level and the
-payout delay</title>
-		<lastpubdate>Fri Oct 17 00:00:00 CEST 2008</lastpubdate>
+			<reference>2008/0201(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0201(COD)&amp;l=en</link>
+		<title>Community statistics on the information
+society</title>
+		<lastpubdate>Thu Nov 06 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
 			<reference>2008/0195(COD)</reference>
@@ -297,23 +290,30 @@ mobile road transport activities (amend. Directive
 		<lastpubdate>Fri Oct 17 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
+			<reference>2008/0199(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0199(COD)&amp;l=en</link>
+		<title>Deposit guarantee schemes: coverage level and the
+payout delay</title>
+		<lastpubdate>Fri Oct 17 00:00:00 CEST 2008</lastpubdate>
+	</item>
+	<item>
 			<reference>2008/0196(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0196(COD)&amp;l=en</link>
 		<title>Consumer rights</title>
 		<lastpubdate>Wed Oct 15 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0192(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0192(COD)&amp;l=en</link>
-		<title>Equal treatment between men and women:
-self-employed workers and their spouses</title>
-		<lastpubdate>Tue Oct 14 00:00:00 CEST 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0193(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0193(COD)&amp;l=en</link>
 		<title>Health and safety at work: workers who are
 pregnant, have recently given birth or are breastfeeding</title>
+		<lastpubdate>Tue Oct 14 00:00:00 CEST 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0192(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0192(COD)&amp;l=en</link>
+		<title>Equal treatment between men and women:
+self-employed workers and their spouses</title>
 		<lastpubdate>Tue Oct 14 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
@@ -489,17 +489,17 @@ aviation system</title>
 		<lastpubdate>Mon Jun 30 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0126(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0126(COD)&amp;l=en</link>
-		<title>Medicinal products: supplementary protection
-certificate. Codification</title>
-		<lastpubdate>Wed Jun 18 00:00:00 CEST 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0115(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0115(COD)&amp;l=en</link>
 		<title>Wheeled agricultural or forestry tractors:
 driver's seat. Codification</title>
+		<lastpubdate>Wed Jun 18 00:00:00 CEST 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0126(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0126(COD)&amp;l=en</link>
+		<title>Medicinal products: supplementary protection
+certificate. Codification</title>
 		<lastpubdate>Wed Jun 18 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
@@ -510,17 +510,17 @@ control: common provisions. Recast</title>
 		<lastpubdate>Tue Jun 17 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0109(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0109(COD)&amp;l=en</link>
-		<title>Company law: single-member private
-limited-liability companies. Codification</title>
-		<lastpubdate>Thu Jun 12 00:00:00 CEST 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0110(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0110(COD)&amp;l=en</link>
 		<title>Health rules: animal by-products and derived
 products not intended for human consumption</title>
+		<lastpubdate>Thu Jun 12 00:00:00 CEST 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0109(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0109(COD)&amp;l=en</link>
+		<title>Company law on single-member private limited
+liability companies. Codification</title>
 		<lastpubdate>Thu Jun 12 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
@@ -552,11 +552,10 @@ general provisions</title>
 		<lastpubdate>Thu May 22 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0082(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0082(COD)&amp;l=en</link>
-		<title>Banks and financial markets: settlement finality
-in payment and securities settlement systems; financial collateral
-arrangements as regards linked systems and credit claims</title>
+			<reference>2008/0090(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0090(COD)&amp;l=en</link>
+		<title>Public access to European Parliament, Council and
+Commission documents</title>
 		<lastpubdate>Mon May 05 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
@@ -567,10 +566,11 @@ on the market and waste minimisation</title>
 		<lastpubdate>Mon May 05 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0090(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0090(COD)&amp;l=en</link>
-		<title>Public access to European Parliament, Council and
-Commission documents</title>
+			<reference>2008/0082(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0082(COD)&amp;l=en</link>
+		<title>Banks and financial markets: settlement finality
+in payment and securities settlement systems; financial collateral
+arrangements as regards linked systems and credit claims</title>
 		<lastpubdate>Mon May 05 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
@@ -622,13 +622,6 @@ Codification</title>
 		<lastpubdate>Fri Apr 18 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0062(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0062(COD)&amp;l=en</link>
-		<title>Road safety: cross-border enforcement of
-sanctions </title>
-		<lastpubdate>Thu Apr 03 00:00:00 CEST 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0060(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0060(COD)&amp;l=en</link>
 		<title>Foodstuffs and food ingredients: extraction
@@ -640,6 +633,13 @@ solvents used in the production. Recast</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0064(COD)&amp;l=en</link>
 		<title>European Year of Creativity and Innovation
 2009</title>
+		<lastpubdate>Thu Apr 03 00:00:00 CEST 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0062(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0062(COD)&amp;l=en</link>
+		<title>Road safety: cross-border enforcement of
+sanctions </title>
 		<lastpubdate>Thu Apr 03 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
@@ -686,6 +686,13 @@ trailers. Recast</title>
 		<lastpubdate>Tue Mar 04 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
+			<reference>2008/0037(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0037(COD)&amp;l=en</link>
+		<title>Veterinary checks in intra-Community trade.
+Codification</title>
+		<lastpubdate>Mon Mar 03 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
 			<reference>2008/0041(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0041(COD)&amp;l=en</link>
 		<title>Schengen Borders Code: use of the Visa Information
@@ -697,13 +704,6 @@ System (VIS) at the external borders</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0042(COD)&amp;l=en</link>
 		<title>Protection of wild fauna and flora: regulating
 trade in species; Commission implementing powers</title>
-		<lastpubdate>Mon Mar 03 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
-			<reference>2008/0037(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0037(COD)&amp;l=en</link>
-		<title>Veterinary checks in intra-Community trade.
-Codification</title>
 		<lastpubdate>Mon Mar 03 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -786,19 +786,19 @@ learning; Commission implementing powers</title>
 		<lastpubdate>Thu Feb 07 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0021(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0021(COD)&amp;l=en</link>
-		<title>Inland waterways vessels: reciprocal recognition
-of navigability licences. Codification</title>
-		<lastpubdate>Thu Jan 31 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0022(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0022(COD)&amp;l=en</link>
 		<title>Coordination of safeguards of companies within the
 meaning of the second paragraph of Article 48 of the Treaty, with a
 view to making such safeguards equivalent for the protection of the
 interests of members and third parties. Codification</title>
+		<lastpubdate>Thu Jan 31 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0021(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0021(COD)&amp;l=en</link>
+		<title>Inland waterways vessels: reciprocal recognition
+of navigability licences. Codification</title>
 		<lastpubdate>Thu Jan 31 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -810,17 +810,17 @@ reduction commitments up to 2020 </title>
 		<lastpubdate>Wed Jan 30 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0013(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0013(COD)&amp;l=en</link>
-		<title>Greenhouse gas emission allowance trading scheme
-of the Community</title>
-		<lastpubdate>Wed Jan 30 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0008(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0008(COD)&amp;l=en</link>
 		<title>Wheeled agricultural or forestry tractors:
 roll-over protection, static testing. Codification</title>
+		<lastpubdate>Wed Jan 30 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0013(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0013(COD)&amp;l=en</link>
+		<title>Greenhouse gas emission allowance trading scheme
+of the Community</title>
 		<lastpubdate>Wed Jan 30 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -831,17 +831,17 @@ sources. 'Renewable Energy Directive'</title>
 		<lastpubdate>Wed Jan 30 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0009(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0009(COD)&amp;l=en</link>
-		<title>Mergers of public limited liability companies.
-Codification</title>
-		<lastpubdate>Wed Jan 30 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0015(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0015(COD)&amp;l=en</link>
 		<title>Geological storage of carbon dioxide
 (CO2)</title>
+		<lastpubdate>Wed Jan 30 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0009(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0009(COD)&amp;l=en</link>
+		<title>Mergers of public limited liability companies.
+Codification</title>
 		<lastpubdate>Wed Jan 30 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -865,10 +865,9 @@ uses. Recast</title>
 		<lastpubdate>Thu Jan 17 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0001(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0001(COD)&amp;l=en</link>
-		<title>Colouring matters for medicinal products.
-Recast</title>
+			<reference>2008/0002(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0002(COD)&amp;l=en</link>
+		<title>Novel foods</title>
 		<lastpubdate>Tue Jan 15 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -878,9 +877,10 @@ Recast</title>
 		<lastpubdate>Tue Jan 15 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0002(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0002(COD)&amp;l=en</link>
-		<title>Novel foods</title>
+			<reference>2008/0001(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0001(COD)&amp;l=en</link>
+		<title>Colouring matters for medicinal products.
+Recast</title>
 		<lastpubdate>Tue Jan 15 00:00:00 CET 2008</lastpubdate>
 	</item>
 	</items>

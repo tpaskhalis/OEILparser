@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:33:47 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 13:47:20 CEST 2014</generatedOn>
 	<items count="14">
 	<item>
 			<reference>2004/2590(RSO)</reference>
@@ -48,19 +48,19 @@ committees</title>
 		<lastpubdate>Thu Sep 16 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/2567(RSO)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/2567(RSO)&amp;l=en</link>
-		<title>European Parliament: temporary committee on policy
-challenges and budgetary means of the enlarged Union,
-2007-2013</title>
-		<lastpubdate>Thu Sep 09 00:00:00 CEST 2004</lastpubdate>
-	</item>
-	<item>
 			<reference>2004/2140(REG)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/2140(REG)&amp;l=en</link>
 		<title>European Parliament: verification of credentials
 of members elected for the European elections in June
 1999</title>
+		<lastpubdate>Thu Sep 09 00:00:00 CEST 2004</lastpubdate>
+	</item>
+	<item>
+			<reference>2004/2567(RSO)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/2567(RSO)&amp;l=en</link>
+		<title>European Parliament: temporary committee on policy
+challenges and budgetary means of the enlarged Union,
+2007-2013</title>
 		<lastpubdate>Thu Sep 09 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:59:37 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:18:23 CEST 2014</generatedOn>
 	<items count="92">
 	<item>
 			<reference>2012/0364(COD)</reference>
@@ -32,8 +32,8 @@ and enforcement of international trade rules</title>
 	<item>
 			<reference>2012/0361(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0361(COD)&amp;l=en</link>
-		<title>Aviation safety: occurrence reporting in civil
-aviation</title>
+		<title>Civil aviation: reporting, analysis and follow-up
+of occurrences</title>
 		<lastpubdate>Tue Jan 08 00:00:00 CET 2013</lastpubdate>
 	</item>
 	<item>
@@ -44,6 +44,13 @@ of the Regulation</title>
 		<lastpubdate>Wed Dec 19 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
+			<reference>2012/0340(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0340(COD)&amp;l=en</link>
+		<title>Accessibility of public sector bodies'
+websites</title>
+		<lastpubdate>Tue Dec 11 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
 			<reference>2012/0343(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0343(COD)&amp;l=en</link>
 		<title>Agricultural and fishery statistics: aligning
@@ -52,24 +59,17 @@ implementing powers)</title>
 		<lastpubdate>Tue Dec 11 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2012/0340(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0340(COD)&amp;l=en</link>
-		<title>Accessibility of public sector bodies'
-websites</title>
-		<lastpubdate>Tue Dec 11 00:00:00 CET 2012</lastpubdate>
+			<reference>2012/0337(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0337(COD)&amp;l=en</link>
+		<title>General Union Environment Action Programme to
+2020: 'Living well, within the limits of our planet'</title>
+		<lastpubdate>Mon Dec 10 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
 			<reference>2012/0336(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0336(COD)&amp;l=en</link>
 		<title>Financial rules applicable to the general budget
 of the Union: financing of European political parties</title>
-		<lastpubdate>Mon Dec 10 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2012/0337(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0337(COD)&amp;l=en</link>
-		<title>General Union Environment Action Programme to
-2020: 'Living well, within the limits of our planet'</title>
 		<lastpubdate>Mon Dec 10 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
@@ -176,8 +176,8 @@ precursors</title>
 	<item>
 			<reference>2012/0245(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0245(COD)&amp;l=en</link>
-		<title>EU Aid Volunteers: framework for the European
-Voluntary Humanitarian Aid Corps</title>
+		<title>European Voluntary Humanitarian Aid Corps
+(‘EU Aid Volunteers initiative')</title>
 		<lastpubdate>Thu Sep 27 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
@@ -270,14 +270,6 @@ technical measures: alignment of the Regulation with the TFEU
 		<lastpubdate>Fri Aug 17 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2012/0179(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0179(COD)&amp;l=en</link>
-		<title>Fishing in the North-East Atlantic: specific
-conditions to fishing for deep-sea stocks, provisions for fishing
-in international waters</title>
-		<lastpubdate>Mon Aug 13 00:00:00 CEST 2012</lastpubdate>
-	</item>
-	<item>
 			<reference>2012/0201(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0201(COD)&amp;l=en</link>
 		<title>Fishery resources: recovery of the European eel
@@ -293,10 +285,11 @@ of auctions</title>
 		<lastpubdate>Mon Aug 13 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2012/0190(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0190(COD)&amp;l=en</link>
-		<title>Reducing CO2 emissions from new passenger cars:
-modalities for reaching the 2020 target</title>
+			<reference>2012/0179(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0179(COD)&amp;l=en</link>
+		<title>Fishing in the North-East Atlantic: specific
+conditions to fishing for deep-sea stocks, provisions for fishing
+in international waters</title>
 		<lastpubdate>Mon Aug 13 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
@@ -304,7 +297,14 @@ modalities for reaching the 2020 target</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0180(COD)&amp;l=en</link>
 		<title>Collective management of copyright and related
 rights and multi-territorial licensing of rights in musical works
-for online uses in the internal market</title>
+for online use in the internal market</title>
+		<lastpubdate>Mon Aug 13 00:00:00 CEST 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2012/0184(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0184(COD)&amp;l=en</link>
+		<title>Periodic roadworthiness tests for motor vehicles
+and their trailers. 'Roadworthiness package'</title>
 		<lastpubdate>Mon Aug 13 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
@@ -315,10 +315,10 @@ vehicles: modalities for reaching the 2020 target</title>
 		<lastpubdate>Mon Aug 13 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2012/0184(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0184(COD)&amp;l=en</link>
-		<title>Periodic roadworthiness tests for motor vehicles
-and their trailers. 'Roadworthiness package'</title>
+			<reference>2012/0190(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0190(COD)&amp;l=en</link>
+		<title>Reducing CO2 emissions from new passenger cars:
+modalities for reaching the 2020 target</title>
 		<lastpubdate>Mon Aug 13 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
@@ -372,17 +372,17 @@ documents</title>
 		<lastpubdate>Thu Jul 12 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2012/0168(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0168(COD)&amp;l=en</link>
-		<title>Undertakings for collective investment
-intransferable securities (UCITS): depositary functions,
-remuneration policies and sanctions</title>
-		<lastpubdate>Tue Jul 10 00:00:00 CEST 2012</lastpubdate>
-	</item>
-	<item>
 			<reference>2012/0175(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0175(COD)&amp;l=en</link>
 		<title>Insurance mediation. Recast</title>
+		<lastpubdate>Tue Jul 10 00:00:00 CEST 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2012/0168(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0168(COD)&amp;l=en</link>
+		<title>Undertakings for collective investment in
+transferable securities (UCITS): depositary functions, remuneration
+policies and sanctions</title>
 		<lastpubdate>Tue Jul 10 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
@@ -417,20 +417,20 @@ Serbia</title>
 		<lastpubdate>Mon Jun 25 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2012/0158(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0158(COD)&amp;l=en</link>
-		<title>Conservation of fishery resources through
-technical measures for the protection of juveniles of marine
-organisms; herring for industrial purposes</title>
-		<lastpubdate>Mon Jun 25 00:00:00 CEST 2012</lastpubdate>
-	</item>
-	<item>
 			<reference>2012/0162(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0162(COD)&amp;l=en</link>
 		<title>Community system to prevent, deter and eliminate
 illegal, unreported and unregulated fishing: alignment of the
 Regulation with the TFEU (Commission delegated and implementing
 powers)</title>
+		<lastpubdate>Mon Jun 25 00:00:00 CEST 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2012/0158(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0158(COD)&amp;l=en</link>
+		<title>Conservation of fishery resources through
+technical measures for the protection of juveniles of marine
+organisms; herring for industrial purposes</title>
 		<lastpubdate>Mon Jun 25 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
@@ -664,17 +664,17 @@ movement of data (General Data Protection Regulation)</title>
 		<lastpubdate>Wed Feb 08 00:00:00 CET 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2012/0003(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0003(COD)&amp;l=en</link>
-		<title>Health and safety at work: exposure of workers to
-electromagnetic fields; transposition of Directive</title>
-		<lastpubdate>Mon Jan 30 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
 			<reference>2012/0007(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0007(COD)&amp;l=en</link>
 		<title>Classification, packaging and labelling of
 dangerous preparations. Recast</title>
+		<lastpubdate>Mon Jan 30 00:00:00 CET 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2012/0003(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/0003(COD)&amp;l=en</link>
+		<title>Health and safety at work: exposure of workers to
+electromagnetic fields; transposition of Directive</title>
 		<lastpubdate>Mon Jan 30 00:00:00 CET 2012</lastpubdate>
 	</item>
 	</items>

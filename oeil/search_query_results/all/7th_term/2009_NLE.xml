@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:22:43 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:08:40 CEST 2014</generatedOn>
 	<items count="29">
 	<item>
 			<reference>2009/0155(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0155(NLE)&amp;l=en</link>
 		<title>EC/Israel Agreement: Conformity Assessment and
-Acceptance of Industrial Products (ACAA). Additional Protocol to
-the Euro-Mediterranean Agreement</title>
+Acceptance of Industrial Products (CAA). Protocol to the
+Euro-Mediterranean Agreement</title>
 		<lastpubdate>Thu Mar 25 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -29,14 +29,6 @@ Parliament</title>
 		<lastpubdate>Wed Jan 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/0187(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0187(NLE)&amp;l=en</link>
-		<title>EU/USA agreement: processing and transfer of
-Passenger Name Record PNR data by air carriers (2007 PNR
-agreement)</title>
-		<lastpubdate>Fri Jan 15 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/0186(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0186(NLE)&amp;l=en</link>
 		<title>EU/Australia agreement: processing and transfer of
@@ -53,10 +45,11 @@ Tracking Program</title>
 		<lastpubdate>Fri Jan 15 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/0192(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0192(NLE)&amp;l=en</link>
-		<title>EU/Iceland/Norway agreement: surrender
-procedure</title>
+			<reference>2009/0187(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0187(NLE)&amp;l=en</link>
+		<title>EU/USA agreement: processing and transfer of
+Passenger Name Record PNR data by air carriers (2007 PNR
+agreement)</title>
 		<lastpubdate>Fri Jan 15 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -65,6 +58,13 @@ procedure</title>
 		<title>EU/Iceland/Norway agreement: mutual assistance in
 criminal matters. 2000 Convention and 2001 Protocol
 thereto</title>
+		<lastpubdate>Fri Jan 15 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/0192(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0192(NLE)&amp;l=en</link>
+		<title>EU/Iceland/Norway agreement: surrender
+procedure</title>
 		<lastpubdate>Fri Jan 15 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -205,17 +205,17 @@ cooperation, renewal</title>
 		<lastpubdate>Thu Apr 23 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/0036(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0036(NLE)&amp;l=en</link>
-		<title>EC/Pakistan agreement: readmission
-agreement</title>
-		<lastpubdate>Mon Mar 09 00:00:00 CET 2009</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/0033(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0033(NLE)&amp;l=en</link>
 		<title>Schengen: evaluation mechanism to verify the
 application of the Schengen acquis. Regulation</title>
+		<lastpubdate>Mon Mar 09 00:00:00 CET 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/0036(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/0036(NLE)&amp;l=en</link>
+		<title>EC/Pakistan agreement: readmission
+agreement</title>
 		<lastpubdate>Mon Mar 09 00:00:00 CET 2009</lastpubdate>
 	</item>
 	<item>

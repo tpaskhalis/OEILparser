@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:31:37 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 13:44:04 CEST 2014</generatedOn>
 	<items count="101">
 	<item>
 			<reference>2004/0290(CNS)</reference>
@@ -117,19 +117,19 @@ the form of interest of payments (Directive 2003/48/EC)</title>
 		<lastpubdate>Mon Nov 08 00:00:00 CET 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0261(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0261(CNS)&amp;l=en</link>
-		<title>Value added tax VAT: one-stop scheme to simplify
-tax obligations (amend. Directive 77/388/EEC)</title>
-		<lastpubdate>Thu Nov 04 00:00:00 CET 2004</lastpubdate>
-	</item>
-	<item>
 			<reference>2004/0262(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0262(CNS)&amp;l=en</link>
 		<title>Value added tax VAT: administrative cooperation,
 exchange of information by electronic means (amend. Regulation (EC)
 No 1798/2003, repeal. Regulation (EEC) No
 218/92)</title>
+		<lastpubdate>Thu Nov 04 00:00:00 CET 2004</lastpubdate>
+	</item>
+	<item>
+			<reference>2004/0261(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0261(CNS)&amp;l=en</link>
+		<title>Value added tax VAT: one-stop scheme to simplify
+tax obligations (amend. Directive 77/388/EEC)</title>
 		<lastpubdate>Thu Nov 04 00:00:00 CET 2004</lastpubdate>
 	</item>
 	<item>
@@ -168,6 +168,14 @@ and 2529/2001)</title>
 		<lastpubdate>Tue Oct 26 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
+			<reference>2004/0242(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0242(CNS)&amp;l=en</link>
+		<title>Scheme of generalised tariff preferences GSP:
+implementing guidelines for the period 2006-2015 from 1st July 2005
+to 31st December 2008</title>
+		<lastpubdate>Mon Oct 25 00:00:00 CEST 2004</lastpubdate>
+	</item>
+	<item>
 			<reference>2004/0253(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0253(CNS)&amp;l=en</link>
 		<title>Milk and milk products: direct support schemes for
@@ -177,12 +185,12 @@ No 1782/2003 and (EC) No 1788/2003)</title>
 		<lastpubdate>Mon Oct 25 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0242(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0242(CNS)&amp;l=en</link>
-		<title>Scheme of generalised tariff preferences GSP:
-implementing guidelines for the period 2006-2015 from 1st July 2005
-to 31st December 2008</title>
-		<lastpubdate>Mon Oct 25 00:00:00 CEST 2004</lastpubdate>
+			<reference>2004/0241(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0241(CNS)&amp;l=en</link>
+		<title>EC/San Marino agreement: taxation of savings
+income in the form of interest payments (Directive
+2003/48/EC)</title>
+		<lastpubdate>Fri Oct 22 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
 			<reference>2004/0812(CNS)</reference>
@@ -190,14 +198,6 @@ to 31st December 2008</title>
 		<title>Fight against crime: exchange of information and
 intelligence between law enforcement authorities of the Member
 States. Framework Decision. Initiative Sweden</title>
-		<lastpubdate>Fri Oct 22 00:00:00 CEST 2004</lastpubdate>
-	</item>
-	<item>
-			<reference>2004/0241(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0241(CNS)&amp;l=en</link>
-		<title>EC/San Marino agreement: taxation of savings
-income in the form of interest payments (Directive
-2003/48/EC)</title>
 		<lastpubdate>Fri Oct 22 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
@@ -216,10 +216,25 @@ states</title>
 		<lastpubdate>Wed Oct 13 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0216(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0216(CNS)&amp;l=en</link>
-		<title>EC/Brazil agreement: scientific and technological
-cooperation agreement</title>
+			<reference>2004/0227(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0227(CNS)&amp;l=en</link>
+		<title>EC/Switzerland agreement: participation in the
+statistical programmes of the Community</title>
+		<lastpubdate>Tue Oct 12 00:00:00 CEST 2004</lastpubdate>
+	</item>
+	<item>
+			<reference>2004/0230(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0230(CNS)&amp;l=en</link>
+		<title>EC/Switzerland agreement: participation in the
+MEDIA Plus and MEDIA Training Community programmes</title>
+		<lastpubdate>Tue Oct 12 00:00:00 CEST 2004</lastpubdate>
+	</item>
+	<item>
+			<reference>2004/0234(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0234(CNS)&amp;l=en</link>
+		<title>Rural development: support from the European
+Agricultural Guidance and Guarantee Fund EAGGF following the 2004
+enlargement (amend. Regulation (EC) No 1257/1999)</title>
 		<lastpubdate>Tue Oct 12 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
@@ -231,25 +246,10 @@ European Pollutant Release and Transfer Register. Protocol to the
 		<lastpubdate>Tue Oct 12 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0230(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0230(CNS)&amp;l=en</link>
-		<title>EC/Switzerland agreement: participation in the
-MEDIA Plus and MEDIA Training Community programmes</title>
-		<lastpubdate>Tue Oct 12 00:00:00 CEST 2004</lastpubdate>
-	</item>
-	<item>
-			<reference>2004/0227(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0227(CNS)&amp;l=en</link>
-		<title>EC/Switzerland agreement: participation in the
-statistical programmes of the Community</title>
-		<lastpubdate>Tue Oct 12 00:00:00 CEST 2004</lastpubdate>
-	</item>
-	<item>
-			<reference>2004/0234(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0234(CNS)&amp;l=en</link>
-		<title>Rural development: support from the European
-Agricultural Guidance and Guarantee Fund EAGGF following the 2004
-enlargement (amend. Regulation (EC) No 1257/1999)</title>
+			<reference>2004/0216(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0216(CNS)&amp;l=en</link>
+		<title>EC/Brazil agreement: scientific and technological
+cooperation agreement</title>
 		<lastpubdate>Tue Oct 12 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
@@ -310,13 +310,6 @@ Decision 2000/439/EC)</title>
 		<lastpubdate>Thu Sep 30 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0207(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0207(CNS)&amp;l=en</link>
-		<title>Bosnia and Herzegovina: additional macro-financial
-assistance</title>
-		<lastpubdate>Tue Sep 21 00:00:00 CEST 2004</lastpubdate>
-	</item>
-	<item>
 			<reference>2004/0204(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0204(CNS)&amp;l=en</link>
 		<title>Serbia and Montenegro: macro-financial assistance
@@ -325,19 +318,26 @@ and further assistance to the Federal Republic of Yugoslavia
 		<lastpubdate>Tue Sep 21 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0205(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0205(CNS)&amp;l=en</link>
-		<title>Asylum: agreement extending to Denmark the
-criteria for determining the state responsible for examining
-applications for asylum and establishment of the Eurodac system
-(Regulations (EC) No 343/2003 and (EC) No 2725/2000)</title>
-		<lastpubdate>Mon Sep 20 00:00:00 CEST 2004</lastpubdate>
+			<reference>2004/0207(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0207(CNS)&amp;l=en</link>
+		<title>Bosnia and Herzegovina: additional macro-financial
+assistance</title>
+		<lastpubdate>Tue Sep 21 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
 			<reference>2004/0811(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0811(CNS)&amp;l=en</link>
 		<title>Court of Auditors: appointment of M. Kikis
 Kazamias</title>
+		<lastpubdate>Mon Sep 20 00:00:00 CEST 2004</lastpubdate>
+	</item>
+	<item>
+			<reference>2004/0205(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0205(CNS)&amp;l=en</link>
+		<title>Asylum: agreement extending to Denmark the
+criteria for determining the state responsible for examining
+applications for asylum and establishment of the Eurodac system
+(Regulations (EC) No 343/2003 and (EC) No 2725/2000)</title>
 		<lastpubdate>Mon Sep 20 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
@@ -514,13 +514,6 @@ Independent States WNIS: EC guarantee (ext. Decision
 		<lastpubdate>Tue Jun 15 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0083(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0083(CNS)&amp;l=en</link>
-		<title>EEC/San Marino cooperation and customs union
-agreement. Protocol after the 2004 enlargement</title>
-		<lastpubdate>Wed May 26 00:00:00 CEST 2004</lastpubdate>
-	</item>
-	<item>
 			<reference>2004/0113(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0113(CNS)&amp;l=en</link>
 		<title>Criminal judicial cooperation: procedural rights
@@ -529,11 +522,17 @@ Decision</title>
 		<lastpubdate>Wed May 26 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
+			<reference>2004/0083(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0083(CNS)&amp;l=en</link>
+		<title>EEC/San Marino cooperation and customs union
+agreement. Protocol after the 2004 enlargement</title>
+		<lastpubdate>Wed May 26 00:00:00 CEST 2004</lastpubdate>
+	</item>
+	<item>
 			<reference>2004/0122(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0122(CNS)&amp;l=en</link>
 		<title>External borders, visas, asylum and immigration:
-action programme 2002-2006 ARGO (amend. Decision
-2002/463/EC)</title>
+ARGO action programme 2002-2006</title>
 		<lastpubdate>Wed May 19 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
@@ -588,18 +587,18 @@ and Working Conditions (amend. Regulation (EEC) No
 		<lastpubdate>Mon Apr 26 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
+			<reference>2004/0014(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0014(CNS)&amp;l=en</link>
+		<title>European Agency for Safety and Health at Work
+(amend. Regulation (EC) No 2062/94)</title>
+		<lastpubdate>Mon Apr 26 00:00:00 CEST 2004</lastpubdate>
+	</item>
+	<item>
 			<reference>2004/0095(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0095(CNS)&amp;l=en</link>
 		<title>EC/Kyrgyzstan agreement: partnership and
 cooperation agreement, protocol after the 2004
 enlargement</title>
-		<lastpubdate>Mon Apr 26 00:00:00 CEST 2004</lastpubdate>
-	</item>
-	<item>
-			<reference>2004/0014(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0014(CNS)&amp;l=en</link>
-		<title>European Agency for Safety and Health at Work
-(amend. Regulation (EC) No 2062/94)</title>
 		<lastpubdate>Mon Apr 26 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
@@ -618,16 +617,16 @@ Protocol after the 2004 enlargement</title>
 		<lastpubdate>Thu Apr 22 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0091(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0091(CNS)&amp;l=en</link>
-		<title>EC/Georgia agreement: partnership and cooperation
+			<reference>2004/0080(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0080(CNS)&amp;l=en</link>
+		<title>EC/Ukraine agreement: partnership and cooperation
 agreement, protocol after the 2004 enlargement</title>
 		<lastpubdate>Tue Apr 20 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0080(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0080(CNS)&amp;l=en</link>
-		<title>EC/Ukraine agreement: partnership and cooperation
+			<reference>2004/0091(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0091(CNS)&amp;l=en</link>
+		<title>EC/Georgia agreement: partnership and cooperation
 agreement, protocol after the 2004 enlargement</title>
 		<lastpubdate>Tue Apr 20 00:00:00 CEST 2004</lastpubdate>
 	</item>
@@ -676,18 +675,18 @@ the period from 1st January 2004 to 31st December 2006</title>
 		<lastpubdate>Fri Apr 02 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0071(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0071(CNS)&amp;l=en</link>
-		<title>EC/Mauritius fisheries agreement: protocol for the
-period from 3 December 2003 to 2 December 2007</title>
-		<lastpubdate>Wed Mar 31 00:00:00 CEST 2004</lastpubdate>
-	</item>
-	<item>
 			<reference>2004/0069(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0069(CNS)&amp;l=en</link>
 		<title>Terrorism: exchange of information on terrorist
 offences while respecting the Charter of Fundamental
 Rights</title>
+		<lastpubdate>Wed Mar 31 00:00:00 CEST 2004</lastpubdate>
+	</item>
+	<item>
+			<reference>2004/0071(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0071(CNS)&amp;l=en</link>
+		<title>EC/Mauritius fisheries agreement: protocol for the
+period from 3 December 2003 to 2 December 2007</title>
 		<lastpubdate>Wed Mar 31 00:00:00 CEST 2004</lastpubdate>
 	</item>
 	<item>
@@ -735,18 +734,18 @@ and biometrics elements</title>
 		<lastpubdate>Thu Feb 19 00:00:00 CET 2004</lastpubdate>
 	</item>
 	<item>
-			<reference>2004/0033(CNS)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0033(CNS)&amp;l=en</link>
-		<title>EC/Albania agreement: readmission of persons
-residing without authorisation</title>
-		<lastpubdate>Mon Feb 16 00:00:00 CET 2004</lastpubdate>
-	</item>
-	<item>
 			<reference>2004/0024(CNS)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0024(CNS)&amp;l=en</link>
 		<title>Euro-Mediterranean partnership: economic and
 social structures, measures MEDA (Regulation 1488/96/EC). Codified
 version</title>
+		<lastpubdate>Mon Feb 16 00:00:00 CET 2004</lastpubdate>
+	</item>
+	<item>
+			<reference>2004/0033(CNS)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2004/0033(CNS)&amp;l=en</link>
+		<title>EC/Albania agreement: readmission of persons
+residing without authorisation</title>
 		<lastpubdate>Mon Feb 16 00:00:00 CET 2004</lastpubdate>
 	</item>
 	<item>

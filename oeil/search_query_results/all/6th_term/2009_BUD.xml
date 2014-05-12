@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:49:05 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:06:43 CEST 2014</generatedOn>
 	<items count="15">
 	<item>
 			<reference>2009/2050(BUD)</reference>
@@ -19,17 +19,17 @@ in 2009</title>
 		<lastpubdate>Mon Jul 06 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/2046(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2046(BUD)&amp;l=en</link>
-		<title>Amending budget 7/2009: mobilisation of the EU
-Solidary Fund for France</title>
-		<lastpubdate>Wed Jul 01 00:00:00 CEST 2009</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/2048(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2048(BUD)&amp;l=en</link>
 		<title>EU Solidarity Fund: mobilisation for France
 following the storm 'Klaus' in 2009</title>
+		<lastpubdate>Wed Jul 01 00:00:00 CEST 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/2046(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2046(BUD)&amp;l=en</link>
+		<title>Amending budget 7/2009: mobilisation of the EU
+Solidary Fund for France</title>
 		<lastpubdate>Wed Jul 01 00:00:00 CEST 2009</lastpubdate>
 	</item>
 	<item>
@@ -86,13 +86,6 @@ budget</title>
 		<lastpubdate>Mon Jan 26 00:00:00 CET 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/2005(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2005(BUD)&amp;l=en</link>
-		<title>2010 budget: section III, Commission:
-guidelines</title>
-		<lastpubdate>Mon Jan 26 00:00:00 CET 2009</lastpubdate>
-	</item>
-	<item>
 			<reference>2009/2003(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2003(BUD)&amp;l=en</link>
 		<title>2010 budget: draft mandate for the draft budget
@@ -100,15 +93,22 @@ conciliation procedure before the Council's first reading</title>
 		<lastpubdate>Mon Jan 26 00:00:00 CET 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2009/2002B(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2002B(BUD)&amp;l=en</link>
-		<title>2010 budget: other sections</title>
-		<lastpubdate>Mon Jan 19 00:00:00 CET 2009</lastpubdate>
+			<reference>2009/2005(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2005(BUD)&amp;l=en</link>
+		<title>2010 budget: section III, Commission:
+guidelines</title>
+		<lastpubdate>Mon Jan 26 00:00:00 CET 2009</lastpubdate>
 	</item>
 	<item>
 			<reference>2009/2002(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2002(BUD)&amp;l=en</link>
 		<title>2010 budget: section III, Commission</title>
+		<lastpubdate>Mon Jan 19 00:00:00 CET 2009</lastpubdate>
+	</item>
+	<item>
+			<reference>2009/2002B(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2009/2002B(BUD)&amp;l=en</link>
+		<title>2010 budget: other sections</title>
 		<lastpubdate>Mon Jan 19 00:00:00 CET 2009</lastpubdate>
 	</item>
 	</items>

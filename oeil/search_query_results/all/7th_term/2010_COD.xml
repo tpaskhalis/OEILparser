@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:52:45 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:10:45 CEST 2014</generatedOn>
 	<items count="109">
 	<item>
 			<reference>2010/0326(COD)</reference>
@@ -31,13 +31,6 @@ systems and implementation</title>
 		<lastpubdate>Tue Jan 11 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0369(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0369(COD)&amp;l=en</link>
-		<title>Common commercial policy: repeal of certain
-obsolete Council acts</title>
-		<lastpubdate>Tue Jan 11 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/0377(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0377(COD)&amp;l=en</link>
 		<title>Control of major-accident hazards involving
@@ -52,11 +45,11 @@ in the European Union (ESA 2010)</title>
 		<lastpubdate>Tue Jan 11 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0364(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0364(COD)&amp;l=en</link>
-		<title>Organic farming: organic production and labelling
-of the products</title>
-		<lastpubdate>Mon Jan 10 00:00:00 CET 2011</lastpubdate>
+			<reference>2010/0369(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0369(COD)&amp;l=en</link>
+		<title>Common commercial policy: repeal of certain
+obsolete Council acts</title>
+		<lastpubdate>Tue Jan 11 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/0366(COD)</reference>
@@ -66,10 +59,10 @@ scrutiny by Member States of financing transactions</title>
 		<lastpubdate>Mon Jan 10 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0367(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0367(COD)&amp;l=en</link>
-		<title>Trade in processed agricultural products: obsolete
-act</title>
+			<reference>2010/0364(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0364(COD)&amp;l=en</link>
+		<title>Organic farming: organic production and labelling
+of the products</title>
 		<lastpubdate>Mon Jan 10 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -86,6 +79,13 @@ obsolete acts</title>
 for farmers, voluntary modulation of direct payments; alignment of
 the Regulation with the TFEU (Commission delegated and implementing
 powers)</title>
+		<lastpubdate>Mon Jan 10 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/0367(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0367(COD)&amp;l=en</link>
+		<title>Trade in processed agricultural products: obsolete
+act</title>
 		<lastpubdate>Mon Jan 10 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -134,17 +134,17 @@ Codification</title>
 		<lastpubdate>Wed Dec 15 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0354(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0354(COD)&amp;l=en</link>
-		<title>Agricultural products: marketing
-standards</title>
-		<lastpubdate>Tue Dec 14 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/0349(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0349(COD)&amp;l=en</link>
 		<title>Wheeled agricultural or forestry tractors: braking
 devices. Codification</title>
+		<lastpubdate>Tue Dec 14 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/0354(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0354(COD)&amp;l=en</link>
+		<title>Agricultural products: marketing
+standards</title>
 		<lastpubdate>Tue Dec 14 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -262,6 +262,13 @@ economic policies. 'Six pack'</title>
 		<lastpubdate>Mon Oct 04 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/0275(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0275(COD)&amp;l=en</link>
+		<title>European Network and Information Security Agency
+(ENISA): further development</title>
+		<lastpubdate>Mon Oct 04 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/0281(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0281(COD)&amp;l=en</link>
 		<title>Economic governance: prevention and correction of
@@ -284,13 +291,6 @@ budgetary surveillance in the euro area. 'Six pack'</title>
 		<lastpubdate>Mon Oct 04 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0275(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0275(COD)&amp;l=en</link>
-		<title>European Network and Information Security Agency
-(ENISA): further development</title>
-		<lastpubdate>Mon Oct 04 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/0267(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0267(COD)&amp;l=en</link>
 		<title>Common agricultural policy CAP: common rules for
@@ -298,17 +298,17 @@ support schemes for farmers</title>
 		<lastpubdate>Fri Oct 01 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0274(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0274(COD)&amp;l=en</link>
-		<title>European Network and Information Security Agency
-(ENISA): duration</title>
-		<lastpubdate>Fri Oct 01 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/0266(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0266(COD)&amp;l=en</link>
 		<title>Rural development: support by the European
 Agricultural Fund for Rural Development (EAFRD)</title>
+		<lastpubdate>Fri Oct 01 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/0274(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0274(COD)&amp;l=en</link>
+		<title>European Network and Information Security Agency
+(ENISA): duration</title>
 		<lastpubdate>Fri Oct 01 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -334,11 +334,10 @@ Codification</title>
 		<lastpubdate>Thu Sep 30 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0259(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0259(COD)&amp;l=en</link>
-		<title>Trade in foodstuffs: indications or marks
-identifying the lot to which a foodstuff belongs.
-Codification</title>
+			<reference>2010/0261(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0261(COD)&amp;l=en</link>
+		<title>Car industry: permissible sound level and exhaust
+system of motor vehicles. Codification</title>
 		<lastpubdate>Tue Sep 28 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -349,6 +348,13 @@ the Member States. Codification</title>
 		<lastpubdate>Tue Sep 28 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/0256(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0256(COD)&amp;l=en</link>
+		<title>Outermost regions: specific measures for
+agriculture</title>
+		<lastpubdate>Tue Sep 28 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/0258(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0258(COD)&amp;l=en</link>
 		<title>Carriage of goods by road: statistical returns.
@@ -356,10 +362,11 @@ Recast</title>
 		<lastpubdate>Tue Sep 28 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0261(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0261(COD)&amp;l=en</link>
-		<title>Car industry: permissible sound level and exhaust
-system of motor vehicles. Codification</title>
+			<reference>2010/0259(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0259(COD)&amp;l=en</link>
+		<title>Trade in foodstuffs: indications or marks
+identifying the lot to which a foodstuff belongs.
+Codification</title>
 		<lastpubdate>Tue Sep 28 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -368,13 +375,6 @@ system of motor vehicles. Codification</title>
 		<title>Dual-use items: Community regime for the control
 of exports, transfer, brokering and transit, update of the EU
 control list</title>
-		<lastpubdate>Tue Sep 28 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/0256(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0256(COD)&amp;l=en</link>
-		<title>Outermost regions: specific measures for
-agriculture</title>
 		<lastpubdate>Tue Sep 28 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -401,7 +401,7 @@ for human consumption</title>
 	<item>
 			<reference>2010/0252(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0252(COD)&amp;l=en</link>
-		<title>Radio spectrum policy: first programme</title>
+		<title>Radio spectrum policy programme</title>
 		<lastpubdate>Tue Sep 21 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -475,13 +475,6 @@ information in criminal proceedings</title>
 		<lastpubdate>Thu Aug 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0209(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0209(COD)&amp;l=en</link>
-		<title>Intra-corporate transfer: conditions of entry and
-residence of third-country nationals</title>
-		<lastpubdate>Fri Jul 16 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/0208(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0208(COD)&amp;l=en</link>
 		<title>Genetically modified organisms GMOs: possibility
@@ -492,7 +485,14 @@ GMOs in their territory</title>
 	<item>
 			<reference>2010/0210(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0210(COD)&amp;l=en</link>
-		<title>Seasonal employment: conditions of entry and
+		<title>Seasonal employment: conditions of entry and stay
+of third-country nationals</title>
+		<lastpubdate>Fri Jul 16 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/0209(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0209(COD)&amp;l=en</link>
+		<title>Intra-corporate transfer: conditions of entry and
 residence of third-country nationals</title>
 		<lastpubdate>Fri Jul 16 00:00:00 CEST 2010</lastpubdate>
 	</item>
@@ -505,21 +505,21 @@ residence of third-country nationals</title>
 	<item>
 			<reference>2010/0207(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0207(COD)&amp;l=en</link>
-		<title>Deposit Guarantee Schemes. Recast</title>
+		<title>Deposit guarantee schemes. Recast</title>
 		<lastpubdate>Tue Jul 13 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/0197(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0197(COD)&amp;l=en</link>
-		<title>Bilateral investment agreements between Member
-States and third countries: transitional arrangements</title>
-		<lastpubdate>Thu Jul 08 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/0195(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0195(COD)&amp;l=en</link>
 		<title>Air quality: provisions for engines placed on the
 market under the flexibility scheme</title>
+		<lastpubdate>Thu Jul 08 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/0197(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0197(COD)&amp;l=en</link>
+		<title>Bilateral investment agreements between Member
+States and third countries: transitional arrangements</title>
 		<lastpubdate>Thu Jul 08 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -649,28 +649,28 @@ Society services: provision of information. Codification</title>
 		<lastpubdate>Mon Apr 26 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0074(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0074(COD)&amp;l=en</link>
-		<title>Citizens' initiative</title>
-		<lastpubdate>Tue Apr 13 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/0073(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0073(COD)&amp;l=en</link>
 		<title>European environmental economic accounts</title>
 		<lastpubdate>Tue Apr 13 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0065(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0065(COD)&amp;l=en</link>
-		<title>Preventing and combating trafficking in human
-beings, and protecting victims</title>
-		<lastpubdate>Mon Apr 12 00:00:00 CEST 2010</lastpubdate>
+			<reference>2010/0074(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0074(COD)&amp;l=en</link>
+		<title>Citizens' initiative</title>
+		<lastpubdate>Tue Apr 13 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/0063(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0063(COD)&amp;l=en</link>
 		<title>Statistics on tourism</title>
+		<lastpubdate>Mon Apr 12 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/0065(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0065(COD)&amp;l=en</link>
+		<title>Preventing and combating trafficking in human
+beings, and protecting victims</title>
 		<lastpubdate>Mon Apr 12 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:44:07 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:02:31 CEST 2014</generatedOn>
 	<items count="21">
 	<item>
 			<reference>2008/0262(NLE)</reference>
@@ -10,18 +10,18 @@ field of transport. Transport Protocol</title>
 		<lastpubdate>Fri Jan 09 00:00:00 CET 2009</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0250(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0250(NLE)&amp;l=en</link>
-		<title>EC/Pacific States agreement: Interim Partnership
-Agreement</title>
-		<lastpubdate>Wed Dec 17 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0251(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0251(NLE)&amp;l=en</link>
 		<title>EC/Eastern and Southern Africa ESA States
 agreement: interim agreement establishing a framework for Economic
 Partnership Agreement EPA</title>
+		<lastpubdate>Wed Dec 17 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0250(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0250(NLE)&amp;l=en</link>
+		<title>EC/Pacific States agreement: Interim Partnership
+Agreement</title>
 		<lastpubdate>Wed Dec 17 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -62,13 +62,6 @@ Economic Partnership Agreement (EPA)</title>
 		<lastpubdate>Fri Sep 19 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0170(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0170(NLE)&amp;l=en</link>
-		<title>Conclusion of the UN Convention on the Rights of
-Persons with Disabilities</title>
-		<lastpubdate>Thu Sep 04 00:00:00 CEST 2008</lastpubdate>
-	</item>
-	<item>
 			<reference>2008/0171(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0171(NLE)&amp;l=en</link>
 		<title>UN Convention on the Rights of Persons with
@@ -76,17 +69,24 @@ Disabilities: conclusion of the Optional Protocol</title>
 		<lastpubdate>Thu Sep 04 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2008/0145(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0145(NLE)&amp;l=en</link>
-		<title>EU/West African Economic and Monetary Union
-agreement: air services</title>
-		<lastpubdate>Tue Aug 19 00:00:00 CEST 2008</lastpubdate>
+			<reference>2008/0170(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0170(NLE)&amp;l=en</link>
+		<title>Conclusion of the UN Convention on the Rights of
+Persons with Disabilities</title>
+		<lastpubdate>Thu Sep 04 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>
 			<reference>2008/0136(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0136(NLE)&amp;l=en</link>
 		<title>EC/Côte d'Ivoire agreement: stepping
 stone Economic Partnership Agreement EPA</title>
+		<lastpubdate>Tue Aug 19 00:00:00 CEST 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2008/0145(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2008/0145(NLE)&amp;l=en</link>
+		<title>EU/West African Economic and Monetary Union
+agreement: air services</title>
 		<lastpubdate>Tue Aug 19 00:00:00 CEST 2008</lastpubdate>
 	</item>
 	<item>

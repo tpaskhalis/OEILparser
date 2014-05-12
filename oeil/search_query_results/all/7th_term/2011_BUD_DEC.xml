@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:58:34 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:17:20 CEST 2014</generatedOn>
 	<items count="83">
 	<item>
 			<reference>2011/2300(BUD)</reference>
@@ -17,38 +17,10 @@ Solidarity Fund for Spain and Italy</title>
 		<lastpubdate>Thu Dec 01 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2217(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2217(DEC)&amp;l=en</link>
-		<title>2010 discharge: European Environment Agency
-(EEA)</title>
-		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/2237(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2237(DEC)&amp;l=en</link>
-		<title>2010 discharge: European Joint Undertaking for
-ITER and the Development of Fusion Energy</title>
-		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/2203(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2203(DEC)&amp;l=en</link>
 		<title>2010 discharge: EU general budget, Section II -
 Council</title>
-		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/2207(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2207(DEC)&amp;l=en</link>
-		<title>2010 discharge: EU general budget, Committee of
-the Regions</title>
-		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/2204(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2204(DEC)&amp;l=en</link>
-		<title>2010 discharge: EU general budget, Court of
-Justice</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -59,10 +31,10 @@ European Parliament</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2206(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2206(DEC)&amp;l=en</link>
-		<title>2010 discharge: EU general budget, Economic and
-Social Committee</title>
+			<reference>2011/2204(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2204(DEC)&amp;l=en</link>
+		<title>2010 discharge: EU general budget, Court of
+Justice</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -73,10 +45,17 @@ Auditors</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2208(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2208(DEC)&amp;l=en</link>
-		<title>2010 discharge: EU general budget, European
-Ombudsman</title>
+			<reference>2011/2207(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2207(DEC)&amp;l=en</link>
+		<title>2010 discharge: EU general budget, Committee of
+the Regions</title>
+		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/2206(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2206(DEC)&amp;l=en</link>
+		<title>2010 discharge: EU general budget, Economic and
+Social Committee</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -87,10 +66,17 @@ Protection Supervisor</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2213(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2213(DEC)&amp;l=en</link>
-		<title>2010 discharge: European Centre for the
-Development of Vocational Training (CEDEFOP)</title>
+			<reference>2011/2208(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2208(DEC)&amp;l=en</link>
+		<title>2010 discharge: EU general budget, European
+Ombudsman</title>
+		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/2212(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2212(DEC)&amp;l=en</link>
+		<title>2010 discharge: 8th, 9th and 10th European
+Development Funds (EDF)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -101,17 +87,17 @@ Improvement of Living and Working Conditions (EUROFOUND)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/2213(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2213(DEC)&amp;l=en</link>
+		<title>2010 discharge: European Centre for the
+Development of Vocational Training (CEDEFOP)</title>
+		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/2215(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2215(DEC)&amp;l=en</link>
 		<title>2010 discharge: European Union Agency for
 Fundamental Rights (FRA)</title>
-		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/2218(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2218(DEC)&amp;l=en</link>
-		<title>2010 discharge: European Agency for Safety and
-Health at Work (EU-OSHA)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -122,17 +108,17 @@ Drugs and Drug Addiction (EMCDDA)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2219(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2219(DEC)&amp;l=en</link>
-		<title>2010 discharge: Translation Centre for the Bodies
-of the European Union (CdT)</title>
+			<reference>2011/2217(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2217(DEC)&amp;l=en</link>
+		<title>2010 discharge: European Environment Agency
+(EEA)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2221(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2221(DEC)&amp;l=en</link>
-		<title>2010 discharge: European Union's Judicial
-Cooperation Unit (EUROJUST)</title>
+			<reference>2011/2218(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2218(DEC)&amp;l=en</link>
+		<title>2010 discharge: European Agency for Safety and
+Health at Work (EU-OSHA)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -143,10 +129,24 @@ Cooperation Unit (EUROJUST)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/2219(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2219(DEC)&amp;l=en</link>
+		<title>2010 discharge: Translation Centre for the Bodies
+of the European Union (CdT)</title>
+		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/2222(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2222(DEC)&amp;l=en</link>
 		<title>2010 discharge: European Training Foundation
 (ETF)</title>
+		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/2221(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2221(DEC)&amp;l=en</link>
+		<title>2010 discharge: European Union's Judicial
+Cooperation Unit (EUROJUST)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -164,10 +164,24 @@ Cooperation Unit (EUROJUST)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/2227(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2227(DEC)&amp;l=en</link>
+		<title>2010 discharge: European Centre for Disease
+Prevention and Control (ECDC)</title>
+		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/2226(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2226(DEC)&amp;l=en</link>
 		<title>2010 discharge: European Food Safety Authority
 (EFSA)</title>
+		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/2229(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2229(DEC)&amp;l=en</link>
+		<title>2010 discharge: European Railway Agency
+(ERA)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -178,24 +192,10 @@ Security Agency (ENISA)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2227(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2227(DEC)&amp;l=en</link>
-		<title>2010 discharge: European Centre for Disease
-Prevention and Control (ECDC)</title>
-		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/2230(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2230(DEC)&amp;l=en</link>
 		<title>2010 discharge: European Police College
 (CEPOL)</title>
-		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/2229(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2229(DEC)&amp;l=en</link>
-		<title>2010 discharge: European Railway Agency
-(ERA)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -239,6 +239,13 @@ of Operational Cooperation at the External Borders
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2238(DEC)&amp;l=en</link>
 		<title>2010 discharge: SESAR Joint Undertaking to develop
 the new generation European air traffic management system</title>
+		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/2237(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2237(DEC)&amp;l=en</link>
+		<title>2010 discharge: European Joint Undertaking for
+ITER and the Development of Fusion Energy</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -289,13 +296,6 @@ Equality (EIGE)</title>
 			<reference>2011/2265(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2265(DEC)&amp;l=en</link>
 		<title>2010 discharge: ENIAC Joint Undertaking</title>
-		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/2212(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2212(DEC)&amp;l=en</link>
-		<title>2010 discharge: 8th, 9th and 10th European
-Development Funds (EDF)</title>
 		<lastpubdate>Mon Nov 28 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -422,22 +422,6 @@ Adjustment Fund: technical assistance by the Commission</title>
 		<lastpubdate>Mon Jul 04 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2137(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2137(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the graphic media industry in the
-Netherlands (Noord-Brabant)</title>
-		<lastpubdate>Mon Jul 04 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
-			<reference>2011/2136(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2136(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the graphic media industry in the
-Netherlands (Zuid-Holland and Utrecht)</title>
-		<lastpubdate>Mon Jul 04 00:00:00 CEST 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/2138(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2138(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
@@ -446,11 +430,27 @@ Netherlands (Overijssel)</title>
 		<lastpubdate>Mon Jul 04 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
+			<reference>2011/2137(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2137(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in the graphic media industry in the
+Netherlands (Noord-Brabant)</title>
+		<lastpubdate>Mon Jul 04 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
 			<reference>2011/2139(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2139(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
 Adjustment Fund: redundancies in the graphic media industry in the
 Netherlands (Noord-Holland and Flevoland)</title>
+		<lastpubdate>Mon Jul 04 00:00:00 CEST 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/2136(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2136(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in the graphic media industry in the
+Netherlands (Zuid-Holland and Utrecht)</title>
 		<lastpubdate>Mon Jul 04 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
@@ -538,18 +538,18 @@ in Slovenia, Croatia and Czech Republic in 2010</title>
 		<lastpubdate>Mon Mar 28 00:00:00 CEST 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2042(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2042(BUD)&amp;l=en</link>
-		<title>2012 budget: general guidelines for the
-preparation</title>
-		<lastpubdate>Mon Feb 21 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/2044(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2044(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
 Adjustment Fund: redundancies in the food industry in the Czech
 Republic</title>
+		<lastpubdate>Mon Feb 21 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/2042(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2042(BUD)&amp;l=en</link>
+		<title>2012 budget: general guidelines for the
+preparation</title>
 		<lastpubdate>Mon Feb 21 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -583,15 +583,17 @@ Commission</title>
 		<lastpubdate>Tue Jan 18 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2017(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2017(BUD)&amp;l=en</link>
-		<title>2012 budget: priorities - other sections</title>
-		<lastpubdate>Tue Jan 18 00:00:00 CET 2011</lastpubdate>
-	</item>
-	<item>
 			<reference>2011/2019(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2019(BUD)&amp;l=en</link>
 		<title>2012 budget: mandate for the trilogue</title>
+		<lastpubdate>Tue Jan 18 00:00:00 CET 2011</lastpubdate>
+	</item>
+	<item>
+			<reference>2011/2021(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2021(BUD)&amp;l=en</link>
+		<title>Mobilisation of the EU Solidarity Fund: flooding
+in Poland, Slovakia, Hungary, Czech Republic, Croatia and Romania
+in 2010</title>
 		<lastpubdate>Tue Jan 18 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
@@ -601,11 +603,9 @@ Commission</title>
 		<lastpubdate>Tue Jan 18 00:00:00 CET 2011</lastpubdate>
 	</item>
 	<item>
-			<reference>2011/2021(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2021(BUD)&amp;l=en</link>
-		<title>Mobilisation of the EU Solidarity Fund: flooding
-in Poland, Slovakia, Hungary, Czech Republic, Croatia and Romania
-in 2010</title>
+			<reference>2011/2017(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2011/2017(BUD)&amp;l=en</link>
+		<title>2012 budget: priorities - other sections</title>
 		<lastpubdate>Tue Jan 18 00:00:00 CET 2011</lastpubdate>
 	</item>
 	</items>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:37:00 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 13:54:05 CEST 2014</generatedOn>
 	<items count="37">
 	<item>
 			<reference>2005/2208(DEC)</reference>
@@ -53,6 +53,20 @@ Parliament</title>
 		<lastpubdate>Thu Jun 09 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
+			<reference>2005/2092(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2092(DEC)&amp;l=en</link>
+		<title>2004 discharge: EC general budget,
+Council</title>
+		<lastpubdate>Thu Jun 09 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/2093(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2093(DEC)&amp;l=en</link>
+		<title>2004 discharge: EC general budget, Court of
+Justice</title>
+		<lastpubdate>Thu Jun 09 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
 			<reference>2005/2094(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2094(DEC)&amp;l=en</link>
 		<title>2004 discharge: EC general budget, Court of
@@ -74,20 +88,6 @@ the Regions</title>
 		<lastpubdate>Thu Jun 09 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/2093(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2093(DEC)&amp;l=en</link>
-		<title>2004 discharge: EC general budget, Court of
-Justice</title>
-		<lastpubdate>Thu Jun 09 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/2092(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2092(DEC)&amp;l=en</link>
-		<title>2004 discharge: EC general budget,
-Council</title>
-		<lastpubdate>Thu Jun 09 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
 			<reference>2005/2126(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2126(BUD)&amp;l=en</link>
 		<title>Amending budget 5/2005: revision of the forecast
@@ -96,17 +96,17 @@ of the Solidarity Fund for Slovakia</title>
 		<lastpubdate>Thu Jun 09 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/2106(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2106(DEC)&amp;l=en</link>
-		<title>2004 discharge: European Centre for the
-Development of Vocational Training</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
 			<reference>2005/2107(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2107(DEC)&amp;l=en</link>
 		<title>2004 discharge: European Foundation for the
 Improvement of Living and Working Conditions</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/2106(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2106(DEC)&amp;l=en</link>
+		<title>2004 discharge: European Centre for the
+Development of Vocational Training</title>
 		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
@@ -117,13 +117,6 @@ Racism and Xenophobia</title>
 		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/2110(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2110(DEC)&amp;l=en</link>
-		<title>2004 discharge: European Monitoring Centre for
-Drugs and Drug Addiction</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
 			<reference>2005/2111(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2111(DEC)&amp;l=en</link>
 		<title>2004 discharge: European Environment
@@ -131,17 +124,10 @@ Agency</title>
 		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/2117(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2117(DEC)&amp;l=en</link>
-		<title>2004 discharge: European Maritime Safety
-Agency</title>
-		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
-			<reference>2005/2114(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2114(DEC)&amp;l=en</link>
-		<title>2004 discharge: European Agency for the Evaluation
-of Medicinal Products</title>
+			<reference>2005/2110(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2110(DEC)&amp;l=en</link>
+		<title>2004 discharge: European Monitoring Centre for
+Drugs and Drug Addiction</title>
 		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
@@ -155,6 +141,20 @@ of the European Union</title>
 			<reference>2005/2115(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2115(DEC)&amp;l=en</link>
 		<title>2004 discharge: Eurojust</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/2114(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2114(DEC)&amp;l=en</link>
+		<title>2004 discharge: European Agency for the Evaluation
+of Medicinal Products</title>
+		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/2117(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2117(DEC)&amp;l=en</link>
+		<title>2004 discharge: European Maritime Safety
+Agency</title>
 		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
@@ -179,17 +179,17 @@ Agency</title>
 		<lastpubdate>Mon Jun 06 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>
-			<reference>2005/2112(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2112(DEC)&amp;l=en</link>
-		<title>2004 discharge: European Agency for Safety and
-Health at Work</title>
-		<lastpubdate>Tue May 31 00:00:00 CEST 2005</lastpubdate>
-	</item>
-	<item>
 			<reference>2005/2108(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2108(DEC)&amp;l=en</link>
 		<title>2004 discharge: European Agency for
 Reconstruction</title>
+		<lastpubdate>Tue May 31 00:00:00 CEST 2005</lastpubdate>
+	</item>
+	<item>
+			<reference>2005/2112(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2005/2112(DEC)&amp;l=en</link>
+		<title>2004 discharge: European Agency for Safety and
+Health at Work</title>
 		<lastpubdate>Tue May 31 00:00:00 CEST 2005</lastpubdate>
 	</item>
 	<item>

@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:18:52 CET 2014</generatedOn>
-	<items count="11">
+	<generatedOn>Mon May 12 14:29:22 CEST 2014</generatedOn>
+	<items count="18">
+	<item>
+			<reference>2014/0007(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0007(NLE)&amp;l=en</link>
+		<title>EU/Ukraine Common Aviation Area
+Agreement</title>
+		<lastpubdate>Fri Apr 25 00:00:00 CEST 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/0110(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0110(NLE)&amp;l=en</link>
+		<title>EU/Lebanon Framework Agreement: participation of
+Lebanon in Union programmes. Protocol to the Euro-Mediterranean
+Agreement establishing an association EC/Lebanon</title>
+		<lastpubdate>Mon Apr 14 00:00:00 CEST 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/0118(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0118(NLE)&amp;l=en</link>
+		<title>EU/Tunisia Framework Agreement: participation of
+Tunisia in Union programmes. Protocol to the Euro-Mediterranean
+Agreement establishing an association EC/Tunisia</title>
+		<lastpubdate>Mon Apr 14 00:00:00 CEST 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/0115(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0115(NLE)&amp;l=en</link>
+		<title>EU/São Tomé and
+Príncipe Fisheries Partnership Agreement: fishing
+opportunities and financial contribution 2014-2018.
+Protocol</title>
+		<lastpubdate>Mon Apr 14 00:00:00 CEST 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/0086(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0086(NLE)&amp;l=en</link>
+		<title>EU/Euratom/Georgia Association Agreement</title>
+		<lastpubdate>Fri Mar 21 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/0083(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0083(NLE)&amp;l=en</link>
+		<title>EU/Euratom/Moldova Association Agreement</title>
+		<lastpubdate>Fri Mar 21 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/0079(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0079(NLE)&amp;l=en</link>
+		<title>EU/Seychelles Agreement: access for fishing
+vessels flying the flag of the Seychelles to waters and marine
+biological resources of Mayotte, under the jurisdiction of the
+EU</title>
+		<lastpubdate>Fri Mar 21 00:00:00 CET 2014</lastpubdate>
+	</item>
 	<item>
 			<reference>2014/0052(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0052(NLE)&amp;l=en</link>
@@ -10,18 +63,18 @@ accession of Croatia to the EU. Protocol</title>
 		<lastpubdate>Mon Mar 10 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
+			<reference>2014/0050(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0050(NLE)&amp;l=en</link>
+		<title>EEC/Norway Agreement: accession of Croatia to the
+EU. Additional Protocol</title>
+		<lastpubdate>Wed Feb 26 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
 			<reference>2014/0047(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0047(NLE)&amp;l=en</link>
 		<title>Agreement on the participation of Croatia in the
 European Economic Area (EEA) and the related Protocol, to take
 account of the accession of Croatia to the EU</title>
-		<lastpubdate>Wed Feb 26 00:00:00 CET 2014</lastpubdate>
-	</item>
-	<item>
-			<reference>2014/0050(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0050(NLE)&amp;l=en</link>
-		<title>EEC/Norway Agreement: accession of Croatia to the
-EU. Additional Protocol</title>
 		<lastpubdate>Wed Feb 26 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
@@ -39,17 +92,17 @@ EU. Additional Protocol</title>
 		<lastpubdate>Mon Feb 24 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>
-			<reference>2014/0021(NLE)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0021(NLE)&amp;l=en</link>
-		<title>Hague Convention (2005) on Choice of Court
-Agreements</title>
-		<lastpubdate>Thu Feb 13 00:00:00 CET 2014</lastpubdate>
-	</item>
-	<item>
 			<reference>2014/0023(NLE)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0023(NLE)&amp;l=en</link>
 		<title>EC/Canada Air Transport Agreement: accession of
 Croatia to the EU. Protocol</title>
+		<lastpubdate>Thu Feb 13 00:00:00 CET 2014</lastpubdate>
+	</item>
+	<item>
+			<reference>2014/0021(NLE)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2014/0021(NLE)&amp;l=en</link>
+		<title>Hague Convention (2005) on Choice of Court
+Agreements</title>
 		<lastpubdate>Thu Feb 13 00:00:00 CET 2014</lastpubdate>
 	</item>
 	<item>

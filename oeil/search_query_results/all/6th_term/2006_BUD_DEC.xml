@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:39:48 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 13:57:42 CEST 2014</generatedOn>
 	<items count="39">
 	<item>
 			<reference>2006/2303(BUD)</reference>
@@ -26,20 +26,6 @@ Justice</title>
 		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/2072(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2072(DEC)&amp;l=en</link>
-		<title>2005 discharge: EC general budget,
-Council</title>
-		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2006/2071(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2071(DEC)&amp;l=en</link>
-		<title>2005 discharge: EC general budget, European
-Parliament</title>
-		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/2076(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2076(DEC)&amp;l=en</link>
 		<title>2005 discharge: EC general budget, Committee of
@@ -61,10 +47,24 @@ Data-protection Supervisor</title>
 		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/2157(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2157(DEC)&amp;l=en</link>
-		<title>2005 discharge: European Monitoring Centre for
-Drugs and Drug Addiction</title>
+			<reference>2006/2071(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2071(DEC)&amp;l=en</link>
+		<title>2005 discharge: EC general budget, European
+Parliament</title>
+		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/2072(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2072(DEC)&amp;l=en</link>
+		<title>2005 discharge: EC general budget,
+Council</title>
+		<lastpubdate>Thu Nov 30 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/2153(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2153(DEC)&amp;l=en</link>
+		<title>2005 discharge: European Centre for the
+Development of Vocational Training</title>
 		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -75,24 +75,17 @@ Improvement of Living and Working Conditions</title>
 		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/2153(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2153(DEC)&amp;l=en</link>
-		<title>2005 discharge: European Centre for the
-Development of Vocational Training</title>
-		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2006/2161(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2161(DEC)&amp;l=en</link>
-		<title>2005 discharge: European Agency for the Evaluation
-of Medicinal Products</title>
-		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/2155(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2155(DEC)&amp;l=en</link>
 		<title>2005 discharge: European Agency for
 Reconstruction</title>
+		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/2157(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2157(DEC)&amp;l=en</link>
+		<title>2005 discharge: European Monitoring Centre for
+Drugs and Drug Addiction</title>
 		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -110,13 +103,6 @@ Health at Work</title>
 		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/2160(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2160(DEC)&amp;l=en</link>
-		<title>2005 discharge: Translation Centre for the Bodies
-of the European Union</title>
-		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
 			<reference>2006/2158(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2158(DEC)&amp;l=en</link>
 		<title>2005 discharge: European Environment
@@ -124,9 +110,17 @@ Agency</title>
 		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/2162(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2162(DEC)&amp;l=en</link>
-		<title>2005 discharge: Eurojust</title>
+			<reference>2006/2161(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2161(DEC)&amp;l=en</link>
+		<title>2005 discharge: European Agency for the Evaluation
+of Medicinal Products</title>
+		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/2160(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2160(DEC)&amp;l=en</link>
+		<title>2005 discharge: Translation Centre for the Bodies
+of the European Union</title>
 		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -134,6 +128,12 @@ Agency</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2163(DEC)&amp;l=en</link>
 		<title>2005 discharge: European Training
 Foundation</title>
+		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/2162(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2162(DEC)&amp;l=en</link>
+		<title>2005 discharge: Eurojust</title>
 		<lastpubdate>Wed Nov 08 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -251,22 +251,10 @@ mandate</title>
 		<lastpubdate>Thu Jan 19 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/2018(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2018(BUD)&amp;l=en</link>
-		<title>2007 budget: section III, Commission</title>
-		<lastpubdate>Wed Jan 18 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2006/2018B(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2018B(BUD)&amp;l=en</link>
-		<title>2007 budget: other sections</title>
-		<lastpubdate>Wed Jan 18 00:00:00 CET 2006</lastpubdate>
-	</item>
-	<item>
-			<reference>2006/2020(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2020(BUD)&amp;l=en</link>
-		<title>2007 budget: Commission's annual strategic
-priorities</title>
+			<reference>2006/2022(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2022(BUD)&amp;l=en</link>
+		<title>2007 budget: European Parliament's
+estimates</title>
 		<lastpubdate>Wed Jan 18 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
@@ -277,10 +265,22 @@ sections</title>
 		<lastpubdate>Wed Jan 18 00:00:00 CET 2006</lastpubdate>
 	</item>
 	<item>
-			<reference>2006/2022(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2022(BUD)&amp;l=en</link>
-		<title>2007 budget: European Parliament's
-estimates</title>
+			<reference>2006/2020(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2020(BUD)&amp;l=en</link>
+		<title>2007 budget: Commission's annual strategic
+priorities</title>
+		<lastpubdate>Wed Jan 18 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/2018(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2018(BUD)&amp;l=en</link>
+		<title>2007 budget: section III, Commission</title>
+		<lastpubdate>Wed Jan 18 00:00:00 CET 2006</lastpubdate>
+	</item>
+	<item>
+			<reference>2006/2018B(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2006/2018B(BUD)&amp;l=en</link>
+		<title>2007 budget: other sections</title>
 		<lastpubdate>Wed Jan 18 00:00:00 CET 2006</lastpubdate>
 	</item>
 	</items>

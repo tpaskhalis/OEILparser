@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:01:45 CET 2014</generatedOn>
-	<items count="20">
+	<generatedOn>Mon May 12 14:20:36 CEST 2014</generatedOn>
+	<items count="18">
 	<item>
 			<reference>2012/2124(REG)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/2124(REG)&amp;l=en</link>
@@ -52,17 +52,17 @@ interpretation</title>
 		<lastpubdate>Tue Oct 23 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
-			<reference>2012/2239(IMM)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/2239(IMM)&amp;l=en</link>
-		<title>Request for the waiver of parliamentary immunity
-of Ewald Stadler</title>
-		<lastpubdate>Thu Sep 20 00:00:00 CEST 2012</lastpubdate>
-	</item>
-	<item>
 			<reference>2012/2238(IMM)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/2238(IMM)&amp;l=en</link>
 		<title>Request for the waiver of parliamentary immunity
 of Malgorzata Handzlik</title>
+		<lastpubdate>Thu Sep 20 00:00:00 CEST 2012</lastpubdate>
+	</item>
+	<item>
+			<reference>2012/2239(IMM)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/2239(IMM)&amp;l=en</link>
+		<title>Request for the waiver of parliamentary immunity
+of Ewald Stadler</title>
 		<lastpubdate>Thu Sep 20 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
@@ -78,13 +78,6 @@ of Gabriele Albertini</title>
 		<title>Request for the waiver of parliamentary immunity
 of Martin Ehrenhauser</title>
 		<lastpubdate>Thu Jul 12 00:00:00 CEST 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2012/2146(IMM)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/2146(IMM)&amp;l=en</link>
-		<title>Request for the defence of parliamentary immunity
-of Clemente Mastella</title>
-		<lastpubdate>Thu Jul 05 00:00:00 CEST 2012</lastpubdate>
 	</item>
 	<item>
 			<reference>2012/2118(REG)</reference>
@@ -137,13 +130,6 @@ crime, corruption and money laundering</title>
 organised crime, corruption and money laundering, its powers,
 numerical composition and term of office</title>
 		<lastpubdate>Thu Mar 08 00:00:00 CET 2012</lastpubdate>
-	</item>
-	<item>
-			<reference>2012/2012(REG)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2012/2012(REG)&amp;l=en</link>
-		<title>EP Rules of Procedure, Rules 49 and 50:
-cooperation between parliamentary committees</title>
-		<lastpubdate>Fri Feb 24 00:00:00 CET 2012</lastpubdate>
 	</item>
 	</items>
 </procedureList>

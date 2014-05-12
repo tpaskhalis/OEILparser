@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 22:40:30 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 13:58:44 CEST 2014</generatedOn>
 	<items count="103">
 	<item>
 			<reference>2007/0299(COD)</reference>
@@ -26,6 +26,14 @@ procedure with scrutiny</title>
 		<lastpubdate>Thu Jan 10 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/0269(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0269(COD)&amp;l=en</link>
+		<title>Statistical returns in respect of the carriage of
+goods by road (amend. Regulation (EC) No 1172/98, adaptation to the
+regulatory procedure with scrutiny)</title>
+		<lastpubdate>Thu Jan 10 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/0272(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0272(COD)&amp;l=en</link>
 		<title>European system of national and regional
@@ -35,19 +43,12 @@ scrutiny)</title>
 		<lastpubdate>Thu Jan 10 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/0269(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0269(COD)&amp;l=en</link>
-		<title>Statistical returns in respect of the carriage of
-goods by road (amend. Regulation (EC) No 1172/98, adaptation to the
-regulatory procedure with scrutiny)</title>
-		<lastpubdate>Thu Jan 10 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/0291(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0291(COD)&amp;l=en</link>
-		<title>European Network and Information Security Agency
-ENISA: extension of its duration (amend. Regulation (EC) No
-460/2004)</title>
+			<reference>2007/0287(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0287(COD)&amp;l=en</link>
+		<title>Aromatised wines, aromatised wine-based drinks and
+aromatised wine-product cocktails: definition, description and
+presentation (repeal. Regulation (EEC) No 1601/91, adaptation to
+the regulatory procedure with scrutiny). Recast</title>
 		<lastpubdate>Tue Jan 08 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -56,15 +57,6 @@ ENISA: extension of its duration (amend. Regulation (EC) No
 		<title>Exploitation and marketing of natural mineral
 waters (repeal. Directive 80/777/EEC, adaptation to the regulatory
 procedure with scrutiny). Recast</title>
-		<lastpubdate>Tue Jan 08 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/0287(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0287(COD)&amp;l=en</link>
-		<title>Aromatised wines, aromatised wine-based drinks and
-aromatised wine-product cocktails: definition, description and
-presentation (repeal. Regulation (EEC) No 1601/91, adaptation to
-the regulatory procedure with scrutiny). Recast</title>
 		<lastpubdate>Tue Jan 08 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -91,19 +83,19 @@ devices (repeal. Directive 79/352/EEC). Codification</title>
 		<lastpubdate>Tue Jan 08 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
+			<reference>2007/0291(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0291(COD)&amp;l=en</link>
+		<title>European Network and Information Security Agency
+ENISA: extension of its duration (amend. Regulation (EC) No
+460/2004)</title>
+		<lastpubdate>Tue Jan 08 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
 			<reference>2007/0262(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0262(COD)&amp;l=en</link>
 		<title>Adaption of a number of instruments with regard to
 the regulatory procedure with scrutiny, 'omnibus' Regulation, Part
 One</title>
-		<lastpubdate>Mon Jan 07 00:00:00 CET 2008</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/0282(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0282(COD)&amp;l=en</link>
-		<title>Adaption of a number of instruments with regard to
-the regulatory procedure with scrutiny,
-'omnibus' Regulation, Part Three</title>
 		<lastpubdate>Mon Jan 07 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -113,6 +105,14 @@ the regulatory procedure with scrutiny,
 the regulatory procedure with
 scrutiny, 'omnibus' Regulation, Part
 Two</title>
+		<lastpubdate>Mon Jan 07 00:00:00 CET 2008</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0282(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0282(COD)&amp;l=en</link>
+		<title>Adaption of a number of instruments with regard to
+the regulatory procedure with scrutiny,
+'omnibus' Regulation, Part Three</title>
 		<lastpubdate>Mon Jan 07 00:00:00 CET 2008</lastpubdate>
 	</item>
 	<item>
@@ -134,17 +134,17 @@ Exclusion 2010</title>
 		<lastpubdate>Thu Dec 13 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/0280(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0280(COD)&amp;l=en</link>
-		<title>Public procurement in the fields of defence and
-security</title>
-		<lastpubdate>Tue Dec 11 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/0279(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0279(COD)&amp;l=en</link>
 		<title>Defence-related products: simplifying
 terms and conditions of transfers within the Community</title>
+		<lastpubdate>Tue Dec 11 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0280(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0280(COD)&amp;l=en</link>
+		<title>Public procurement in the fields of defence and
+security</title>
 		<lastpubdate>Tue Dec 11 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
@@ -423,16 +423,6 @@ road: Commission implementing powers</title>
 		<lastpubdate>Thu Sep 13 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/0186(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0186(COD)&amp;l=en</link>
-		<title>External borders: simplified regime for
-the control of persons, based on the unilateral recognition by the
-Member States of certain residence permits issued by Switzerland
-and Liechtenstein, for the purpose of transit through their
-territory (amend. Decision No 896/2006/EC)</title>
-		<lastpubdate>Thu Sep 13 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/0188(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0188(COD)&amp;l=en</link>
 		<title>Eurostars Joint
@@ -440,6 +430,16 @@ Programme: participation by the Community in a research
 and development programme aimed at supporting research and
 development performing SMEs undertaken by several Member
 States</title>
+		<lastpubdate>Thu Sep 13 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0186(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0186(COD)&amp;l=en</link>
+		<title>External borders: simplified regime for the
+control of persons, based on the unilateral recognition by the
+Member States of certain residence permits issued by Switzerland
+and Liechtenstein, for the purpose of transit through their
+territory</title>
 		<lastpubdate>Thu Sep 13 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -460,23 +460,17 @@ systems providing mobile satellite services MSS</title>
 		<lastpubdate>Thu Aug 30 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/0156(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0156(COD)&amp;l=en</link>
-		<title>Modernisation of European Enterprise and Trade
-Statistics, MEETS Programme 2009-2013</title>
-		<lastpubdate>Tue Aug 21 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/0163(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0163(COD)&amp;l=en</link>
-		<title>European Training Foundation. Recast</title>
-		<lastpubdate>Tue Aug 21 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/0162(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0162(COD)&amp;l=en</link>
 		<title>Motor vehicles and trailers: rear registration
 plate lamps (repeal. Directive 76/760/EEC). Codification</title>
+		<lastpubdate>Tue Aug 21 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0156(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0156(COD)&amp;l=en</link>
+		<title>Modernisation of European Enterprise and Trade
+Statistics, MEETS Programme 2009-2013</title>
 		<lastpubdate>Tue Aug 21 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -485,6 +479,12 @@ plate lamps (repeal. Directive 76/760/EEC). Codification</title>
 		<title>Electro-medical equipment used in veterinary
 medicine: approximation of the laws of the Member
 States (repeal. Directive 84/539/EEC)</title>
+		<lastpubdate>Tue Aug 21 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0163(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0163(COD)&amp;l=en</link>
+		<title>European Training Foundation. Recast</title>
 		<lastpubdate>Tue Aug 21 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -543,13 +543,6 @@ cooperation with third countries</title>
 		<lastpubdate>Mon Jul 16 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/0129(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0129(COD)&amp;l=en</link>
-		<title>Coordination of social security systems: amending
-the annexes to Regulation (EC) No 883/2004</title>
-		<lastpubdate>Wed Jul 04 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/0037B(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0037B(COD)&amp;l=en</link>
 		<title>Hygiene of foodstuffs</title>
@@ -561,6 +554,13 @@ the annexes to Regulation (EC) No 883/2004</title>
 		<title>Regulations governing political parties at
 European level and rules regarding their funding (amend. Regulation
 (EC) No 2004/2003)</title>
+		<lastpubdate>Wed Jul 04 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0129(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0129(COD)&amp;l=en</link>
+		<title>Coordination of social security systems: amending
+the annexes to Regulation (EC) No 883/2004</title>
 		<lastpubdate>Wed Jul 04 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -635,28 +635,26 @@ having a hormonal or thyreostatic action and of beta-agonists
 		<lastpubdate>Tue Jun 05 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/0098(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0098(COD)&amp;l=en</link>
-		<title>Road transport: conditions to be complied with to
-pursue the occupation of road transport operator (repeal. Directive
-96/26/EC)</title>
-		<lastpubdate>Thu May 24 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
-			<reference>2007/0099(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0099(COD)&amp;l=en</link>
-		<title>Road transport: access to the international road
-haulage market (repeal. Regulations (EEC) No 881/92 and (EEC) No
-3118/93 and Directive 2006/94/EC). Recast</title>
-		<lastpubdate>Thu May 24 00:00:00 CEST 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/0097(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0097(COD)&amp;l=en</link>
 		<title>Road transport: access to the international market
 for coach and bus services (repeal. Regulations (EEC) No 684/92 and
 (EC) No 12/98; amend. Regulation (EC) No 561/2006).
 Recast</title>
+		<lastpubdate>Thu May 24 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0099(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0099(COD)&amp;l=en</link>
+		<title>Access to the international road haulage market.
+Recast</title>
+		<lastpubdate>Thu May 24 00:00:00 CEST 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0098(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0098(COD)&amp;l=en</link>
+		<title>Road transport: conditions to be complied with to
+pursue the occupation of road transport operator</title>
 		<lastpubdate>Thu May 24 00:00:00 CEST 2007</lastpubdate>
 	</item>
 	<item>
@@ -722,21 +720,21 @@ job vacancies</title>
 		<lastpubdate>Wed Mar 14 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>
-			<reference>2007/0038(COD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0038(COD)&amp;l=en</link>
-		<title>European statistical system: common classification
-of territorial units for statistics NUTS by reason of
-the accession of Bulgaria and Romania (amend. Regulation (EC) No
-1059/2003)</title>
-		<lastpubdate>Wed Mar 14 00:00:00 CET 2007</lastpubdate>
-	</item>
-	<item>
 			<reference>2007/0036(COD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0036(COD)&amp;l=en</link>
 		<title>Environment: treating and disposing of batteries
 and accumulators, recycling waste equipments (amend. Directive
 2006/66/EC, as regards the implementing powers conferred on the
 Commission)</title>
+		<lastpubdate>Wed Mar 14 00:00:00 CET 2007</lastpubdate>
+	</item>
+	<item>
+			<reference>2007/0038(COD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2007/0038(COD)&amp;l=en</link>
+		<title>European statistical system: common classification
+of territorial units for statistics NUTS by reason of
+the accession of Bulgaria and Romania (amend. Regulation (EC) No
+1059/2003)</title>
 		<lastpubdate>Wed Mar 14 00:00:00 CET 2007</lastpubdate>
 	</item>
 	<item>

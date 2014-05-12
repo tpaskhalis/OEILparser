@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:56:07 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:12:39 CEST 2014</generatedOn>
 	<items count="19">
 	<item>
 			<reference>2010/2061(REG)</reference>
@@ -18,13 +18,6 @@ Parliament and the Commission</title>
 		<lastpubdate>Mon Dec 20 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2284(IMM)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2284(IMM)&amp;l=en</link>
-		<title>Request for the waiver of parliamentary immunity
-of Bruno Gollnisch</title>
-		<lastpubdate>Mon Nov 29 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2283(IMM)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2283(IMM)&amp;l=en</link>
 		<title>Request for the waiver of parliamentary immunity
@@ -36,6 +29,13 @@ of Elmar Brok</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2285(IMM)&amp;l=en</link>
 		<title>Request for the waiver of parliamentary immunity
 of Krisztina Morvai</title>
+		<lastpubdate>Mon Nov 29 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2284(IMM)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2284(IMM)&amp;l=en</link>
+		<title>Request for the waiver of parliamentary immunity
+of Bruno Gollnisch</title>
 		<lastpubdate>Mon Nov 29 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>

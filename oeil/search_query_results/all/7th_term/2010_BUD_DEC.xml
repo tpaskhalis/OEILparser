@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <procedureList>
-	<generatedOn>Tue Mar 18 21:55:41 CET 2014</generatedOn>
+	<generatedOn>Mon May 12 14:12:18 CEST 2014</generatedOn>
 	<items count="94">
 	<item>
 			<reference>2010/2293(BUD)</reference>
@@ -41,14 +41,6 @@ Poland</title>
 		<lastpubdate>Tue Nov 09 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2250(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2250(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the manufacture of natural stone
-products in Spain</title>
-		<lastpubdate>Mon Nov 08 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2252(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2252(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
@@ -61,6 +53,14 @@ Adjustment Fund: redundancies in retail trade in Spain</title>
 		<title>Mobilisation of the European Globalisation
 Adjustment Fund: redundancies in the textile sector in
 Spain</title>
+		<lastpubdate>Mon Nov 08 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2250(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2250(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in the manufacture of natural stone
+products in Spain</title>
 		<lastpubdate>Mon Nov 08 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
@@ -97,13 +97,6 @@ Slovenia</title>
 		<lastpubdate>Wed Oct 20 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2237(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2237(BUD)&amp;l=en</link>
-		<title>Mobilisation of the EU Solidarity Fund: flooding
-in Madeira, Portugal, and storm Xynthia in France in 2010</title>
-		<lastpubdate>Mon Oct 18 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2238(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2238(BUD)&amp;l=en</link>
 		<title>Amending budget 8/2010: mobilisation of the EU
@@ -120,24 +113,71 @@ machinery in Germany</title>
 		<lastpubdate>Mon Oct 18 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2237(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2237(BUD)&amp;l=en</link>
+		<title>Mobilisation of the EU Solidarity Fund: flooding
+in Madeira, Portugal, and storm Xynthia in France in 2010</title>
+		<lastpubdate>Mon Oct 18 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2226(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2226(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in the printing and publishing sector
+in the Netherlands (Drenthe)</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2225(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2225(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in the printing and publishing sector
+in the Netherlands (Noord Brabant and Zuid Holland)</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2228(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2228(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in the printing and publishing sector
+in the Netherlands (Gelderland and Overijssel)</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2229(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2229(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in the printing and publishing sector
+in the Netherlands (Noord Holland and Utrecht)</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2227(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2227(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in the printing and publishing sector
+in the Netherlands (Limburg)</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2166(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2166(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Centre for the
+Development of Vocational Training CEDEFOP</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2167(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2167(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Foundation for the
+Improvement of Living and Working Conditions EUROFOUND</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2168(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2168(DEC)&amp;l=en</link>
 		<title>2009 discharge: European Union Agency for
 Fundamental Rights FRA</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2187(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2187(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Joint Undertaking for
-ITER and the Development of Fusion Energy</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2169(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2169(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Monitoring Centre for
-Drugs and Drug Addiction EMCDDA</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -148,10 +188,24 @@ EEA</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2169(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2169(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Monitoring Centre for
+Drugs and Drug Addiction EMCDDA</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2172(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2172(DEC)&amp;l=en</link>
 		<title>2009 discharge: Translation Centre for the Bodies
 of the European Union CdT</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2171(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2171(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Agency for Safety and
+Health at Work EU-OSHA</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -162,10 +216,10 @@ Cooperation Unit EUROJUST</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2177(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2177(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Aviation Safety Agency
-EASA</title>
+			<reference>2010/2173(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2173(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Medicines Agency
+EMEA</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -176,10 +230,10 @@ EMSA</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2179(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2179(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Centre for Disease
-Prevention and Control ECDC</title>
+			<reference>2010/2175(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2175(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Training Foundation
+ETF</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -190,10 +244,24 @@ EFSA</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2183(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2183(DEC)&amp;l=en</link>
-		<title>2009 discharge: European GNSS Supervisory
-Authority GSA</title>
+			<reference>2010/2177(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2177(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Aviation Safety Agency
+EASA</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2180(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2180(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Railway Agency
+ERA</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2179(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2179(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Centre for Disease
+Prevention and Control ECDC</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -205,10 +273,10 @@ FRONTEX</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2185(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2185(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Chemicals Agency
-ECHA</title>
+			<reference>2010/2181(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2181(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Police College
+CEPOL</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -219,10 +287,10 @@ CFCA</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2188(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2188(DEC)&amp;l=en</link>
-		<title>2009 discharge: SESAR Joint Undertaking to develop
-the new generation European air traffic management system</title>
+			<reference>2010/2183(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2183(DEC)&amp;l=en</link>
+		<title>2009 discharge: European GNSS Supervisory
+Authority GSA</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -230,6 +298,27 @@ the new generation European air traffic management system</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2186(DEC)&amp;l=en</link>
 		<title>2009 discharge: Euratom Supply Agency
 ESA</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2185(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2185(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Chemicals Agency
+ECHA</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2188(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2188(DEC)&amp;l=en</link>
+		<title>2009 discharge: SESAR Joint Undertaking to develop
+the new generation European air traffic management system</title>
+		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2187(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2187(DEC)&amp;l=en</link>
+		<title>2009 discharge: European Joint Undertaking for
+ITER and the Development of Fusion Energy</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -263,100 +352,11 @@ Medicines</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2229(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2229(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the printing and publishing sector
-in the Netherlands (Noord Holland and Utrecht)</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2173(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2173(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Medicines Agency
-EMEA</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2181(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2181(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Police College
-CEPOL</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2180(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2180(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Railway Agency
-ERA</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2225(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2225(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the printing and publishing sector
-in the Netherlands (Noord Brabant and Zuid Holland)</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2227(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2227(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the printing and publishing sector
-in the Netherlands (Limburg)</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2226(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2226(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the printing and publishing sector
-in the Netherlands (Drenthe)</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2228(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2228(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the printing and publishing sector
-in the Netherlands (Gelderland and Overijssel)</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2230(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2230(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
 Adjustment Fund: redundancies in the printing and publishing sector
 in the Netherlands (Noord Holland and Zuid Holland)</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2166(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2166(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Centre for the
-Development of Vocational Training CEDEFOP</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2171(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2171(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Agency for Safety and
-Health at Work EU-OSHA</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2167(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2167(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Foundation for the
-Improvement of Living and Working Conditions EUROFOUND</title>
-		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2175(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2175(DEC)&amp;l=en</link>
-		<title>2009 discharge: European Training Foundation
-ETF</title>
 		<lastpubdate>Tue Oct 05 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -421,6 +421,20 @@ Netherlands</title>
 		<lastpubdate>Thu Sep 02 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/2142(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2142(DEC)&amp;l=en</link>
+		<title>2009 discharge: EU general budget, Section III,
+Commission</title>
+		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2144(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2144(DEC)&amp;l=en</link>
+		<title>2009 discharge: EU general budget,
+Council</title>
+		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2143(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2143(DEC)&amp;l=en</link>
 		<title>2009 discharge: EU general budget, European
@@ -432,13 +446,6 @@ Parliament</title>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2145(DEC)&amp;l=en</link>
 		<title>2009 discharge: EU general budget, Court of
 Justice</title>
-		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2144(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2144(DEC)&amp;l=en</link>
-		<title>2009 discharge: EU general budget,
-Council</title>
 		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -470,24 +477,17 @@ Protection Supervisor</title>
 		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2151(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2151(DEC)&amp;l=en</link>
-		<title>2009 discharge: Eighth, Ninth and Tenth European
-Development Funds EDF</title>
-		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2142(DEC)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2142(DEC)&amp;l=en</link>
-		<title>2009 discharge: EU general budget, Section III,
-Commission</title>
-		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2149(DEC)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2149(DEC)&amp;l=en</link>
 		<title>2009 discharge: EU general budget, European
 Ombudsman</title>
+		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2151(DEC)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2151(DEC)&amp;l=en</link>
+		<title>2009 discharge: Eighth, Ninth and Tenth European
+Development Funds EDF</title>
 		<lastpubdate>Wed Sep 01 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -498,18 +498,18 @@ Adjustment Fund: redundancies in textiles sector in Spain</title>
 		<lastpubdate>Mon Aug 23 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2133(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2133(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in machinery sector (Linak) in
-Denmark</title>
-		<lastpubdate>Thu Aug 19 00:00:00 CEST 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2134(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2134(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
 Adjustment Fund: redundancies in machinery sector (Danfoss) in
+Denmark</title>
+		<lastpubdate>Thu Aug 19 00:00:00 CEST 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2133(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2133(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in machinery sector (Linak) in
 Denmark</title>
 		<lastpubdate>Thu Aug 19 00:00:00 CEST 2010</lastpubdate>
 	</item>
@@ -547,11 +547,11 @@ Netherlands in 2010</title>
 		<lastpubdate>Thu Jun 17 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2066(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2066(BUD)&amp;l=en</link>
+			<reference>2010/2068(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2068(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the ceramics industry in
-Spain</title>
+Adjustment Fund: redundancies in the manufacturing of wooden
+products in Spain</title>
 		<lastpubdate>Mon May 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -563,11 +563,11 @@ Ireland</title>
 		<lastpubdate>Mon May 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2068(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2068(BUD)&amp;l=en</link>
+			<reference>2010/2066(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2066(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in the manufacturing of wooden
-products in Spain</title>
+Adjustment Fund: redundancies in the ceramics industry in
+Spain</title>
 		<lastpubdate>Mon May 10 00:00:00 CEST 2010</lastpubdate>
 	</item>
 	<item>
@@ -639,14 +639,6 @@ Lithuania</title>
 		<lastpubdate>Mon Feb 22 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/0005(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0005(BUD)&amp;l=en</link>
-		<title>Mobilisation of the European Globalisation
-Adjustment Fund: redundancies in automotive manufacturing industry
-in Germany</title>
-		<lastpubdate>Wed Jan 27 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/0002(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0002(BUD)&amp;l=en</link>
 		<title>Mobilisation of the European Globalisation
@@ -663,11 +655,32 @@ Lithuania</title>
 		<lastpubdate>Wed Jan 27 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
+			<reference>2010/0005(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/0005(BUD)&amp;l=en</link>
+		<title>Mobilisation of the European Globalisation
+Adjustment Fund: redundancies in automotive manufacturing industry
+in Germany</title>
+		<lastpubdate>Wed Jan 27 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
 			<reference>2010/2014(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2014(BUD)&amp;l=en</link>
 		<title>Amending budget 1/2010: other sections, European
 Parliament, estimates of revenue and expenditure</title>
 		<lastpubdate>Mon Jan 25 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2003(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2003(BUD)&amp;l=en</link>
+		<title>2011 budget, other sections: guidelines</title>
+		<lastpubdate>Fri Jan 08 00:00:00 CET 2010</lastpubdate>
+	</item>
+	<item>
+			<reference>2010/2002(BUD)</reference>
+		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2002(BUD)&amp;l=en</link>
+		<title>2011 budget: draft mandate for the draft budget
+conciliation procedure before the first reading</title>
+		<lastpubdate>Fri Jan 08 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
 			<reference>2010/2005(BUD)</reference>
@@ -684,23 +697,10 @@ budget</title>
 		<lastpubdate>Fri Jan 08 00:00:00 CET 2010</lastpubdate>
 	</item>
 	<item>
-			<reference>2010/2002(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2002(BUD)&amp;l=en</link>
-		<title>2011 budget: draft mandate for the draft budget
-conciliation procedure before the first reading</title>
-		<lastpubdate>Fri Jan 08 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
 			<reference>2010/2004(BUD)</reference>
 		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2004(BUD)&amp;l=en</link>
 		<title>2011 budget, section III, Commission:
 guidelines</title>
-		<lastpubdate>Fri Jan 08 00:00:00 CET 2010</lastpubdate>
-	</item>
-	<item>
-			<reference>2010/2003(BUD)</reference>
-		<link>http://www.europarl.europa.eu/oeil//popups/ficheprocedure.do?reference=2010/2003(BUD)&amp;l=en</link>
-		<title>2011 budget, other sections: guidelines</title>
 		<lastpubdate>Fri Jan 08 00:00:00 CET 2010</lastpubdate>
 	</item>
 	</items>
