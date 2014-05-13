@@ -12,7 +12,7 @@ def parse_urls(inputxml_path, outputcsv_path):
     with open(inputxml_path, "r") as f:
         xmltext = f.read()
         soup = bs4.BeautifulSoup(xmltext, "xml")
-        items = soup.findAll('item')
+        items = soup.findall('item')
         if os.path.isfile(outputcsv_path) and os.path.getsize(outputcsv_path) > 0:
             urllist = open(outputcsv_path, "a")
         else:
@@ -23,7 +23,7 @@ def parse_urls(inputxml_path, outputcsv_path):
             csvwriter.writerow([url])
         urllist.close()
 
-#The OEIL database is not perfect, thus there can be some duplicates after parsing 
+#The oeil database is not perfect, thus there can be some duplicates after parsing 
 #several xml files. This function removes duplicates by converting list of urls 
 #into dictionary, using a procedure reference code as a key.
 def remove_duplicates(inputcsv_path, outputcsv_path):
@@ -37,7 +37,7 @@ def remove_duplicates(inputcsv_path, outputcsv_path):
             csvwriter.writerow([value])
 
 #This function parses documentation gateway at the bottom of a page and is called 
-#from parse_info. First for 'All' documents and in case this tab is missing from 
+#from parse_info. First for 'all' documents and in case this tab is missing from 
 #'European Parliament' tab. 
 def parse_doc_gateway(table_doc_gateway):
     adopteddate = [u'NA']
@@ -151,9 +151,9 @@ def parse_info(inputcsv_path, outputcsv_path):
                 commissioner = commissionrow.find('td','players_rapporter_com').find('p','players_content')
                 commissioner = commissioner.contents
         
-        for table in soup.findAll('table', id='doc_gateway'):
+        for table in soup.findall('table', id='doc_gateway'):
             for sibling in table.findPreviousSiblings():
-                if sibling.text == u'All':
+                if sibling.text == u'all':
                     doc = parse_doc_gateway(table)
                     break
                 elif sibling.text == u'European Parliament':
@@ -161,7 +161,7 @@ def parse_info(inputcsv_path, outputcsv_path):
                         
         table = soup.find('table', id='technicalInformations')
         techreference = table.find('td', 'column_center')
-        tech = table.findAll('td', 'column_center column_top')
+        tech = table.findall('td', 'column_center column_top')
         tech = [t.contents[0] for t in tech]
         
         csvwriter.writerow(reference + title + [url] + acronym 
@@ -186,12 +186,12 @@ def parse_text(inputcsv_path, outputfolder):
         procedurefile = procedure[2] + u'_' + procedure[0] + u'-' + procedure[1]
         
         content = soup.find('tr', 'contents')
-        paragraphs = content.findAll('p')
+        paragraphs = content.findall('p')
         pattern = re.compile(r'^[A-Z0-9]{1,3}\.\s{1,2}', re.UNICODE)
         paragraphs = [p.text for p in paragraphs if p.text and re.match(pattern, p.text)]
         splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
         paragraphs = [re.split(splitpattern, p) for p in paragraphs]
-        clearpattern = re.compile(r'^[\s\n\t\"]*|[\s\n\t\"]*$', re.UNICODE)
+        clearpattern = re.compile(r'^[\s\n\t\"]*|[\s\n\t\"]*$|[\n\t]', re.UNICODE)
         for p in paragraphs:
             p[1] = re.sub(clearpattern, u'', p[1])
         with open(os.path.join(outputfolder, procedurefile + u'.tsv'), 'w') as f:
@@ -200,17 +200,33 @@ def parse_text(inputcsv_path, outputfolder):
                 csvwriter.writerow(p)
         time.sleep(1)
 
-#for f in os.listdir('./OEIL/search_query_results/INI/'):
-#    parse_urls('./OEIL/search_query_results/INI/' + f, './OEIL/urls.csv')
-#remove_duplicates('./OEIL/urls.csv', './OEIL/urls.csv')
-#parse_info("./OEIL/urls.csv", "./OEIL/info.csv")
-#parse_info("./OEIL/urls.csv", "./OEIL/info2.csv")
-#parse_text('./OEIL/info.csv', './OEIL/text')
-#parse_text('./OEIL/inl_info.csv', './OEIL/text')
+for f in os.listdir('./oeil/search_query_results/ini/6th_term/'):
+    parse_urls('./oeil/search_query_results/ini/6th_term/' + f, './oeil/urlsini6.csv')
+for f in os.listdir('./oeil/search_query_results/ini/7th_term/'):
+    parse_urls('./oeil/search_query_results/ini/7th_term/' + f, './oeil/urlsini7.csv')
+remove_duplicates('./oeil/urlsini6.csv', './oeil/urlsini6.csv')
+remove_duplicates('./oeil/urlsini7.csv', './oeil/urlsini7.csv')
+parse_info('./oeil/urlsini6.csv', './oeil/metadataini6.csv')
+parse_info('./oeil/urlsini7.csv', './oeil/metadataini7.csv')
 
-#for f in os.listdir('./OEIL/search_query_results/all/6th_term/'):
-#    parse_urls('./OEIL/search_query_results/all/6th_term/' + f, './OEIL/all_urls.csv')
-#for f in os.listdir('./OEIL/search_query_results/all/7th_term/'):
-#    parse_urls('./OEIL/search_query_results/all/7th_term/' + f, './OEIL/all_urls.csv')
-#remove_duplicates('./OEIL/all_urls.csv', './OEIL/all_urls.csv')
-#parse_info('./OEIL/all_urls.csv', './OEIL/all_info.csv')
+#for f in os.listdir('./oeil/search_query_results/ini/'):
+#    parse_urls('./oeil/search_query_results/ini/' + f, './oeil/urlsini.csv')
+#remove_duplicates('./oeil/urlsini.csv', './oeil/urlsini.csv')
+#parse_info("./oeil/urlsini.csv", "./oeil/metadataini.csv")
+#parse_text('./oeil/metadataini.csv', './oeil/text')
+
+#for f in os.listdir('./oeil/search_query_results/all/6th_term/'):
+#    parse_urls('./oeil/search_query_results/all/6th_term/' + f, './oeil/urls6.csv')
+#for f in os.listdir('./oeil/search_query_results/all/7th_term/'):
+#    parse_urls('./oeil/search_query_results/all/7th_term/' + f, './oeil/urls7.csv')
+#remove_duplicates('./oeil/urls6.csv', './oeil/urls6.csv')
+#remove_duplicates('./oeil/urls7.csv', './oeil/urls7.csv')
+#parse_info('./oeil/urls6.csv', './oeil/metadata6.csv')
+#parse_info('./oeil/urls7.csv', './oeil/metadata7.csv')
+
+#for f in os.listdir('./oeil/search_query_results/all/6th_term/'):
+#    parse_urls('./oeil/search_query_results/all/6th_term/' + f, './oeil/urls67.csv')
+#for f in os.listdir('./oeil/search_query_results/all/7th_term/'):
+#    parse_urls('./oeil/search_query_results/all/7th_term/' + f, './oeil/urls67.csv')
+#remove_duplicates('./oeil/urls67.csv', './oeil/urls67.csv')
+#parse_info('./oeil/urls67.csv', './oeil/metadata67.csv')
