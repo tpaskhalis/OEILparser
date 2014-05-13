@@ -38,3 +38,6 @@ nosetests.xml
 # Datafiles
 .csv
 .tsv
+
+# Text analysis
+analysis.py
