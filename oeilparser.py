@@ -12,7 +12,7 @@ def parse_urls(inputxml_path, outputcsv_path):
     with open(inputxml_path, "r") as f:
         xmltext = f.read()
         soup = bs4.BeautifulSoup(xmltext, "xml")
-        items = soup.findall('item')
+        items = soup.findAll('item')
         if os.path.isfile(outputcsv_path) and os.path.getsize(outputcsv_path) > 0:
             urllist = open(outputcsv_path, "a")
         else:
@@ -151,7 +151,7 @@ def parse_info(inputcsv_path, outputcsv_path):
                 commissioner = commissionrow.find('td','players_rapporter_com').find('p','players_content')
                 commissioner = commissioner.contents
         
-        for table in soup.findall('table', id='doc_gateway'):
+        for table in soup.findAll('table', id='doc_gateway'):
             for sibling in table.findPreviousSiblings():
                 if sibling.text == u'all':
                     doc = parse_doc_gateway(table)
@@ -161,7 +161,7 @@ def parse_info(inputcsv_path, outputcsv_path):
                         
         table = soup.find('table', id='technicalInformations')
         techreference = table.find('td', 'column_center')
-        tech = table.findall('td', 'column_center column_top')
+        tech = table.findAll('td', 'column_center column_top')
         tech = [t.contents[0] for t in tech]
         
         csvwriter.writerow(reference + title + [url] + acronym 
@@ -186,7 +186,7 @@ def parse_text(inputcsv_path, outputfolder):
         procedurefile = procedure[2] + u'_' + procedure[0] + u'-' + procedure[1]
         
         content = soup.find('tr', 'contents')
-        paragraphs = content.findall('p')
+        paragraphs = content.findAll('p')
         pattern = re.compile(r'^[A-Z0-9]{1,3}\.\s{1,2}', re.UNICODE)
         paragraphs = [p.text for p in paragraphs if p.text and re.match(pattern, p.text)]
         splitpattern = re.compile(r'\.\s{1,2}', re.UNICODE)
@@ -200,20 +200,23 @@ def parse_text(inputcsv_path, outputfolder):
                 csvwriter.writerow(p)
         time.sleep(1)
 
-for f in os.listdir('./oeil/search_query_results/ini/6th_term/'):
-    parse_urls('./oeil/search_query_results/ini/6th_term/' + f, './oeil/urlsini6.csv')
-for f in os.listdir('./oeil/search_query_results/ini/7th_term/'):
-    parse_urls('./oeil/search_query_results/ini/7th_term/' + f, './oeil/urlsini7.csv')
-remove_duplicates('./oeil/urlsini6.csv', './oeil/urlsini6.csv')
-remove_duplicates('./oeil/urlsini7.csv', './oeil/urlsini7.csv')
-parse_info('./oeil/urlsini6.csv', './oeil/metadataini6.csv')
-parse_info('./oeil/urlsini7.csv', './oeil/metadataini7.csv')
+#for f in os.listdir('./oeil/search_query_results/ini/6th_term/'):
+#    parse_urls('./oeil/search_query_results/ini/6th_term/' + f, './oeil/urlsini6.csv')
+#for f in os.listdir('./oeil/search_query_results/ini/7th_term/'):
+#    parse_urls('./oeil/search_query_results/ini/7th_term/' + f, './oeil/urlsini7.csv')
+#remove_duplicates('./oeil/urlsini6.csv', './oeil/urlsini6.csv')
+#remove_duplicates('./oeil/urlsini7.csv', './oeil/urlsini7.csv')
+#parse_info('./oeil/urlsini6.csv', './oeil/metadataini6.csv')
+#parse_info('./oeil/urlsini7.csv', './oeil/metadataini7.csv')
 
 #for f in os.listdir('./oeil/search_query_results/ini/'):
-#    parse_urls('./oeil/search_query_results/ini/' + f, './oeil/urlsini.csv')
-#remove_duplicates('./oeil/urlsini.csv', './oeil/urlsini.csv')
-#parse_info("./oeil/urlsini.csv", "./oeil/metadataini.csv")
-#parse_text('./oeil/metadataini.csv', './oeil/text')
+#    parse_urls('./oeil/search_query_results/ini/' + f, './oeil/urlsini67.csv')
+#remove_duplicates('./oeil/urlsini67.csv', './oeil/urlsini67.csv')
+#parse_info("./oeil/urlsini67.csv", "./oeil/metadataini67.csv")
+
+#parse_text('./oeil/metadataini6.csv', './oeil/text6')
+#parse_text('./oeil/metadataini7.csv', './oeil/text7')
+#parse_text('./oeil/metadataini67.csv', './oeil/text67')
 
 #for f in os.listdir('./oeil/search_query_results/all/6th_term/'):
 #    parse_urls('./oeil/search_query_results/all/6th_term/' + f, './oeil/urls6.csv')
