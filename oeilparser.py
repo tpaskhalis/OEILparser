@@ -91,14 +91,22 @@ def parse_doc_gateway(table_doc_gateway):
                 continue
     return draftdate + reportdate + adopteddate + adoptedcode + adoptedlink + summaryurl + commissiondate + commissioncode + commissionurl
 
+#This is the main function for parsing a list of urls of EP documents. 
+#It parses almost any kind of document, introducing NA in case the information is missing.
+#It allows several(up to 5 rapporteurs per document) and up to 2 commission responses.
+#There might be some issues with shifting columns in technical information.
 def parse_info(inputcsv_path, outputcsv_path):
     urllist = open(inputcsv_path, "r")
     infolist = open(outputcsv_path, "w")
     csvwriter = csv.writer(infolist)
-    csvwriter.writerow(['Code','Title', 'Link', 'CommitteeAbr', 
-                        'CommitteeFull', 'Rapporteur PartyAbr', 'Rapporteur PartyFull',
-                        'Rapporteur', 'Commission DG', 'Commissioner',
-                        'Date Committee Draft Report', 'Date Committee Draft Report2', 'Date Committee report tabled for plenary',
+    csvwriter.writerow(['Code','Title', 'Link', 'CommitteeAbr', 'CommitteeFull',
+                        'RapPartyAbr1', 'RapPartyAbr2', 'RapPartyAbr3', 'RapPartyAbr4', 'RapPartyAbr5',
+                        'RapPartyFull1', 'RapPartyFull2', 'RapPartyFull3', 'RapPartyFull4', 'RapPartyFull5',
+                        'Rapporteur1', 'Rapporteur2', 'Rapporteur3', 'Rapporteur4', 'Rapporteur5',
+                        'RapporteurID1', 'RapporteurID2', 'RapporteurID3', 'RapporteurID4', 'RapporteurID5',
+                        'RapporteurDate1', 'RapporteurDate2', 'RapporteurDate3', 'RapporteurDate4', 'RapporteurDate5',
+                        'Commission DG', 'Commissioner', 'Date Committee Draft Report', 'Date Committee Draft Report2', 
+                        'Date Committee report tabled for plenary',
                         'Date Text adopted by Parliament', 'Code Text adopted by Parliament',
                         'Link Text adopted by Parliament', 'Link Summary', 'Date Commission response',
                         'Date Commission response2','Code Commission response', 'Code Commission response2',
@@ -111,9 +119,11 @@ def parse_info(inputcsv_path, outputcsv_path):
         title = [u'NA']
         acronym = [u'NA']
         committee = [u'NA']
-        group = [u'NA']
-        grouptitle = [u'NA']
-        rapporteur = [u'NA']
+        group = 5 * [u'NA']
+        grouptitle = 5 * [u'NA']
+        rapporteur = 5 * [u'NA']
+        rapporteurid = 5 * [u'NA']
+        appointeddate = 5 * [u'NA']
         commission = [u'NA']
         commissioner = [u'NA']
         doc = 13 * [u'NA']
@@ -125,22 +135,40 @@ def parse_info(inputcsv_path, outputcsv_path):
         title = table.find('p', 'basic_title').contents
         
         table = soup.find('table', id='key_players')
-        if table.find('acronym', 'acronym_nohelp'):
+        if table.table.find('acronym', 'acronym_nohelp'):
             acronym = table.find('acronym', 'acronym_nohelp').contents
-        if table.find('span', 'players_committee_text'):
+        if table.table.find('span', 'players_committee_text'):
             committee = table.find('span', 'players_committee_text')
             committee = [next(committee.stripped_strings)]
-        if table.find('span', 'tiptip'):
-            group = table.find('span', 'tiptip')
-            grouptitle = [unicode(group['title'])]
-            if not group.string:
-                group = [u'NA']
-            else:
-                group = group.contents
-        else:
-            group, grouptitle = [u'NA'], [u'NA']
-        if table.find('span', 'players_rapporter_text'):
-            rapporteur = [table.find('span', 'players_rapporter_text').string]
+        if table.table.find('td', 'players_rapporter_com'):
+            tds = table.table.findAll('td', 'players_rapporter_com')
+            tds = [i for i in tds if i.p and i.p.span]
+            if tds:
+                players = tds[0].findAll('p')
+                strings = [i.text for i in players]
+                shadow = [re.match(r'Shadow rapporteur', i) for i in strings]
+                shadow = [i for i in shadow if i]
+                if shadow:
+                    shadowindex = strings.index(u'Shadow rapporteur')
+                    players = players[:shadowindex]
+                for i in xrange(len(players)):
+                    grouptitle[i] = unicode(players[i].span['title'])
+                if not players[0].span.text:
+                    pass
+                else:
+                    for i in xrange(len(players)):
+                        group[i] = players[i].span.text
+                if group:
+                    for i in xrange(len(players)):
+                        rapporteur[i] = players[i].span.findNextSibling().text
+                        rapporteurid[i] = re.findall(r'[0-9]{1,10}', players[i].span.findNextSibling().a['href'])[0]
+    
+        if table.table.find('td', 'players_appointed'):
+            playersdate = table.table.findAll('td', 'players_appointed')
+            playersdate = re.split(r'\n', table.table.findAll('td', 'players_appointed')[1].text)
+            playersdate = [i for i in playersdate if i]
+            for i in xrange(len(playersdate)):
+                appointeddate[i] = playersdate[i]
 
         if table.find(title='European Commission'):
             commissioncell = table.find(title='European Commission')
@@ -163,16 +191,21 @@ def parse_info(inputcsv_path, outputcsv_path):
         techreference = table.find('td', 'column_center')
         tech = table.findAll('td', 'column_center column_top')
         tech = [t.contents[0] for t in tech]
+        tech = [re.sub(r'\n', '', t) for t in tech]
+        tech = [t for t in tech if t]
         
         csvwriter.writerow(reference + title + [url] + acronym 
                             + committee + group + grouptitle
-                            + rapporteur + commission + commissioner
+                            + rapporteur + rapporteurid + appointeddate 
+                            + commission + commissioner
                             + doc + techreference.contents + tech)
         url = urllist.readline()[:-2]
         time.sleep(1)
     urllist.close()
     infolist.close()
 
+#This function parses paragraphs from the online HTML-version INI files and 
+#writes them to separate tsv files in a specified folder  
 def parse_text(inputcsv_path, outputfolder):
     with open(inputcsv_path, 'r') as f:
         urllist = [url[15] for url in csv.reader(f, delimiter=',')]
@@ -200,36 +233,79 @@ def parse_text(inputcsv_path, outputfolder):
                 csvwriter.writerow(p)
         time.sleep(1)
 
+
+##Parse all INIs for two(6, 7) parliamentary terms separately
 #for f in os.listdir('./oeil/search_query_results/ini/6th_term/'):
-#    parse_urls('./oeil/search_query_results/ini/6th_term/' + f, './oeil/urlsini6.csv')
+#    parse_urls(os.path.join('./oeil/search_query_results/ini/6th_term/', f), './oeil/urlsini6.csv')
 #for f in os.listdir('./oeil/search_query_results/ini/7th_term/'):
-#    parse_urls('./oeil/search_query_results/ini/7th_term/' + f, './oeil/urlsini7.csv')
+#    parse_urls(os.path.join('./oeil/search_query_results/ini/7th_term/', f), './oeil/urlsini7.csv')
 #remove_duplicates('./oeil/urlsini6.csv', './oeil/urlsini6.csv')
 #remove_duplicates('./oeil/urlsini7.csv', './oeil/urlsini7.csv')
 #parse_info('./oeil/urlsini6.csv', './oeil/metadataini6.csv')
 #parse_info('./oeil/urlsini7.csv', './oeil/metadataini7.csv')
-
-#for f in os.listdir('./oeil/search_query_results/ini/'):
-#    parse_urls('./oeil/search_query_results/ini/' + f, './oeil/urlsini67.csv')
+#
+##Parse all INIs for two(6, 7) parliamentary terms together
+#for root, subFolders, files in os.walk('./oeil/search_query_results/ini/'):
+#    for f in files:
+#        parse_urls(os.path.join(root, f), './oeil/urlsini67.csv')
 #remove_duplicates('./oeil/urlsini67.csv', './oeil/urlsini67.csv')
 #parse_info("./oeil/urlsini67.csv", "./oeil/metadataini67.csv")
-
+#
+##Parse INIs paragraphs
 #parse_text('./oeil/metadataini6.csv', './oeil/text6')
 #parse_text('./oeil/metadataini7.csv', './oeil/text7')
 #parse_text('./oeil/metadataini67.csv', './oeil/text67')
 
+
+##Parse all CODs for two(6, 7) parliamentary terms separately
+#for f in os.listdir('./oeil/search_query_results/cod/6th_term/'):
+#    parse_urls(os.path.join('./oeil/search_query_results/cod/6th_term/', f), './oeil/urlscod6.csv')
+#for f in os.listdir('./oeil/search_query_results/cod/7th_term/'):
+#    parse_urls(os.path.join('./oeil/search_query_results/cod/7th_term/', f), './oeil/urlscod7.csv')
+#remove_duplicates('./oeil/urlscod6.csv', './oeil/urlscod6.csv')
+#remove_duplicates('./oeil/urlscod7.csv', './oeil/urlscod7.csv')
+#parse_info('./oeil/urlscod6.csv', './oeil/metadatacod6.csv')
+#parse_info('./oeil/urlscod7.csv', './oeil/metadatacod7.csv')
+#
+##Parse all CODs for two(6, 7) parliamentary terms together
+#for root, subFolders, files in os.walk('./oeil/search_query_results/cod/'):
+#    for f in files:
+#        parse_urls(os.path.join(root, f), './oeil/urlscod67.csv')
+#remove_duplicates('./oeil/urlscod67.csv', './oeil/urlscod67.csv')
+#parse_info("./oeil/urlscod67.csv", "./oeil/metadatacod67.csv")
+
+
+##Parse all INLs for two(6, 7) parliamentary terms separately
+#for f in os.listdir('./oeil/search_query_results/inl/6th_term/'):
+#    parse_urls(os.path.join('./oeil/search_query_results/inl/6th_term/', f), './oeil/urlsinl6.csv')
+#for f in os.listdir('./oeil/search_query_results/inl/7th_term/'):
+#    parse_urls(os.path.join('./oeil/search_query_results/inl/7th_term/', f), './oeil/urlsinl7.csv')
+#remove_duplicates('./oeil/urlsinl6.csv', './oeil/urlsinl6.csv')
+#remove_duplicates('./oeil/urlsinl7.csv', './oeil/urlsinl7.csv')
+#parse_info('./oeil/urlsinl6.csv', './oeil/metadatainl6.csv')
+#parse_info('./oeil/urlsinl7.csv', './oeil/metadatainl7.csv')
+#
+##Parse all INLs for two(6, 7) parliamentary terms together
+#for root, subFolders, files in os.walk('./oeil/search_query_results/inl/'):
+#    for f in files:
+#        parse_urls(os.path.join(root, f), './oeil/urlsinl67.csv')
+#remove_duplicates('./oeil/urlsinl67.csv', './oeil/urlsinl67.csv')
+#parse_info("./oeil/urlsinl67.csv", "./oeil/metadatainl67.csv")
+
+
+##Parse all documents for two(6, 7) parliamentary terms separately
 #for f in os.listdir('./oeil/search_query_results/all/6th_term/'):
-#    parse_urls('./oeil/search_query_results/all/6th_term/' + f, './oeil/urls6.csv')
+#    parse_urls(os.path.join('./oeil/search_query_results/all/6th_term/', f), './oeil/urls6.csv')
 #for f in os.listdir('./oeil/search_query_results/all/7th_term/'):
-#    parse_urls('./oeil/search_query_results/all/7th_term/' + f, './oeil/urls7.csv')
+#    parse_urls(os.path.join('./oeil/search_query_results/all/7th_term/', f), './oeil/urls7.csv')
 #remove_duplicates('./oeil/urls6.csv', './oeil/urls6.csv')
 #remove_duplicates('./oeil/urls7.csv', './oeil/urls7.csv')
 #parse_info('./oeil/urls6.csv', './oeil/metadata6.csv')
 #parse_info('./oeil/urls7.csv', './oeil/metadata7.csv')
-
-#for f in os.listdir('./oeil/search_query_results/all/6th_term/'):
-#    parse_urls('./oeil/search_query_results/all/6th_term/' + f, './oeil/urls67.csv')
-#for f in os.listdir('./oeil/search_query_results/all/7th_term/'):
-#    parse_urls('./oeil/search_query_results/all/7th_term/' + f, './oeil/urls67.csv')
+#
+##Parse all the documents for two(6, 7) parliamentary terms together 
+#for root, subFolders, files in os.walk('./oeil/search_query_results/all/'):
+#    for f in files:
+#        parse_urls(os.path.join(root, f), './oeil/urls67.csv')
 #remove_duplicates('./oeil/urls67.csv', './oeil/urls67.csv')
 #parse_info('./oeil/urls67.csv', './oeil/metadata67.csv')
